@@ -1,0 +1,2605 @@
+,Country,Model,Price,Km,Year,Power_Hd,Fuel,Gearbox,CO2,Consumption
+0,FR,MINI One,12890.0,106402 ,2018,- hp,Diesel,Manual,- (,- (
+1,FR,MINI Cooper,13950.0,106245 ,2014,114 hp,Diesel,Manual,129 ,- (
+2,FR,MINI One,14490.0,75153 ,2018,- hp,Gasoline,Manual,- (,- (
+3,FR,MINI Cooper,15390.0,57294 ,2015,136 hp,Gasoline,Manual,109 ,4.7 
+4,FR,MINI One,15499.0,59273 ,2018,97 hp,Diesel,Manual,97 ,- (
+5,FR,MINI One,15990.0,16779 ,2019,- hp,Gasoline,Manual,122 ,- (
+6,FR,MINI Cooper,16490.0,29000 ,2016,136 hp,Gasoline,Manual,105 ,- (
+7,FR,MINI Cooper,16990.0,24580 ,2016,- hp,Gasoline,Manual,- (,- (
+8,FR,MINI One,17490.0,39000 ,2019,95 hp,Diesel,Manual,99 ,3.8 
+9,FR,MINI Cooper,17500.0,87798 ,2018,- hp,Diesel,Manual,- (,- (
+10,FR,MINI Cooper,17800.0,34500 ,2016,137 hp,Gasoline,Automatic,109 ,- (
+11,FR,MINI Cooper,17999.0,72922 ,2015,- hp,Gasoline,Automatic,- (,- (
+12,FR,MINI Cooper,18490.0,96451 ,2018,- hp,Gasoline,Automatic,- (,- (
+13,FR,MINI Cooper,18499.0,30313 ,2015,114 hp,Diesel,Manual,105 ,- (
+14,FR,MINI One,19499.0,47261 ,2017,103 hp,Gasoline,Manual,116 ,- (
+15,FR,MINI Cooper,19675.0,97294 ,2016,- hp,Gasoline,Automatic,- (,- (
+16,FR,MINI John Cooper Works,19890.0,81435 ,2019,- hp,Gasoline,Manual,- (,- (
+17,FR,MINI Cooper,19890.0,64324 ,2017,- hp,Gasoline,Automatic,114 ,- (
+18,FR,MINI One,19890.0,39185 ,2018,- hp,Gasoline,Manual,- (,- (
+19,FR,MINI Cooper,19990.0,29894 ,2017,- hp,Diesel,Manual,- (,- (
+20,FR,MINI Cooper,20399.0,58172 ,2018,- hp,Gasoline,Manual,- (,- (
+21,FR,MINI One,20490.0,39921 ,2018,- hp,Gasoline,Automatic,- (,- (
+22,FR,MINI Cooper,20499.0,65940 ,2017,194 hp,Gasoline,Manual,139 ,- (
+23,FR,MINI Cooper,20990.0,58851 ,2018,- hp,Gasoline,Manual,- (,- (
+24,FR,MINI Cooper,20999.0,85095 ,2016,194 hp,Gasoline,Automatic,125 ,- (
+25,FR,MINI One,21199.0,22495 ,2019,- hp,Gasoline,Manual,- (,- (
+26,FR,MINI One,21999.0,30673 ,2019,- hp,Gasoline,Automatic,- (,- (
+27,FR,MINI Cooper,22399.0,31006 ,2018,- hp,Diesel,Manual,- (,- (
+28,FR,MINI Cooper,22490.0,55050 ,2019,- hp,Diesel,Automatic,- (,- (
+29,FR,MINI Cooper,22900.0,74788 ,2018,- hp,Diesel,Automatic,- (,- (
+30,FR,MINI John Cooper Works,22990.0,73944 ,2016,231 hp,Gasoline,Automatic,150 ,6.6 
+31,FR,MINI Cooper,22990.0,17000 ,2019,- hp,Gasoline,Automatic,- (,- (
+32,FR,MINI John Cooper Works,23690.0,16800 ,2018,102 hp,Gasoline,Manual,145 ,5 
+33,FR,MINI Cooper,23890.0,73752 ,2018,- hp,Gasoline,Manual,- (,- (
+34,FR,MINI Cooper,23900.0,32400 ,2020,136 hp,Gasoline,Automatic,109 ,4.8 
+35,FR,MINI One,23990.0,2427 ,2020,- hp,Gasoline,Manual,- (,- (
+36,FR,MINI Cooper,24299.0,14463 ,2019,- hp,Gasoline,Automatic,- (,- (
+37,FR,MINI Cooper,24990.0,21362 ,2020,- hp,Gasoline,Automatic,- (,- (
+38,FR,MINI One,24999.0,33608 ,2018,118 hp,Diesel,Manual,119 ,- (
+39,FR,MINI John Cooper Works,25990.0,81711 ,2018,- hp,Gasoline,Automatic,- (,- (
+40,FR,MINI John Cooper Works,26490.0,19061 ,2018,- hp,Gasoline,Manual,- (,- (
+41,FR,MINI Cooper,26900.0,89307 ,2018,- hp,Diesel,Automatic,- (,- (
+42,FR,MINI Cooper,26990.0,52858 ,2020,- hp,Electric,Automatic,0 ,- (
+43,FR,MINI Cooper,27490.0,15700 ,2020,137 hp,Gasoline,Manual,135 ,- (
+44,FR,MINI Cooper,27900.0,9900 ,2020,192 hp,Gasoline,Automatic,120 ,5.3 
+45,FR,MINI Cooper,27990.0,21220 ,2020,- hp,Electric,Automatic,0 ,- (
+46,FR,MINI Cooper,27990.0,25653 ,2019,- hp,Gasoline,Automatic,- (,- (
+47,FR,MINI John Cooper Works,28499.0,46908 ,2017,- hp,Gasoline,Automatic,- (,- (
+48,FR,MINI Cooper,28990.0,6481 ,2021,- hp,Gasoline,Automatic,- (,- (
+49,FR,MINI John Cooper Works,29990.0,52242 ,2017,- hp,Gasoline,Automatic,154 ,- (
+50,FR,MINI Cooper,29990.0,13400 ,2021,- hp,Electric,Automatic,0 ,- (
+51,FR,MINI John Cooper Works,31499.0,47450 ,2018,234 hp,Gasoline,Automatic,130 ,- (
+52,FR,MINI John Cooper Works,31990.0,60096 ,2019,- hp,Gasoline,Automatic,- (,- (
+53,FR,MINI Cooper,31999.0,7500 ,2021,186 hp,Electric,Automatic,0 ,- (
+54,FR,MINI Cooper,32990.0,10284 ,2021,- hp,Gasoline,Automatic,- (,- (
+55,FR,MINI Cooper,33500.0,4000 ,2022,- hp,Electric,Automatic,0 ,- (
+56,FR,MINI Cooper,33785.0,9800 ,2021,- hp,Gasoline,Automatic,- (,- (
+57,FR,MINI Cooper,34890.0,30271 ,2020,- hp,Diesel,Automatic,- (,- (
+58,FR,MINI Cooper,35890.0,9300 ,2021,- hp,Electric,Automatic,0 ,- (
+59,FR,MINI Cooper,35900.0,1 ,2022,- hp,Gasoline,Automatic,- (,- (
+60,FR,MINI Cooper,35925.0,10 ,2022,- hp,Electric,Automatic,0 ,- (
+61,FR,MINI John Cooper Works,35990.0,19880 ,2021,- hp,Gasoline,Automatic,- (,- (
+62,FR,MINI One,35990.0,7500 ,2021,- hp,Diesel,Automatic,- (,- (
+63,FR,MINI Cooper,36380.0,10000 ,2021,- hp,Gasoline,Automatic,- (,- (
+64,FR,MINI John Cooper Works,38499.0,15242 ,2020,234 hp,Gasoline,Automatic,137 ,- (
+65,FR,MINI John Cooper Works,39340.0,9800 ,2021,- hp,Gasoline,Automatic,- (,- (
+66,FR,MINI Cooper,39745.0,8000 ,2021,- hp,Electric,Automatic,0 ,- (
+67,FR,MINI Cooper,42900.0,6000 ,2021,- hp,Electric/Gasoline,Automatic,- (,- (
+68,FR,MINI John Cooper Works,51999.0,27505 ,2020,310 hp,Gasoline,Automatic,184 ,- (
+69,FR,MINI One,6990.0,138053 ,2009,97 hp,Gasoline,Manual,128 ,- (
+70,FR,MINI Cooper,9990.0,175000 ,2012,145 hp,Diesel,Automatic,160 ,- (
+71,FR,MINI Cooper,15900.0,59139 ,2013,186 hp,Gasoline,Manual,139 ,- (
+72,FR,MINI One,17490.0,11384 ,2018,103 hp,Gasoline,Manual,111 ,- (
+73,FR,MINI Cooper,18900.0,17810 ,2018,136 hp,Gasoline,Manual,- (,- (
+74,FR,MINI John Cooper Works,26990.0,51316 ,2017,234 hp,Gasoline,Automatic,133 ,- (
+75,,,,,,178 hp,,,,
+76,FR,MINI Cooper,3990.0,185000 ,2008,- hp,Gasoline,Manual,149 ,- (
+77,,,,,,- hp,,,,
+78,FR,MINI Cooper,4490.0,166913 ,2004,91 hp,Gasoline,Manual,- (,- (
+79,FR,MINI Cooper,4490.0,165880 ,2003,95 hp,Gasoline,Manual,- (,- (
+80,FR,MINI One,4490.0,209751 ,2002,173 hp,Gasoline,Manual,158 ,- (
+81,,,,,,110 hp,,,,
+82,,,,,,175 hp,,,,
+83,FR,MINI One,5900.0,138000 ,2008,174 hp,Gasoline,Manual,128 ,- (
+84,FR,MINI Cooper,5900.0,184352 ,2005,122 hp,Gasoline,Manual,207 ,- (
+85,,,,,,166 hp,,,,
+86,FR,MINI Cooper,6500.0,157800 ,2007,- hp,Diesel,Manual,- (,- (
+87,,,,,,110 hp,,,,
+88,FR,MINI Cooper,6600.0,159000 ,2007,76 hp,Gasoline,Manual,- (,- (
+89,FR,MINI Cooper,6600.0,158600 ,2007,91 hp,Gasoline,Manual,149 ,6.2 
+90,FR,MINI Cooper,6690.0,130000 ,2010,91 hp,Gasoline,Manual,129 ,- (
+91,FR,MINI Cooper,6690.0,174500 ,2003,117 hp,Gasoline,Manual,202 ,- (
+92,,,,,,109 hp,,,,
+93,FR,MINI Cooper,6990.0,91172 ,2009,- hp,Gasoline,Manual,- (,- (
+94,,,,,,91 hp,,,,
+95,FR,MINI Cooper,7490.0,127939 ,2008,- hp,Diesel,Manual,- (,- (
+96,FR,MINI One,7490.0,99800 ,2010,211 hp,Gasoline,Manual,128 ,- (
+97,FR,MINI One,7490.0,88833 ,2006,90 hp,Gasoline,Manual,164 ,- (
+98,,,,,,98 hp,,,,
+99,FR,MINI One,7800.0,197000 ,2005,98 hp,Gasoline,Manual,173 ,- (
+100,FR,MINI Cooper,7900.0,133600 ,2005,91 hp,Gasoline,Manual,175 ,- (
+101,FR,MINI Cooper,7900.0,148000 ,2007,- hp,Diesel,Manual,104 ,3.9 
+102,FR,MINI Cooper,7900.0,136500 ,2007,- hp,Gasoline,Manual,- (,- (
+103,FR,MINI One,7980.0,164000 ,2010,- hp,Diesel,Manual,104 ,- (
+104,FR,MINI One,7990.0,95355 ,2009,91 hp,Gasoline,Manual,- (,- (
+105,FR,MINI John Cooper Works,7990.0,230000 ,2006,90 hp,Gasoline,Manual,- (,- (
+106,FR,MINI One,7990.0,170000 ,2010,- hp,Diesel,Manual,- (,- (
+107,FR,MINI One,7990.0,89000 ,2012,- hp,Gasoline,Manual,- (,- (
+108,FR,MINI One,7990.0,89000 ,2012,174 hp,Gasoline,Manual,- (,- (
+109,FR,MINI One,7990.0,154000 ,2013,111 hp,Diesel,Manual,99 ,- (
+110,FR,MINI Cooper,7990.0,117384 ,2004,- hp,Gasoline,Manual,- (,- (
+111,FR,MINI One,7990.0,118000 ,2010,111 hp,Gasoline,- (Gearing Type),- (,- (
+112,FR,MINI Cooper,7990.0,83500 ,2007,122 hp,Gasoline,Manual,- (,- (
+113,FR,MINI One,8400.0,131302 ,2013,117 hp,Diesel,Manual,99 ,- (
+114,FR,MINI One,8490.0,158076 ,2013,111 hp,Diesel,Manual,99 ,3.8 
+115,FR,MINI Cooper,8490.0,136907 ,2009,91 hp,Gasoline,Manual,- (,- (
+116,FR,MINI One,8490.0,109800 ,2009,90 hp,Gasoline,- (Gearing Type),- (,- (
+117,FR,MINI Cooper,8499.0,178000 ,2009,184 hp,Gasoline,Manual,- (,- (
+118,,,,,,88 hp,,,,
+119,FR,MINI Cooper,8590.0,81877 ,2007,75 hp,Diesel,Manual,118 ,- (
+120,FR,MINI One,8600.0,62300 ,2007,91 hp,Gasoline,Manual,- (,- (
+121,FR,MINI Cooper,8600.0,109000 ,2012,122 hp,Diesel,Manual,99 ,3.8 
+122,FR,MINI Cooper,8700.0,142967 ,2010,75 hp,Gasoline,Manual,137 ,- (
+123,FR,MINI Cooper,8790.0,157500 ,2007,122 hp,Gasoline,Manual,175 ,- (
+124,FR,MINI Cooper,8890.0,153626 ,2008,120 hp,Diesel,Manual,104 ,- (
+125,FR,MINI One,8900.0,145976 ,2012,120 hp,Diesel,Manual,99 ,- (
+126,FR,MINI One,8900.0,99999 ,2004,170 hp,Gasoline,Manual,164 ,- (
+127,FR,MINI Cooper,8900.0,164000 ,2011,124 hp,Gasoline,Manual,- (,- (
+128,,,,,,,,,,
+129,FR,MINI One,8900.0,108000 ,2006,,Diesel,Manual,129 ,4.8 
+130,FR,MINI One,8980.0,109000 ,2013,,Gasoline,Manual,121 ,5.2 
+131,FR,MINI One,8990.0,102117 ,2011,,Diesel,Manual,99 ,- (
+132,FR,MINI Cooper,8990.0,119000 ,2013,,Gasoline,Manual,150 ,6.4 
+133,FR,MINI One,8990.0,39335 ,2010,,Gasoline,Manual,- (,- (
+134,FR,MINI Cooper,8990.0,124776 ,2010,,Gasoline,Manual,137 ,- (
+135,FR,MINI Cooper,8990.0,56000 ,2008,,Gasoline,Manual,- (,- (
+136,FR,MINI Cooper,8990.0,56000 ,2008,,Gasoline,Manual,- (,- (
+137,FR,MINI Cooper,8990.0,129500 ,2005,,Gasoline,Automatic,207 ,8.6 
+138,FR,MINI Cooper,9180.0,95203 ,2012,,Gasoline,Manual,127 ,- (
+139,FR,Audi A3,5890.0,162180 ,2004,- hp,Diesel,Automatic,- (,- (
+140,FR,Audi A3,6790.0,157555 ,2006,102 hp,Gasoline,Manual,169 ,7.1 
+141,FR,Audi A3,6990.0,169000 ,2008,140 hp,Diesel,Manual,148 ,5.5 
+142,FR,Audi A3,7400.0,180607 ,2009,105 hp,Diesel,Manual,132 ,5 
+143,FR,Audi A3,7700.0,150000 ,2010,140 hp,Diesel,Manual,115 ,4.4 
+144,FR,Audi A3,7990.0,70000 ,2006,105 hp,Diesel,Manual,135 ,5.1 
+145,FR,Audi A3,7990.0,157000 ,2007,140 hp,Diesel,Manual,146 ,5.5 
+146,FR,Audi A3,9499.0,190000 ,2016,110 hp,Diesel,Manual,- (,- (
+147,FR,Audi A3,11990.0,202000 ,2017,110 hp,Diesel,Manual,99 ,- (
+148,FR,Audi A3,12490.0,120000 ,2013,105 hp,Diesel,Manual,99 ,3.8 
+149,FR,Audi A3,12500.0,173000 ,2018,116 hp,Diesel,Automatic,102 ,5.1 
+150,FR,Audi A3,14900.0,122039 ,2014,152 hp,Diesel,Automatic,116 ,- (
+151,FR,Audi A3,15870.0,47232 ,2009,160 hp,Gasoline,Automatic,154 ,6.6 
+152,FR,Audi A3,16990.0,77224 ,2013,150 hp,Diesel,Manual,108 ,4.2 
+153,FR,Audi A3,17490.0,115000 ,2014,150 hp,Diesel,Manual,- (,- (
+154,FR,Audi A3,17490.0,111600 ,2017,150 hp,Gasoline,Manual,112 ,4.8 
+155,FR,Audi A3,18900.0,75705 ,2014,- hp,Gasoline,Automatic,- (,- (
+156,FR,Audi A3,19550.0,24277 ,2018,116 hp,Gasoline,Automatic,110 ,4.8 
+157,FR,Audi A3,19990.0,54350 ,2016,150 hp,Gasoline,Automatic,114 ,4.9 
+158,FR,Audi A3,20000.0,93000 ,2016,110 hp,Diesel,Automatic,- (,- (
+159,FR,Audi A3,20825.0,73382 ,2017,150 hp,Diesel,Manual,110 ,4.4 
+160,FR,Audi A3,21425.0,47939 ,2018,116 hp,Gasoline,Automatic,110 ,4.8 
+161,FR,Audi A3,21625.0,9421 ,2020,116 hp,Gasoline,Manual,117 ,5.1 
+162,FR,Audi A3,21825.0,14696 ,2018,116 hp,Gasoline,Manual,109 ,4.7 
+163,FR,Audi A3,21990.0,44000 ,2017,116 hp,Gasoline,Automatic,107 ,4.4 
+164,FR,Audi A3,22400.0,51509 ,2017,150 hp,Diesel,Manual,114 ,5 
+165,FR,Audi A3,22480.0,85521 ,2019,150 hp,Gasoline,Manual,125 ,- (
+166,FR,Audi A3,22775.0,74441 ,2018,116 hp,Diesel,Manual,109 ,4.2 
+167,FR,Audi A3,22890.0,70138 ,2014,- hp,Diesel,Manual,- (,- (
+168,FR,Audi A3,22999.0,26745 ,2017,- hp,Diesel,Automatic,- (,- (
+169,FR,Audi A3,23225.0,10970 ,2019,116 hp,Diesel,Manual,118 ,4.5 
+170,FR,Audi A3,23490.0,75002 ,2018,- hp,Diesel,Manual,- (,- (
+171,FR,Audi A3,23490.0,47300 ,2019,150 hp,Gasoline,Manual,- (,- (
+172,FR,Audi A3,23525.0,38821 ,2019,150 hp,Gasoline,Automatic,117 ,5.1 
+173,FR,Audi A3,23990.0,41799 ,2016,150 hp,Diesel,Manual,128 ,4.8 
+174,FR,Audi A3,24190.0,47900 ,2018,150 hp,Gasoline,Automatic,113 ,5 
+175,FR,Audi A3,24700.0,59865 ,2018,150 hp,Diesel,Automatic,119 ,4.6 
+176,FR,Audi A3,24790.0,46524 ,2017,150 hp,Electric/Gasoline,Automatic,38 ,1.8 
+177,FR,Audi A3,25980.0,65986 ,2016,150 hp,Gasoline,Automatic,- (,- (
+178,FR,Audi A3,26525.0,14669 ,2019,150 hp,Gasoline,Automatic,117 ,5.2 
+179,FR,Audi A3,27480.0,14000 ,2015,152 hp,Diesel,Automatic,- (,- (
+180,FR,Audi A3,27750.0,12000 ,2020,150 hp,Gasoline,Automatic,110 ,5.2 
+181,FR,Audi A3,27990.0,31831 ,2020,- hp,Gasoline,Manual,- (,- (
+182,FR,Audi A3,27990.0,2719 ,2020,110 hp,Gasoline,Automatic,120 ,- (
+183,FR,Audi A3,28600.0,7000 ,2019,204 hp,Electric/Gasoline,Automatic,40 ,1.9 
+184,FR,Audi A3,28890.0,24408 ,2020,- hp,Gasoline,Automatic,147 ,- (
+185,FR,Audi A3,29990.0,32177 ,2019,190 hp,Gasoline,Automatic,128 ,- (
+186,FR,Audi A3,30225.0,29544 ,2020,150 hp,Gasoline,Automatic,117 ,5.2 
+187,FR,Audi A3,30750.0,20754 ,2018,190 hp,Gasoline,Automatic,137 ,6 
+188,FR,Audi A3,30990.0,13218 ,2020,- hp,Gasoline,Automatic,- (,- (
+189,FR,Audi A3,31225.0,12157 ,2020,150 hp,Gasoline,Automatic,117 ,5.1 
+190,FR,Audi A3,31500.0,25153 ,2020,150 hp,Diesel,Automatic,98 ,3.7 
+191,FR,Audi A3,34025.0,16221 ,2020,150 hp,Diesel,Automatic,100 ,3.8 
+192,FR,Audi A3,34990.0,22340 ,2021,- hp,Diesel,Automatic,- (,- (
+193,FR,Audi A3,35990.0,69000 ,2020,150 hp,Gasoline,Manual,119 ,5.5 
+194,FR,Audi A3,37890.0,10813 ,2020,- hp,Diesel,Automatic,130 ,- (
+195,FR,Audi A3,37900.0,7000 ,2022,- hp,Diesel,Automatic,- (,- (
+196,FR,Audi A3,38990.0,10 ,2021,150 hp,Diesel,Automatic,112 ,4.5 
+197,FR,Audi A3,39990.0,100 ,2021,150 hp,Electric/Gasoline,Automatic,134 ,5 
+198,FR,Audi A3,39990.0,10 ,2021,150 hp,Diesel,Automatic,107 ,4 
+199,FR,Audi A3,9490.0,163516 ,2010,105 hp,Diesel,Manual,- (,- (
+200,FR,Audi A3,10980.0,200180 ,2011,140 hp,Diesel,Automatic,- (,- (
+201,FR,Audi A3,16980.0,75000 ,2016,110 hp,Diesel,Manual,99 ,3.8 
+202,FR,Audi A3,56930.0,- ,,- hp,,,,
+203,,,,,1999,173 hp,Diesel,Manual,- (,- (
+204,FR,Audi A3,3799.0,148200 ,,141 hp,,,,
+205,,,,,,131 hp,,,,
+206,,,,,2006,,Diesel,- (Gearing Type),156 ,- (
+207,FR,Audi A3,5990.0,225041 ,2004,,Diesel,Manual,148 ,- (
+208,FR,Audi A3,5990.0,350084 ,,,,,,
+209,,,,,2001,,Diesel,Manual,- (,- (
+210,FR,Audi A3,6500.0,189000 ,,,,,,
+211,,,,,,,,,,
+212,FR,Renault Megane,2490.0,258250 ,2004,101 hp,Diesel,Manual,119 ,4.5 
+213,FR,Renault Megane,4990.0,196900 ,2011,110 hp,Diesel,Manual,106 ,- (
+214,FR,Renault Megane,4990.0,149000 ,2010,110 hp,Ethanol,Manual,- (,- (
+215,FR,Renault Megane,5790.0,122000 ,2010,86 hp,Diesel,Manual,- (,4.4 
+216,FR,Renault Megane,6490.0,141000 ,2014,110 hp,Diesel,Manual,90 ,- (
+217,FR,Renault Megane,7990.0,141882 ,2016,110 hp,Diesel,Manual,90 ,3.5 
+218,FR,Renault Megane,8999.0,99100 ,2022,110 hp,Diesel,Automatic,- (,- (
+219,FR,Renault Megane,9990.0,103046 ,2018,- hp,Diesel,Manual,- (,- (
+220,FR,Renault Megane,9990.0,102308 ,2015,110 hp,Diesel,Manual,93 ,3.6 
+221,FR,Renault Megane,9990.0,59221 ,2014,- hp,Gasoline,Manual,- (,- (
+222,FR,Renault Megane,10890.0,47270 ,2015,- hp,Gasoline,Manual,- (,- (
+223,FR,Renault Megane,10920.0,89696 ,2018,90 hp,Diesel,Manual,95 ,3.7 
+224,FR,Renault Megane,10990.0,116429 ,2017,110 hp,Diesel,Manual,95 ,3.7 
+225,FR,Renault Megane,10990.0,83500 ,2017,90 hp,Diesel,Manual,95 ,3.7 
+226,FR,Renault Megane,11499.0,86706 ,2016,135 hp,Gasoline,- (Gearing Type),129 ,- (
+227,FR,Renault Megane,11499.0,107025 ,2016,111 hp,Diesel,Manual,86 ,- (
+228,FR,Renault Megane,11890.0,34385 ,2015,- hp,Gasoline,Automatic,- (,- (
+229,FR,Renault Megane,11985.0,89795 ,2018,- hp,Gasoline,Manual,- (,- (
+230,FR,Renault Megane,11990.0,97647 ,2017,- hp,Diesel,Manual,- (,- (
+231,FR,Renault Megane,11990.0,57156 ,2015,- hp,Diesel,Manual,- (,- (
+232,FR,Renault Megane,12490.0,66756 ,2017,- hp,Gasoline,Manual,- (,- (
+233,FR,Renault Megane,12490.0,58537 ,2018,- hp,Gasoline,Manual,- (,- (
+234,FR,Renault Megane,12590.0,78755 ,2018,90 hp,Diesel,Manual,95 ,3.7 
+235,FR,Renault Megane,12990.0,49919 ,2018,- hp,Diesel,Manual,- (,- (
+236,FR,Renault Megane,12990.0,98066 ,2017,- hp,Diesel,Manual,- (,- (
+237,FR,Renault Megane,13325.0,45613 ,2018,110 hp,Diesel,Manual,95 ,3.7 
+238,FR,Renault Megane,13490.0,84941 ,2015,- hp,Diesel,Manual,- (,- (
+239,FR,Renault Megane,13490.0,78693 ,2017,110 hp,Diesel,Manual,95 ,3.7 
+240,FR,Renault Megane,13499.0,50896 ,2019,117 hp,Diesel,Manual,101 ,- (
+241,FR,Renault Megane,13650.0,25674 ,2018,116 hp,Gasoline,Manual,124 ,5.4 
+242,FR,Renault Megane,13690.0,69000 ,2017,131 hp,Gasoline,Manual,- (,- (
+243,FR,Renault Megane,13790.0,89206 ,2019,- hp,Diesel,Manual,- (,- (
+244,FR,Renault Megane,13990.0,69613 ,2018,- hp,Gasoline,Automatic,- (,- (
+245,FR,Renault Megane,13990.0,74398 ,2017,- hp,Diesel,Automatic,- (,- (
+246,FR,Renault Megane,14490.0,65200 ,2017,- hp,Diesel,Manual,- (,- (
+247,FR,Renault Megane,14490.0,63153 ,2017,- hp,Diesel,Manual,- (,- (
+248,FR,Renault Megane,14499.0,31255 ,2017,102 hp,Gasoline,Manual,120 ,- (
+249,FR,Renault Megane,14890.0,71137 ,2019,- hp,Diesel,Manual,- (,- (
+250,FR,Renault Megane,14980.0,48653 ,2019,116 hp,Diesel,Manual,102 ,3.9 
+251,FR,Renault Megane,14990.0,97168 ,2017,131 hp,Diesel,Manual,105 ,4 
+252,FR,Renault Megane,14990.0,25021 ,2019,95 hp,Diesel,Manual,- (,- (
+253,FR,Renault Megane,14990.0,41773 ,2020,- hp,Diesel,Manual,- (,- (
+254,FR,Renault Megane,14990.0,54950 ,2018,- hp,Diesel,Automatic,- (,- (
+255,FR,Renault Megane,14990.0,81996 ,2016,110 hp,Diesel,Automatic,95 ,3.7 
+256,FR,Renault Megane,14990.0,50755 ,2019,116 hp,Diesel,Manual,- (,3.9 
+257,FR,Renault Megane,14990.0,91298 ,2018,- hp,Diesel,Manual,- (,- (
+258,FR,Renault Megane,14990.0,7942 ,2018,91 hp,Diesel,Manual,- (,- (
+259,FR,Renault Megane,14990.0,51690 ,2016,111 hp,Diesel,Manual,- (,- (
+260,FR,Renault Megane,14999.0,65172 ,2019,- hp,Diesel,Manual,- (,- (
+261,FR,Renault Megane,14999.0,24729 ,2018,111 hp,Diesel,Manual,87 ,- (
+262,FR,Renault Megane,15290.0,28829 ,2018,110 hp,Diesel,Manual,95 ,3.7 
+263,FR,Renault Megane,15490.0,71618 ,2019,- hp,Diesel,Automatic,- (,- (
+264,FR,Renault Megane,15490.0,35527 ,2019,- hp,Gasoline,Manual,- (,- (
+265,FR,Renault Megane,15499.0,27356 ,2018,111 hp,Diesel,Manual,95 ,- (
+266,FR,Renault Megane,15499.0,111586 ,2019,152 hp,Diesel,Manual,124 ,- (
+267,FR,Renault Megane,15500.0,42115 ,2017,131 hp,Gasoline,Manual,119 ,5.3 
+268,FR,Renault Megane,15690.0,52854 ,2019,- hp,Diesel,Manual,- (,- (
+269,FR,Renault Megane,15990.0,36000 ,2019,110 hp,Diesel,Automatic,95 ,- (
+270,FR,Renault Megane,15990.0,19220 ,2019,- hp,Gasoline,Manual,- (,- (
+271,FR,Renault Megane,15999.0,23644 ,2019,117 hp,Diesel,Manual,102 ,- (
+272,FR,Renault Megane,15999.0,36290 ,2019,117 hp,Diesel,Manual,102 ,- (
+273,FR,Renault Megane,15999.0,15014 ,2019,117 hp,Diesel,Manual,102 ,- (
+274,FR,Renault Megane,15999.0,36244 ,2019,117 hp,Diesel,Manual,102 ,- (
+275,FR,Renault Megane,15999.0,24551 ,2018,117 hp,Diesel,Manual,102 ,- (
+276,FR,Renault Megane,16299.0,27017 ,2019,117 hp,Diesel,Manual,102 ,- (
+277,FR,Renault Megane,16299.0,23380 ,2019,117 hp,Diesel,Manual,102 ,- (
+278,FR,Renault Megane,16299.0,28490 ,2019,117 hp,Diesel,Manual,102 ,- (
+279,FR,Renault Megane,16490.0,27663 ,2019,- hp,Gasoline,Manual,- (,- (
+280,FR,Renault Megane,16490.0,18970 ,2019,- hp,Gasoline,Manual,- (,- (
+281,FR,Renault Megane,16490.0,51546 ,2018,- hp,Diesel,Manual,- (,- (
+282,FR,Renault Megane,16490.0,11286 ,2020,- hp,Diesel,Manual,- (,- (
+283,FR,Renault Megane,16499.0,23556 ,2020,117 hp,Diesel,Manual,118 ,- (
+284,FR,Renault Megane,16499.0,12980 ,2019,117 hp,Diesel,Manual,102 ,- (
+285,FR,Renault Megane,16499.0,18551 ,2019,117 hp,Diesel,Manual,102 ,- (
+286,FR,Renault Megane,16990.0,41192 ,2019,- hp,Diesel,Automatic,- (,- (
+287,FR,Renault Megane,16990.0,17800 ,2019,- hp,Gasoline,Manual,- (,- (
+288,FR,Renault Megane,16990.0,49169 ,2019,116 hp,Diesel,Manual,102 ,3.9 
+289,FR,Renault Megane,16990.0,42253 ,2018,131 hp,Diesel,Manual,103 ,4 
+290,FR,Renault Megane,16990.0,22013 ,2019,- hp,Diesel,Manual,- (,- (
+291,FR,Renault Megane,16990.0,17551 ,2019,116 hp,Diesel,Manual,102 ,3.9 
+292,FR,Renault Megane,16990.0,66671 ,2019,116 hp,Diesel,Automatic,108 ,4.1 
+293,FR,Renault Megane,16990.0,14500 ,2017,111 hp,Diesel,Manual,- (,- (
+294,FR,Renault Megane,16999.0,19906 ,2020,117 hp,Diesel,Manual,118 ,- (
+295,FR,Renault Megane,16999.0,16174 ,2020,117 hp,Diesel,Manual,118 ,- (
+296,FR,Renault Megane,16999.0,24582 ,2020,117 hp,Diesel,Manual,102 ,- (
+297,FR,Renault Megane,17375.0,27610 ,2019,- hp,Diesel,Manual,- (,- (
+298,FR,Renault Megane,17490.0,31245 ,2020,- hp,Diesel,Manual,- (,- (
+299,FR,Renault Megane,17590.0,11348 ,2020,- hp,Diesel,Automatic,- (,- (
+300,FR,Renault Megane,17680.0,16838 ,2018,- hp,Diesel,Automatic,- (,- (
+301,FR,Renault Megane,17990.0,42866 ,2020,116 hp,Diesel,Manual,119 ,- (
+302,FR,Renault Megane,17990.0,47122 ,2019,- hp,Diesel,Manual,- (,- (
+303,FR,Renault Megane,17990.0,42094 ,2019,- hp,Gasoline,Automatic,- (,- (
+304,FR,Renault Megane,17990.0,8389 ,2020,- hp,Diesel,Manual,- (,- (
+305,FR,Renault Megane,17990.0,35037 ,2019,- hp,Diesel,Manual,- (,- (
+306,FR,Renault Megane,17990.0,46484 ,2020,116 hp,Diesel,Automatic,108 ,4.1 
+307,FR,Renault Megane,17990.0,54091 ,2019,110 hp,Diesel,Automatic,95 ,3.7 
+308,FR,Renault Megane,17990.0,10930 ,2019,- hp,Gasoline,Manual,- (,- (
+309,FR,Renault Megane,17990.0,8379 ,2020,- hp,Diesel,Manual,- (,- (
+310,FR,Renault Megane,17990.0,17081 ,2017,111 hp,Diesel,Manual,- (,- (
+311,FR,Renault Megane,18375.0,15570 ,2019,116 hp,Diesel,Manual,102 ,4.3 
+312,FR,Renault Megane,18490.0,40540 ,2020,116 hp,Diesel,Manual,118 ,3.9 
+313,FR,Renault Megane,18490.0,17807 ,2019,140 hp,Gasoline,Automatic,125 ,5.5 
+314,FR,Renault Megane,18590.0,5390 ,2020,116 hp,Diesel,Manual,118 ,3.9 
+315,FR,Renault Megane,18590.0,12832 ,2020,- hp,Diesel,Manual,- (,- (
+316,FR,Renault Megane,18650.0,19977 ,2020,101 hp,Diesel,Manual,120 ,5.4 
+317,FR,Renault Megane,18725.0,23530 ,2020,101 hp,Gasoline,Manual,120 ,5.4 
+318,FR,Renault Megane,18890.0,4500 ,2019,140 hp,Gasoline,Manual,125 ,5.2 
+319,FR,Renault Megane,18975.0,3211 ,2021,116 hp,Gasoline,Manual,148 ,5.3 
+320,FR,Renault Megane,18990.0,16478 ,2020,- hp,Gasoline,Manual,- (,- (
+321,FR,Renault Megane,18990.0,25228 ,2019,- hp,Gasoline,Manual,- (,- (
+322,FR,Renault Megane,18990.0,13409 ,2020,- hp,Gasoline,Manual,- (,- (
+323,FR,Renault Megane,18990.0,15187 ,2020,- hp,Diesel,Automatic,- (,- (
+324,FR,Renault Megane,18990.0,18780 ,2020,140 hp,Gasoline,Manual,137 ,5.2 
+325,FR,Renault Megane,18990.0,18408 ,2020,- hp,Diesel,Automatic,- (,- (
+326,FR,Renault Megane,18990.0,87725 ,2018,- hp,Diesel,Automatic,- (,- (
+327,FR,Renault Megane,18990.0,22604 ,2020,- hp,Diesel,Automatic,- (,- (
+328,FR,Renault Megane,18999.0,40477 ,2019,- hp,Diesel,Automatic,- (,- (
+329,FR,Renault Megane,19225.0,13049 ,2020,101 hp,Diesel,Manual,120 ,5.4 
+330,FR,Renault Megane,19275.0,12859 ,2020,101 hp,Diesel,Manual,120 ,5.4 
+331,FR,Renault Megane,19488.0,22000 ,2019,140 hp,Gasoline,Manual,- (,- (
+332,FR,Renault Megane,19490.0,16219 ,2021,- hp,Diesel,Manual,- (,- (
+333,FR,Renault Megane,19490.0,12000 ,2020,- hp,Diesel,Manual,- (,- (
+334,FR,Renault Megane,19625.0,19218 ,2020,116 hp,Gasoline,Manual,130 ,5.7 
+335,FR,Renault Megane,19990.0,7100 ,2019,- hp,Gasoline,Manual,- (,- (
+336,FR,Renault Megane,19990.0,16333 ,2020,116 hp,Diesel,Automatic,129 ,4.1 
+337,FR,Renault Megane,19990.0,16598 ,2019,- hp,Gasoline,Automatic,- (,- (
+338,FR,Renault Megane,19990.0,35137 ,2020,116 hp,Diesel,Manual,129 ,- (
+339,FR,Renault Megane,19990.0,16971 ,2020,- hp,Gasoline,Manual,- (,- (
+340,FR,Renault Megane,19999.0,9234 ,2020,117 hp,Diesel,Manual,121 ,- (
+341,FR,Renault Megane,19999.0,13271 ,2021,- hp,Diesel,Manual,- (,- (
+342,FR,Renault Megane,20499.0,8297 ,2021,117 hp,Diesel,Manual,119 ,- (
+343,FR,Renault Megane,20499.0,7818 ,2021,117 hp,Diesel,Manual,119 ,- (
+344,FR,Renault Megane,20780.0,11120 ,2020,- hp,Diesel,Automatic,- (,- (
+345,FR,Renault Megane,20990.0,31406 ,2021,- hp,Diesel,Manual,- (,- (
+346,FR,Renault Megane,20990.0,23763 ,2020,- hp,Gasoline,Automatic,- (,- (
+347,FR,Renault Megane,20990.0,75900 ,2008,230 hp,Gasoline,Manual,199 ,8.4 
+348,FR,Renault Megane,20999.0,7236 ,2021,141 hp,Gasoline,Manual,130 ,- (
+349,FR,Renault Megane,21490.0,10530 ,2021,140 hp,Gasoline,Automatic,135 ,- (
+350,FR,Renault Megane,21490.0,54023 ,2017,- hp,Gasoline,Automatic,- (,- (
+351,FR,Renault Megane,21490.0,169 ,2020,- hp,Diesel,Manual,- (,- (
+352,FR,Renault Megane,21499.0,7811 ,2021,141 hp,Gasoline,Manual,125 ,- (
+353,FR,Renault Megane,21590.0,20531 ,2019,160 hp,Gasoline,Manual,125 ,5.5 
+354,FR,Renault Megane,21999.0,52384 ,2018,208 hp,Gasoline,Manual,134 ,- (
+355,FR,Renault Megane,22690.0,5829 ,2021,116 hp,Diesel,Manual,121 ,- (
+356,FR,Renault Megane,22900.0,11000 ,2016,110 hp,Diesel,Manual,95 ,- (
+357,FR,Renault Megane,22990.0,13944 ,2021,- hp,Diesel,Manual,- (,- (
+358,FR,Renault Megane,22990.0,38132 ,2019,150 hp,Diesel,Automatic,124 ,4.7 
+359,FR,Renault Megane,23490.0,18717 ,2018,205 hp,Gasoline,Automatic,134 ,6 
+360,FR,Renault Megane,23590.0,50 ,2020,- hp,Diesel,Manual,- (,- (
+361,FR,Renault Megane,23850.0,34000 ,2020,150 hp,Diesel,Automatic,126 ,4.8 
+362,FR,Renault Megane,23990.0,5000 ,2021,116 hp,Diesel,Manual,126 ,- (
+363,FR,Renault Megane,23990.0,515 ,2021,- hp,Gasoline,Automatic,- (,- (
+364,FR,Renault Megane,24050.0,1500 ,2021,116 hp,Diesel,Manual,119 ,- (
+365,FR,Renault Megane,24490.0,51800 ,2016,265 hp,Gasoline,Manual,174 ,7.5 
+366,FR,Renault Megane,24975.0,3671 ,2021,- hp,Diesel,Automatic,- (,- (
+367,FR,Renault Megane,24990.0,10 ,2021,- hp,Gasoline,Automatic,- (,- (
+368,FR,Renault Megane,24990.0,9900 ,2021,- hp,Diesel,Manual,- (,- (
+369,FR,Renault Megane,25299.0,5000 ,2021,117 hp,Diesel,Manual,118 ,- (
+370,FR,Renault Megane,25300.0,10 ,2021,116 hp,Diesel,Automatic,121 ,4 
+371,FR,Renault Megane,25340.0,9500 ,2021,- hp,Diesel,Manual,- (,- (
+372,FR,Renault Megane,25490.0,5174 ,2021,116 hp,Diesel,Automatic,127 ,- (
+373,FR,Renault Megane,25900.0,10 ,2021,116 hp,Diesel,Manual,102 ,3.9 
+374,FR,Renault Megane,25980.0,9229 ,2021,116 hp,Diesel,Automatic,126 ,- (
+375,FR,Renault Megane,25990.0,10 ,2018,208 hp,Gasoline,Automatic,- (,- (
+376,FR,Renault Megane,26880.0,4980 ,2021,- hp,Diesel,Automatic,- (,- (
+377,FR,Renault Megane,26990.0,18510 ,2021,- hp,Electric/Gasoline,Automatic,- (,- (
+378,FR,Renault Megane,27300.0,8200 ,2021,116 hp,Diesel,Manual,- (,- (
+379,FR,Renault Megane,27990.0,10 ,2021,160 hp,Gasoline,Automatic,139 ,- (
+380,FR,Renault Megane,27990.0,7 ,2021,- hp,Diesel,Automatic,- (,- (
+381,FR,Renault Megane,27990.0,9990 ,2017,167 hp,Diesel,Automatic,- (,- (
+382,FR,Skoda Octavia,14590.0,162000 ,2014,184 hp,Diesel,Automatic,129 ,- (
+383,FR,Skoda Octavia,14790.0,105491 ,2019,116 hp,Diesel,Automatic,102 ,- (
+384,FR,Skoda Octavia,16990.0,61009 ,2018,- hp,Diesel,Automatic,- (,- (
+385,FR,Skoda Octavia,17400.0,49301 ,2017,116 hp,Diesel,Automatic,103 ,3.9 
+386,FR,Skoda Octavia,17895.0,70327 ,2019,- hp,Diesel,Automatic,- (,- (
+387,FR,Skoda Octavia,18988.0,24000 ,2018,116 hp,Gasoline,Manual,- (,- (
+388,FR,Skoda Octavia,22979.0,10 ,2022,150 hp,Gasoline,Manual,- (,- (
+389,FR,Skoda Octavia,23685.0,10 ,2022,150 hp,Gasoline,Manual,- (,- (
+390,FR,Skoda Octavia,24492.0,10 ,2022,150 hp,Gasoline,Manual,- (,- (
+391,FR,Skoda Octavia,26509.0,10 ,2022,150 hp,Diesel,Automatic,- (,- (
+392,FR,Skoda Octavia,27517.0,10 ,2022,150 hp,Gasoline,Automatic,- (,- (
+393,FR,Skoda Octavia,27895.0,10 ,2022,150 hp,Gasoline,Manual,- (,- (
+394,FR,Skoda Octavia,31450.0,10 ,2022,245 hp,Gasoline,Manual,- (,- (
+395,FR,Skoda Octavia,32257.0,10 ,2022,245 hp,Gasoline,Manual,- (,- (
+396,FR,Skoda Octavia,32761.0,10 ,2022,245 hp,Gasoline,Automatic,- (,- (
+397,FR,Skoda Octavia,32862.0,10 ,2022,200 hp,Diesel,Automatic,- (,- (
+398,FR,Skoda Octavia,33265.0,10 ,2022,200 hp,Diesel,Automatic,- (,- (
+399,FR,Skoda Octavia,33669.0,10 ,2022,245 hp,Gasoline,Automatic,- (,- (
+400,FR,Skoda Octavia,39618.0,10 ,2022,245 hp,Gasoline,Automatic,- (,- (
+401,FR,Skoda Octavia,20990.0,86615 ,2016,220 hp,Gasoline,Manual,142 ,6.2 
+402,FR,Skoda Octavia,1990.0,86497 ,1999,- hp,Gasoline,Manual,- (,- (
+403,FR,Skoda Octavia,2300.0,171147 ,2006,106 hp,Diesel,Manual,159 ,- (
+404,FR,Skoda Octavia,2500.0,175800 ,2002,109 hp,Diesel,Manual,- (,5 
+405,FR,Skoda Octavia,3490.0,185000 ,2006,105 hp,Diesel,Manual,- (,5.2 
+406,,,,,,140 hp,,,,
+407,FR,Skoda Octavia,8990.0,179000 ,2013,- hp,Diesel,Manual,- (,- (
+408,FR,Skoda Octavia,8990.0,91200 ,2009,140 hp,Diesel,Manual,- (,- (
+409,FR,Skoda Octavia,9480.0,194300 ,2011,- hp,Diesel,Automatic,156 ,5.9 
+410,FR,Skoda Octavia,9990.0,106116 ,2008,,Diesel,Manual,- (,- (
+411,,,,,,,,,,
+412,ES,MINI One,5998.0,122000 ,2007,- hp,Gasoline,Manual,- (,- (
+413,ES,MINI Cooper,5999.0,182000 ,2007,120 hp,Gasoline,Manual,- (,5.4 
+414,ES,MINI Cooper,6399.0,160000 ,2002,163 hp,Gasoline,Manual,- (,8.4 
+415,ES,MINI Cooper,6500.0,189930 ,2003,163 hp,Gasoline,Manual,- (,8.4 
+416,ES,MINI Cooper,6998.0,167439 ,2007,120 hp,Gasoline,Manual,- (,5.4 
+417,ES,MINI One,7890.0,168000 ,2010,- hp,Gasoline,Manual,- (,- (
+418,ES,MINI One,8800.0,84000 ,2010,98 hp,Gasoline,Automatic,- (,6.4 
+419,ES,MINI Cooper,8900.0,116000 ,2005,116 hp,Gasoline,Manual,- (,6.9 
+420,ES,MINI One,9300.0,127256 ,2013,98 hp,Gasoline,Manual,- (,5.4 
+421,ES,MINI Cooper,9999.0,125000 ,2010,174 hp,Gasoline,Manual,- (,6.2 
+422,ES,MINI One,14290.0,32358 ,2017,95 hp,Diesel,Manual,- (,3.7 
+423,ES,MINI One,14990.0,89056 ,2018,102 hp,Gasoline,Manual,- (,- (
+424,ES,MINI One,14990.0,78482 ,2018,102 hp,Gasoline,Manual,- (,- (
+425,ES,MINI One,14990.0,73100 ,2018,102 hp,Gasoline,Manual,- (,- (
+426,ES,MINI Cooper,15299.0,48516 ,2017,136 hp,Gasoline,Manual,- (,4.5 
+427,ES,MINI Cooper,15390.0,38149 ,2018,136 hp,Gasoline,Manual,- (,5.4 
+428,ES,MINI Cooper,16390.0,71725 ,2016,192 hp,Gasoline,Automatic,- (,5.7 
+429,ES,MINI Cooper,16900.0,151000 ,2017,150 hp,Diesel,Automatic,- (,- (
+430,ES,MINI Cooper,17886.0,82300 ,2017,116 hp,Diesel,Manual,- (,3.5 
+431,ES,MINI Cooper,18400.0,60200 ,2015,116 hp,Diesel,Automatic,- (,3.5 
+432,ES,MINI Cooper,19200.0,85771 ,2018,116 hp,Diesel,Automatic,- (,3.5 
+433,ES,MINI Cooper,19900.0,60299 ,2016,192 hp,Gasoline,Automatic,- (,5.9 
+434,ES,MINI Cooper,20690.0,23839 ,2016,192 hp,Gasoline,Automatic,- (,5.4 
+435,ES,MINI Cooper,22975.0,50200 ,2017,116 hp,Diesel,Automatic,- (,4 
+436,ES,MINI Cooper,23427.0,23500 ,2018,136 hp,Gasoline,Manual,- (,4.5 
+437,ES,MINI Cooper,23500.0,20137 ,2017,192 hp,Gasoline,Automatic,- (,5.2 
+438,ES,MINI John Cooper Works,24490.0,59692 ,2016,231 hp,Gasoline,Automatic,- (,5.7 
+439,ES,MINI Cooper,25572.0,31895 ,2019,190 hp,Gasoline,Automatic,- (,- (
+440,ES,MINI Cooper,25900.0,4900 ,2021,136 hp,Gasoline,Automatic,- (,0 
+441,ES,MINI Cooper,26000.0,9531 ,2021,136 hp,Gasoline,Automatic,- (,5 
+442,ES,MINI Cooper,26495.0,33000 ,2018,192 hp,Gasoline,Manual,- (,5.9 
+443,ES,MINI Cooper,26995.0,39912 ,2018,136 hp,Gasoline,Manual,- (,4.7 
+444,ES,MINI Cooper,27500.0,27652 ,2020,136 hp,Gasoline,Manual,- (,4.7 
+445,ES,MINI Cooper,27900.0,8506 ,2020,184 hp,Electric,Automatic,0 ,0 
+446,ES,MINI Cooper,27900.0,10000 ,2020,184 hp,Electric,Automatic,0 ,0 
+447,ES,MINI Cooper,27900.0,1 ,2021,192 hp,Gasoline,Manual,- (,6.2 
+448,ES,MINI Cooper,27995.0,14020 ,2021,136 hp,Gasoline,Manual,- (,0 
+449,ES,MINI Cooper,28975.0,1000 ,2021,136 hp,Gasoline,Automatic,- (,0 
+450,ES,MINI Cooper,28990.0,1860 ,2020,178 hp,Gasoline,Manual,- (,6.1 
+451,ES,MINI Cooper,30800.0,342 ,2021,184 hp,Electric,Automatic,0 ,0 
+452,ES,MINI Cooper,32290.0,5872 ,2021,184 hp,Electric,Automatic,0 ,0 
+453,ES,MINI John Cooper Works,34900.0,23500 ,2020,231 hp,Gasoline,Automatic,- (,6.6 
+454,ES,MINI Cooper,35775.0,7601 ,2021,178 hp,Gasoline,Manual,- (,0 
+455,ES,MINI Cooper,35900.0,7285 ,2020,192 hp,Gasoline,Automatic,- (,5.2 
+456,ES,MINI John Cooper Works,37950.0,20000 ,2021,231 hp,Gasoline,Automatic,- (,0 
+457,ES,MINI John Cooper Works,40900.0,11299 ,2021,231 hp,Gasoline,Automatic,- (,0 
+458,ES,MINI Cooper,6200.0,134000 ,2007,120 hp,Gasoline,Manual,- (,5.4 
+459,ES,MINI One,6399.0,95000 ,2004,90 hp,Gasoline,Manual,- (,6.8 
+460,ES,MINI One,7890.0,168000 ,2010,75 hp,Gasoline,Manual,- (,5.1 
+461,ES,MINI Cooper,8900.0,150000 ,2008,174 hp,Gasoline,Manual,- (,6.2 
+462,ES,MINI One,12900.0,130000 ,2015,95 hp,Diesel,Manual,- (,3.7 
+463,ES,MINI Cooper,12900.0,84000 ,2006,174 hp,Gasoline,Manual,- (,6.2 
+464,ES,MINI Cooper,13500.0,43206 ,2012,143 hp,Diesel,Manual,- (,4.3 
+465,ES,MINI Cooper,14490.0,75765 ,2012,184 hp,Gasoline,Manual,- (,5.8 
+466,ES,MINI Cooper,15380.0,69417 ,2018,136 hp,Gasoline,Manual,- (,4.5 
+467,ES,MINI Cooper,15995.0,135000 ,2016,170 hp,Diesel,Manual,- (,4.1 
+468,ES,MINI Cooper,16400.0,97000 ,2016,150 hp,Diesel,Manual,- (,4.1 
+469,ES,MINI Cooper,16950.0,44513 ,2019,136 hp,Gasoline,Manual,- (,4.7 
+470,ES,MINI John Cooper Works,17500.0,98000 ,2013,211 hp,Gasoline,Manual,- (,6.6 
+471,ES,MINI Cooper,17900.0,70033 ,2018,136 hp,Gasoline,Manual,- (,4.7 
+472,ES,MINI Cooper,18190.0,33000 ,2019,116 hp,Diesel,Manual,- (,3.5 
+473,ES,MINI John Cooper Works,18980.0,62000 ,2012,211 hp,Gasoline,Manual,- (,6.8 
+474,ES,MINI Cooper,19400.0,54900 ,2018,136 hp,Gasoline,Automatic,- (,4.8 
+475,ES,MINI One,20500.0,8126 ,2019,102 hp,Gasoline,Manual,- (,4.9 
+476,ES,MINI Cooper,21208.0,50061 ,2017,116 hp,Diesel,Automatic,- (,- (
+477,ES,MINI Cooper,21900.0,39400 ,2016,192 hp,Gasoline,Manual,- (,5.7 
+478,ES,MINI Cooper,21990.0,82500 ,2017,170 hp,Diesel,Automatic,- (,4 
+479,ES,MINI Cooper,27900.0,9717 ,2020,184 hp,Electric,Automatic,0 ,0 
+480,ES,MINI Cooper,28900.0,14000 ,2020,184 hp,Electric,Automatic,0 ,0 
+481,ES,MINI John Cooper Works,28990.0,23010 ,2018,231 hp,Gasoline,Manual,- (,6.6 
+482,ES,MINI Cooper,28990.0,1860 ,2020,178 hp,Gasoline,Manual,- (,6.1 
+483,ES,MINI Cooper,29500.0,19500 ,2020,192 hp,Gasoline,Automatic,- (,5.2 
+484,ES,MINI Cooper,29900.0,31000 ,2019,192 hp,Gasoline,Automatic,- (,5.4 
+485,ES,MINI Cooper,31400.0,3155 ,2020,136 hp,Gasoline,Automatic,- (,5 
+486,ES,MINI Cooper,31900.0,51000 ,2006,211 hp,Gasoline,Manual,- (,9 
+487,ES,MINI John Cooper Works,35100.0,18675 ,2020,231 hp,Gasoline,Automatic,- (,5.7 
+488,ES,MINI John Cooper Works,43900.0,25 ,2021,231 hp,Gasoline,Automatic,- (,0 
+489,ES,MINI John Cooper Works,47900.0,2900 ,2020,306 hp,Gasoline,Automatic,- (,7.3 
+490,ES,MINI Cooper,3000.0,209000 ,2004,116 hp,Gasoline,Manual,- (,6.9 
+491,ES,MINI Cooper,3490.0,315000 ,2002,116 hp,Gasoline,Manual,- (,6.7 
+492,ES,MINI One,3490.0,200796 ,2003,90 hp,Gasoline,Manual,- (,6.5 
+493,,,,,,90 hp,,,,
+494,,,,,,,,,,
+495,,,,,,,,,,
+496,ES,MINI One,4980.0,109000 ,2005,,Gasoline,Manual,- (,6.8 
+497,,,,,,,,,,
+498,ES,Audi A3,9400.0,272500 ,2014,110 hp,Diesel,Manual,- (,3.8 
+499,ES,Audi A3,10990.0,76000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+500,ES,Audi A3,10999.0,155000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+501,ES,Audi A3,13999.0,144435 ,2016,110 hp,Diesel,Automatic,- (,3.8 
+502,ES,Audi A3,14300.0,24999 ,2011,140 hp,Diesel,Manual,- (,4.4 
+503,ES,Audi A3,14500.0,127356 ,2016,110 hp,Diesel,Manual,- (,4 
+504,ES,Audi A3,14800.0,189000 ,2015,150 hp,Diesel,Manual,- (,4.1 
+505,ES,Audi A3,15390.0,76490 ,2017,110 hp,Diesel,Manual,- (,4 
+506,ES,Audi A3,15500.0,117300 ,2015,110 hp,Diesel,Manual,- (,- (
+507,ES,Audi A3,15990.0,80650 ,2017,116 hp,Diesel,Manual,- (,4.1 
+508,ES,Audi A3,9400.0,272500 ,2014,110 hp,Diesel,Manual,- (,3.8 
+509,ES,Audi A3,10990.0,76000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+510,ES,Audi A3,10999.0,155000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+511,ES,Audi A3,13999.0,144435 ,2016,110 hp,Diesel,Automatic,- (,3.8 
+512,ES,Audi A3,14300.0,24999 ,2011,140 hp,Diesel,Manual,- (,4.4 
+513,ES,Audi A3,14500.0,127356 ,2016,110 hp,Diesel,Manual,- (,4 
+514,ES,Audi A3,14800.0,189000 ,2015,150 hp,Diesel,Manual,- (,4.1 
+515,ES,Audi A3,15390.0,76490 ,2017,110 hp,Diesel,Manual,- (,4 
+516,ES,Audi A3,15500.0,117300 ,2015,110 hp,Diesel,Manual,- (,- (
+517,ES,Audi A3,15990.0,80650 ,2017,116 hp,Diesel,Manual,- (,4.1 
+518,ES,Audi A3,9400.0,272500 ,2014,110 hp,Diesel,Manual,- (,3.8 
+519,ES,Audi A3,10990.0,76000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+520,ES,Audi A3,10999.0,155000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+521,ES,Audi A3,13999.0,144435 ,2016,110 hp,Diesel,Automatic,- (,3.8 
+522,ES,Audi A3,14300.0,24999 ,2011,140 hp,Diesel,Manual,- (,4.4 
+523,ES,Audi A3,14500.0,127356 ,2016,110 hp,Diesel,Manual,- (,4 
+524,ES,Audi A3,14800.0,189000 ,2015,150 hp,Diesel,Manual,- (,4.1 
+525,ES,Audi A3,15390.0,76490 ,2017,110 hp,Diesel,Manual,- (,4 
+526,ES,Audi A3,15500.0,117300 ,2015,110 hp,Diesel,Manual,- (,- (
+527,ES,Audi A3,15990.0,80650 ,2017,116 hp,Diesel,Manual,- (,4.1 
+528,ES,Audi A3,9400.0,272500 ,2014,110 hp,Diesel,Manual,- (,3.8 
+529,ES,Audi A3,10990.0,76000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+530,ES,Audi A3,10999.0,155000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+531,ES,Audi A3,13999.0,144435 ,2016,110 hp,Diesel,Automatic,- (,3.8 
+532,ES,Audi A3,14300.0,24999 ,2011,140 hp,Diesel,Manual,- (,4.4 
+533,ES,Audi A3,14500.0,127356 ,2016,110 hp,Diesel,Manual,- (,4 
+534,ES,Audi A3,14800.0,189000 ,2015,150 hp,Diesel,Manual,- (,4.1 
+535,ES,Audi A3,15390.0,76490 ,2017,110 hp,Diesel,Manual,- (,4 
+536,ES,Audi A3,15500.0,117300 ,2015,110 hp,Diesel,Manual,- (,- (
+537,ES,Audi A3,15990.0,80650 ,2017,116 hp,Diesel,Manual,- (,4.1 
+538,ES,Audi A3,9400.0,272500 ,2014,110 hp,Diesel,Manual,- (,3.8 
+539,ES,Audi A3,10990.0,76000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+540,ES,Audi A3,10999.0,155000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+541,ES,Audi A3,13999.0,144435 ,2016,110 hp,Diesel,Automatic,- (,3.8 
+542,ES,Audi A3,14300.0,24999 ,2011,140 hp,Diesel,Manual,- (,4.4 
+543,ES,Audi A3,14500.0,127356 ,2016,110 hp,Diesel,Manual,- (,4 
+544,ES,Audi A3,14800.0,189000 ,2015,150 hp,Diesel,Manual,- (,4.1 
+545,ES,Audi A3,15390.0,76490 ,2017,110 hp,Diesel,Manual,- (,4 
+546,ES,Audi A3,15500.0,117300 ,2015,110 hp,Diesel,Manual,- (,- (
+547,ES,Audi A3,15990.0,80650 ,2017,116 hp,Diesel,Manual,- (,4.1 
+548,ES,Audi A3,9400.0,272500 ,2014,110 hp,Diesel,Manual,- (,3.8 
+549,ES,Audi A3,10990.0,76000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+550,ES,Audi A3,10999.0,155000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+551,ES,Audi A3,13999.0,144435 ,2016,110 hp,Diesel,Automatic,- (,3.8 
+552,ES,Audi A3,14300.0,24999 ,2011,140 hp,Diesel,Manual,- (,4.4 
+553,ES,Audi A3,14500.0,127356 ,2016,110 hp,Diesel,Manual,- (,4 
+554,ES,Audi A3,14800.0,189000 ,2015,150 hp,Diesel,Manual,- (,4.1 
+555,ES,Audi A3,15390.0,76490 ,2017,110 hp,Diesel,Manual,- (,4 
+556,ES,Audi A3,15500.0,117300 ,2015,110 hp,Diesel,Manual,- (,- (
+557,ES,Audi A3,15990.0,80650 ,2017,116 hp,Diesel,Manual,- (,4.1 
+558,ES,Audi A3,9400.0,272500 ,2014,110 hp,Diesel,Manual,- (,3.8 
+559,ES,Audi A3,10990.0,76000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+560,ES,Audi A3,10999.0,155000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+561,ES,Audi A3,13999.0,144435 ,2016,110 hp,Diesel,Automatic,- (,3.8 
+562,ES,Audi A3,14300.0,24999 ,2011,140 hp,Diesel,Manual,- (,4.4 
+563,ES,Audi A3,14500.0,127356 ,2016,110 hp,Diesel,Manual,- (,4 
+564,ES,Audi A3,14800.0,189000 ,2015,150 hp,Diesel,Manual,- (,4.1 
+565,ES,Audi A3,15390.0,76490 ,2017,110 hp,Diesel,Manual,- (,4 
+566,ES,Audi A3,15500.0,117300 ,2015,110 hp,Diesel,Manual,- (,- (
+567,ES,Audi A3,15990.0,80650 ,2017,116 hp,Diesel,Manual,- (,4.1 
+568,ES,Audi A3,9400.0,272500 ,2014,110 hp,Diesel,Manual,- (,3.8 
+569,ES,Audi A3,10990.0,76000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+570,ES,Audi A3,10999.0,155000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+571,ES,Audi A3,13999.0,144435 ,2016,110 hp,Diesel,Automatic,- (,3.8 
+572,ES,Audi A3,14300.0,24999 ,2011,140 hp,Diesel,Manual,- (,4.4 
+573,ES,Audi A3,14500.0,127356 ,2016,110 hp,Diesel,Manual,- (,4 
+574,ES,Audi A3,14800.0,189000 ,2015,150 hp,Diesel,Manual,- (,4.1 
+575,ES,Audi A3,15390.0,76490 ,2017,110 hp,Diesel,Manual,- (,4 
+576,ES,Audi A3,15500.0,117300 ,2015,110 hp,Diesel,Manual,- (,- (
+577,ES,Audi A3,15990.0,80650 ,2017,116 hp,Diesel,Manual,- (,4.1 
+578,ES,Audi A3,9400.0,272500 ,2014,110 hp,Diesel,Manual,- (,3.8 
+579,ES,Audi A3,10990.0,76000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+580,ES,Audi A3,10999.0,155000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+581,ES,Audi A3,13999.0,144435 ,2016,110 hp,Diesel,Automatic,- (,3.8 
+582,ES,Audi A3,14300.0,24999 ,2011,140 hp,Diesel,Manual,- (,4.4 
+583,ES,Audi A3,14500.0,127356 ,2016,110 hp,Diesel,Manual,- (,4 
+584,ES,Audi A3,14800.0,189000 ,2015,150 hp,Diesel,Manual,- (,4.1 
+585,ES,Audi A3,15390.0,76490 ,2017,110 hp,Diesel,Manual,- (,4 
+586,ES,Audi A3,15500.0,117300 ,2015,110 hp,Diesel,Manual,- (,- (
+587,ES,Audi A3,15990.0,80650 ,2017,116 hp,Diesel,Manual,- (,4.1 
+588,ES,Audi A3,9400.0,272500 ,2014,110 hp,Diesel,Manual,- (,3.8 
+589,ES,Audi A3,10990.0,76000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+590,ES,Audi A3,10999.0,155000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+591,ES,Audi A3,13999.0,144435 ,2016,110 hp,Diesel,Automatic,- (,3.8 
+592,ES,Audi A3,14300.0,24999 ,2011,140 hp,Diesel,Manual,- (,4.4 
+593,ES,Audi A3,14500.0,127356 ,2016,110 hp,Diesel,Manual,- (,4 
+594,ES,Audi A3,14800.0,189000 ,2015,150 hp,Diesel,Manual,- (,4.1 
+595,ES,Audi A3,15390.0,76490 ,2017,110 hp,Diesel,Manual,- (,4 
+596,ES,Audi A3,15500.0,117300 ,2015,110 hp,Diesel,Manual,- (,- (
+597,ES,Audi A3,15990.0,80650 ,2017,116 hp,Diesel,Manual,- (,4.1 
+598,ES,Audi A3,9400.0,272500 ,2014,110 hp,Diesel,Manual,- (,3.8 
+599,ES,Audi A3,10990.0,76000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+600,ES,Audi A3,10999.0,155000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+601,ES,Audi A3,13999.0,144435 ,2016,110 hp,Diesel,Automatic,- (,3.8 
+602,ES,Audi A3,14300.0,24999 ,2011,140 hp,Diesel,Manual,- (,4.4 
+603,ES,Audi A3,14500.0,127356 ,2016,110 hp,Diesel,Manual,- (,4 
+604,ES,Audi A3,14800.0,189000 ,2015,150 hp,Diesel,Manual,- (,4.1 
+605,ES,Audi A3,15390.0,76490 ,2017,110 hp,Diesel,Manual,- (,4 
+606,ES,Audi A3,15500.0,117300 ,2015,110 hp,Diesel,Manual,- (,- (
+607,ES,Audi A3,15990.0,80650 ,2017,116 hp,Diesel,Manual,- (,4.1 
+608,ES,Audi A3,9400.0,272500 ,2014,110 hp,Diesel,Manual,- (,3.8 
+609,ES,Audi A3,10990.0,76000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+610,ES,Audi A3,10999.0,155000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+611,ES,Audi A3,13999.0,144435 ,2016,110 hp,Diesel,Automatic,- (,3.8 
+612,ES,Audi A3,14300.0,24999 ,2011,140 hp,Diesel,Manual,- (,4.4 
+613,ES,Audi A3,14500.0,127356 ,2016,110 hp,Diesel,Manual,- (,4 
+614,ES,Audi A3,14800.0,189000 ,2015,150 hp,Diesel,Manual,- (,4.1 
+615,ES,Audi A3,15390.0,76490 ,2017,110 hp,Diesel,Manual,- (,4 
+616,ES,Audi A3,15500.0,117300 ,2015,110 hp,Diesel,Manual,- (,- (
+617,ES,Audi A3,15990.0,80650 ,2017,116 hp,Diesel,Manual,- (,4.1 
+618,ES,Audi A3,9400.0,272500 ,2014,110 hp,Diesel,Manual,- (,3.8 
+619,ES,Audi A3,10990.0,76000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+620,ES,Audi A3,10999.0,155000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+621,ES,Audi A3,13999.0,144435 ,2016,110 hp,Diesel,Automatic,- (,3.8 
+622,ES,Audi A3,14300.0,24999 ,2011,140 hp,Diesel,Manual,- (,4.4 
+623,ES,Audi A3,14500.0,127356 ,2016,110 hp,Diesel,Manual,- (,4 
+624,ES,Audi A3,14800.0,189000 ,2015,150 hp,Diesel,Manual,- (,4.1 
+625,ES,Audi A3,15390.0,76490 ,2017,110 hp,Diesel,Manual,- (,4 
+626,ES,Audi A3,15500.0,117300 ,2015,110 hp,Diesel,Manual,- (,- (
+627,ES,Audi A3,15990.0,80650 ,2017,116 hp,Diesel,Manual,- (,4.1 
+628,ES,Audi A3,9400.0,272500 ,2014,110 hp,Diesel,Manual,- (,3.8 
+629,ES,Audi A3,10990.0,76000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+630,ES,Audi A3,10999.0,155000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+631,ES,Audi A3,13999.0,144435 ,2016,110 hp,Diesel,Automatic,- (,3.8 
+632,ES,Audi A3,14300.0,24999 ,2011,140 hp,Diesel,Manual,- (,4.4 
+633,ES,Audi A3,14500.0,127356 ,2016,110 hp,Diesel,Manual,- (,4 
+634,ES,Audi A3,14800.0,189000 ,2015,150 hp,Diesel,Manual,- (,4.1 
+635,ES,Audi A3,15390.0,76490 ,2017,110 hp,Diesel,Manual,- (,4 
+636,ES,Audi A3,15500.0,117300 ,2015,110 hp,Diesel,Manual,- (,- (
+637,ES,Audi A3,15990.0,80650 ,2017,116 hp,Diesel,Manual,- (,4.1 
+638,ES,Audi A3,9400.0,272500 ,2014,110 hp,Diesel,Manual,- (,3.8 
+639,ES,Audi A3,10990.0,76000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+640,ES,Audi A3,10999.0,155000 ,2010,105 hp,Diesel,Manual,- (,4.3 
+641,ES,Audi A3,13999.0,144435 ,2016,110 hp,Diesel,Automatic,- (,3.8 
+642,ES,Audi A3,14300.0,24999 ,2011,140 hp,Diesel,Manual,- (,4.4 
+643,ES,Audi A3,14500.0,127356 ,2016,110 hp,Diesel,Manual,- (,4 
+644,ES,Audi A3,14800.0,189000 ,2015,150 hp,Diesel,Manual,- (,4.1 
+645,ES,Audi A3,15390.0,76490 ,2017,110 hp,Diesel,Manual,- (,4 
+646,ES,Audi A3,15500.0,117300 ,2015,110 hp,Diesel,Manual,- (,- (
+647,ES,Audi A3,15990.0,80650 ,2017,116 hp,Diesel,Manual,- (,4.1 
+648,ES,Renault Megane,1300.0,100000 ,2001,95 hp,Gasoline,Manual,- (,6.6 
+649,ES,Renault Megane,1950.0,170000 ,2001,80 hp,Diesel,Manual,- (,5.5 
+650,ES,Renault Megane,2450.0,181007 ,2001,102 hp,Diesel,Manual,- (,5.2 
+651,ES,Renault Megane,2700.0,86000 ,2004,114 hp,Gasoline,Manual,- (,6.8 
+652,ES,Renault Megane,3400.0,341000 ,2010,86 hp,Diesel,Manual,- (,4.5 
+653,ES,Renault Megane,3495.0,226100 ,2007,111 hp,Gasoline,Automatic,- (,8 
+654,ES,Renault Megane,8100.0,120000 ,2017,90 hp,Diesel,Manual,- (,3.7 
+655,ES,Renault Megane,9790.0,85725 ,2017,90 hp,Diesel,Manual,- (,3.7 
+656,ES,Renault Megane,9920.0,134681 ,2016,101 hp,Gasoline,Manual,- (,5.4 
+657,ES,Renault Megane,10490.0,88075 ,2017,90 hp,Diesel,Manual,- (,3.7 
+658,ES,Renault Megane,11290.0,140096 ,2018,110 hp,Diesel,Automatic,- (,3.7 
+659,ES,Renault Megane,11950.0,118000 ,2016,110 hp,Diesel,Automatic,- (,3.7 
+660,ES,Renault Megane,11990.0,115723 ,2016,110 hp,Diesel,Manual,- (,3.7 
+661,ES,Renault Megane,12390.0,67189 ,2019,116 hp,Gasoline,Manual,- (,5.4 
+662,ES,Renault Megane,12990.0,71284 ,2019,140 hp,Gasoline,Manual,- (,- (
+663,ES,Renault Megane,13500.0,83000 ,2018,110 hp,Diesel,Manual,- (,3.7 
+664,ES,Renault Megane,13990.0,76157 ,2019,140 hp,Gasoline,Manual,- (,- (
+665,ES,Renault Megane,14500.0,131635 ,2017,110 hp,Diesel,Manual,- (,3.7 
+666,ES,Renault Megane,14500.0,110276 ,2019,116 hp,Diesel,Manual,- (,- (
+667,ES,Renault Megane,14990.0,159159 ,2010,250 hp,Gasoline,Manual,- (,8.4 
+668,ES,Renault Megane,16950.0,86000 ,2017,205 hp,Gasoline,Automatic,- (,6 
+669,ES,Renault Megane,20490.0,16714 ,2021,159 hp,Gasoline,Automatic,- (,5.9 
+670,ES,Renault Megane,23650.0,13000 ,2020,159 hp,Electric/Gasoline,Automatic,- (,0 
+671,ES,Renault Megane,27890.0,20672 ,2018,279 hp,Gasoline,Automatic,- (,6.9 
+672,ES,Renault Megane,32208.0,49793 ,2020,300 hp,Gasoline,Automatic,- (,- (
+673,ES,Renault Megane,32208.0,49793 ,2020,300 hp,Gasoline,Automatic,- (,- (
+674,ES,Renault Megane,32208.0,49793 ,2020,300 hp,Gasoline,Automatic,- (,- (
+675,ES,Renault Megane,32900.0,17000 ,2019,280 hp,Gasoline,Automatic,- (,- (
+676,ES,Renault Megane,35490.0,22500 ,2020,300 hp,Gasoline,Automatic,- (,0 
+677,ES,Renault Megane,1500.0,84515 ,1999,75 hp,Gasoline,Manual,- (,7 
+678,ES,Renault Megane,2399.0,239829 ,2007,86 hp,Diesel,Manual,- (,4.5 
+679,ES,Renault Megane,2950.0,124000 ,2004,114 hp,Gasoline,Manual,- (,6.8 
+680,ES,Renault Megane,5495.0,103000 ,2008,111 hp,Gasoline,Manual,- (,7 
+681,ES,Renault Megane,8600.0,113713 ,2014,95 hp,Diesel,Manual,- (,- (
+682,ES,Renault Megane,8999.0,150000 ,2016,110 hp,Diesel,Manual,- (,3.5 
+683,ES,Renault Megane,9490.0,116000 ,2015,131 hp,Gasoline,Manual,- (,- (
+684,ES,Renault Megane,9500.0,53000 ,2015,116 hp,Gasoline,Manual,- (,5.3 
+685,ES,Renault Megane,10300.0,107000 ,2015,110 hp,Diesel,Manual,- (,3.5 
+686,ES,Renault Megane,11790.0,121144 ,2017,110 hp,Diesel,Manual,- (,3.7 
+687,ES,Renault Megane,12790.0,52486 ,2017,132 hp,Gasoline,Manual,- (,5.3 
+688,ES,Renault Megane,12990.0,109000 ,2017,110 hp,Diesel,Manual,- (,3.7 
+689,ES,Renault Megane,14100.0,122400 ,2017,131 hp,Diesel,Manual,- (,4 
+690,ES,Renault Megane,16700.0,58049 ,2017,110 hp,Diesel,Automatic,- (,3.7 
+691,ES,Renault Megane,16890.0,41480 ,2019,116 hp,Diesel,Manual,- (,3.8 
+692,ES,Renault Megane,18990.0,55650 ,2017,205 hp,Gasoline,Automatic,- (,6 
+693,ES,Renault Megane,19200.0,19208 ,2021,140 hp,Gasoline,Manual,- (,- (
+694,ES,Renault Megane,19200.0,9505 ,2021,140 hp,Gasoline,Manual,- (,- (
+695,ES,Renault Megane,19800.0,8918 ,2021,116 hp,Diesel,Manual,- (,4.6 
+696,ES,Renault Megane,19850.0,22157 ,2021,140 hp,Gasoline,Manual,- (,- (
+697,ES,Renault Megane,19990.0,14437 ,2021,140 hp,Gasoline,Automatic,- (,5.4 
+698,ES,Renault Megane,21900.0,11271 ,2020,160 hp,Gasoline,Automatic,- (,- (
+699,ES,Renault Megane,22712.0,9650 ,2020,159 hp,Electric/Gasoline,Automatic,- (,0 
+700,ES,Renault Megane,24490.0,11560 ,2021,159 hp,Electric/Gasoline,Automatic,- (,0 
+701,ES,Renault Megane,26300.0,100 ,2020,159 hp,Gasoline,Automatic,- (,4.3 
+702,,,,,,80 hp,,,,
+703,,,,,,80 hp,,,,
+704,ES,Renault Megane,1450.0,103337 ,2004,80 hp,Diesel,Manual,- (,4.6 
+705,ES,Renault Megane,1450.0,103337 ,2004,80 hp,Diesel,Manual,- (,4.6 
+706,ES,Renault Megane,1450.0,103337 ,2004,80 hp,Diesel,Manual,- (,4.6 
+707,ES,Renault Megane,1450.0,103337 ,2004,80 hp,Diesel,Manual,- (,4.6 
+708,ES,Renault Megane,1450.0,103337 ,2004,105 hp,Diesel,Manual,- (,4.6 
+709,ES,Renault Megane,1450.0,103337 ,2004,131 hp,Diesel,Manual,- (,4.6 
+710,ES,Renault Megane,1500.0,250000 ,2002,98 hp,Diesel,Manual,- (,5.6 
+711,,,,,,88 hp,,,,
+712,ES,Renault Megane,1550.0,344000 ,2007,88 hp,Diesel,Manual,- (,5.8 
+713,ES,Renault Megane,1650.0,252000 ,2007,65 hp,Gasoline,Manual,- (,6.7 
+714,ES,Renault Megane,1650.0,190000 ,1999,111 hp,Gasoline,Manual,- (,8.2 
+715,ES,Renault Megane,1650.0,190000 ,1999,,Gasoline,Manual,- (,8.2 
+716,ES,Renault Megane,1650.0,199999 ,1998,,Diesel,Manual,- (,6 
+717,,,,,,,,,,
+718,ES,Renault Megane,1700.0,100205 ,2000,,Gasoline,Manual,- (,7.2 
+719,,,,,,,,,,
+720,ES,Skoda Octavia,12000.0,84987 ,2016,110 hp,Diesel,Manual,- (,3.5 
+721,ES,Skoda Octavia,14500.0,27916 ,2019,116 hp,Gasoline,Automatic,- (,4.7 
+722,ES,Skoda Octavia,15990.0,99960 ,2018,150 hp,Diesel,Manual,- (,4.3 
+723,ES,Skoda Octavia,16500.0,135534 ,2018,150 hp,Diesel,Automatic,- (,- (
+724,ES,Skoda Octavia,18600.0,88457 ,2018,150 hp,Diesel,Manual,- (,4.3 
+725,ES,Skoda Octavia,18900.0,6015 ,2019,131 hp,Diesel,Automatic,- (,3.8 kg/100 km 
+726,ES,Skoda Octavia,20500.0,34359 ,2021,150 hp,Gasoline,Manual,- (,- (
+727,ES,Skoda Octavia,23400.0,1 ,2021,150 hp,Gasoline,Manual,- (,- (
+728,ES,Skoda Octavia,25190.0,30441 ,2019,245 hp,Gasoline,Automatic,- (,6.1 
+729,ES,Skoda Octavia,25390.0,315 ,2020,150 hp,Diesel,Automatic,- (,- (
+730,ES,Skoda Octavia,25390.0,315 ,2020,150 hp,Diesel,Automatic,- (,- (
+731,ES,Skoda Octavia,34990.0,4500 ,2021,245 hp,Gasoline,Automatic,- (,6.5 
+732,ES,Skoda Octavia,36900.0,10 ,2021,245 hp,Electric/Gasoline,Automatic,- (,1.4 
+733,ES,Skoda Octavia,36990.0,10 ,2022,245 hp,Gasoline,Automatic,- (,6.5 
+734,ES,Skoda Octavia,40700.0,5500 ,2021,245 hp,Electric/Gasoline,Automatic,- (,1.4 
+735,ES,Skoda Octavia,3400.0,172000 ,2005,110 hp,Diesel,Manual,- (,5 
+736,ES,Skoda Octavia,7990.0,145087 ,2008,170 hp,Diesel,Automatic,- (,6 
+737,ES,Skoda Octavia,10900.0,199000 ,2016,150 hp,Diesel,Manual,- (,4 
+738,ES,Skoda Octavia,13800.0,98685 ,2018,116 hp,Diesel,Manual,- (,4 
+739,ES,Skoda Octavia,13950.0,105000 ,2018,116 hp,Diesel,Automatic,- (,3.9 
+740,ES,Skoda Octavia,14299.0,77255 ,2019,116 hp,Gasoline,Manual,- (,- (
+741,ES,Skoda Octavia,14950.0,112000 ,2018,116 hp,Diesel,Manual,- (,4 
+742,ES,Skoda Octavia,15990.0,55200 ,2018,116 hp,Gasoline,Manual,- (,4.8 
+743,ES,Skoda Octavia,19900.0,76712 ,2017,150 hp,Diesel,Automatic,- (,4.5 
+744,ES,Skoda Octavia,21490.0,119000 ,2016,184 hp,Diesel,Automatic,- (,5.1 
+745,ES,Skoda Octavia,25390.0,315 ,2020,150 hp,Diesel,Automatic,- (,- (
+746,,,,,,90 hp,,,,
+747,ES,Skoda Octavia,2400.0,166761 ,2000,90 hp,Diesel,Manual,- (,5 
+748,ES,Skoda Octavia,2400.0,166761 ,2000,90 hp,Diesel,Manual,- (,5 
+749,ES,Skoda Octavia,2400.0,166761 ,2000,90 hp,Diesel,Manual,- (,5 
+750,ES,Skoda Octavia,2400.0,166761 ,2000,90 hp,Diesel,Manual,- (,5 
+751,ES,Skoda Octavia,2400.0,166761 ,2000,105 hp,Diesel,Manual,- (,5 
+752,,,,,,,,,,
+753,ES,Skoda Octavia,3500.0,235000 ,2008,,Diesel,Manual,- (,5 
+754,,,,,,,,,,
+755,DE,MINI One,3990.0,170000 ,2002,90 hp,Gasoline,Manual,164 ,6.8 
+756,DE,MINI One,4450.0,169000 ,2009,75 hp,Gasoline,Manual,128 ,5.3 
+757,DE,MINI Cooper,6999.0,112382 ,2008,116 hp,Gasoline,Manual,175 ,7.3 
+758,DE,MINI Cooper,9990.0,124847 ,2010,174 hp,Gasoline,Automatic,185 ,7.9 
+759,DE,MINI Cooper,9990.0,158478 ,2013,111 hp,Diesel,Manual,117 ,4.4 
+760,DE,MINI Cooper,9999.0,123000 ,2010,184 hp,Gasoline,Manual,156 ,6.6 
+761,DE,MINI Cooper,10350.0,87600 ,2013,143 hp,Diesel,Manual,114 ,4.3 
+762,DE,MINI Cooper,11900.0,80062 ,2014,136 hp,Gasoline,Manual,0 ,4.6 
+763,DE,MINI One,11990.0,9794 ,2015,75 hp,Gasoline,Manual,117 ,5 
+764,DE,MINI Cooper,12390.0,73254 ,2014,136 hp,Gasoline,Manual,105 ,4.5 
+765,DE,MINI Cooper,12490.0,40550 ,2015,122 hp,Gasoline,Manual,127 ,5.4 
+766,DE,MINI One,12900.0,29000 ,2017,102 hp,Gasoline,Manual,109 ,4.6 
+767,DE,MINI One,14490.0,49988 ,2015,102 hp,Gasoline,Automatic,112 ,4.8 
+768,DE,MINI Cooper,15880.0,39679 ,2015,136 hp,Gasoline,Manual,105 ,4.5 
+769,DE,MINI Cooper,15890.0,37169 ,2017,136 hp,Gasoline,Manual,105 ,4.5 
+770,DE,MINI Cooper,16320.0,44655 ,2016,136 hp,Gasoline,Manual,111 ,4.8 
+771,DE,MINI One,16435.0,16400 ,2018,102 hp,Gasoline,Manual,122 ,5.4 
+772,DE,MINI One,16490.0,36900 ,2018,95 hp,Diesel,Manual,90 ,3.4 
+773,DE,MINI Cooper,16880.0,9704 ,2018,136 hp,Gasoline,Manual,111 ,4.7 
+774,DE,MINI Cooper,16900.0,85000 ,2016,192 hp,Gasoline,Manual,137 ,5.8 
+775,DE,MINI Cooper,16900.0,75073 ,2015,192 hp,Gasoline,Manual,0 ,5.8 
+776,DE,MINI Cooper,17390.0,31319 ,2013,122 hp,Gasoline,Manual,135 ,5.7 
+777,DE,MINI Cooper,17599.0,122000 ,2016,192 hp,Gasoline,Automatic,139 ,5.9 
+778,DE,MINI Cooper,18240.0,20245 ,2015,136 hp,Gasoline,Automatic,111 ,4.8 
+779,DE,MINI Cooper,18399.0,69800 ,2017,116 hp,Diesel,Automatic,95 ,3.6 
+780,DE,MINI Cooper,18450.0,34990 ,2018,136 hp,Gasoline,Manual,122 ,5.4 
+781,DE,MINI Cooper,18490.0,73298 ,2018,136 hp,Gasoline,Automatic,109 ,4.7 
+782,DE,MINI Cooper,18499.0,55131 ,2016,192 hp,Gasoline,Manual,140 ,5.9 
+783,DE,MINI One,18980.0,19526 ,2017,102 hp,Gasoline,Automatic,116 ,4.9 
+784,DE,MINI Cooper,18990.0,54326 ,2016,192 hp,Gasoline,Manual,137 ,5.8 
+785,DE,MINI Cooper,19290.0,- ,,136 hp,,,,
+786,,,,,2018,116 hp,Gasoline,Manual,144 ,5.4 
+787,DE,MINI Cooper,21870.0,31035 ,2018,136 hp,Diesel,Manual,0 ,3.9 
+788,DE,MINI Cooper,21900.0,48699 ,2019,192 hp,Gasoline,Manual,0 ,5.4 
+789,DE,MINI Cooper,21900.0,19986 ,,192 hp,,,,
+790,DE,MINI Cooper,21990.0,- ,2018,170 hp,Gasoline,Automatic,127 ,5.6 
+791,,,,,2018,136 hp,Gasoline,Automatic,123 ,5.3 
+792,DE,MINI Cooper,22990.0,36950 ,,136 hp,,,,
+793,DE,MINI Cooper,23590.0,70000 ,2018,136 hp,Diesel,Automatic,107 ,4 
+794,DE,MINI Cooper,23690.0,- ,2018,136 hp,Gasoline,Automatic,122 ,5.4 
+795,,,,,,136 hp,,,,
+796,DE,MINI Cooper,24989.0,64750 ,2021,136 hp,Gasoline,Automatic,121 ,5.1 
+797,DE,MINI Cooper,24995.0,16141 ,2021,231 hp,Gasoline,Automatic,121 ,5.1 
+798,DE,MINI John Cooper Works,25790.0,- ,2021,136 hp,Gasoline,Automatic,121 ,5.1 
+799,,,,,2021,136 hp,Gasoline,Automatic,121 ,5.1 
+800,DE,MINI Cooper,28280.0,8990 ,2021,136 hp,Gasoline,Automatic,132 ,5.1 
+801,DE,MINI Cooper,28290.0,8790 ,2018,136 hp,Gasoline,Automatic,130 ,5.7 
+802,DE,MINI Cooper,28390.0,8990 ,2021,192 hp,Gasoline,Automatic,121 ,5.1 
+803,DE,MINI Cooper,28390.0,6990 ,2021,192 hp,Gasoline,Automatic,121 ,5.1 
+804,DE,MINI Cooper,28489.0,17050 ,2021,136 hp,Gasoline,Automatic,121 ,5.1 
+805,DE,MINI John Cooper Works,28490.0,30295 ,2021,136 hp,Gasoline,Automatic,132 ,5 
+806,DE,MINI Cooper,28590.0,5990 ,2021,136 hp,Gasoline,Automatic,145 ,5.3 
+807,DE,MINI Cooper,28680.0,5990 ,2021,136 hp,Gasoline,Manual,145 ,6.4 
+808,DE,MINI Cooper,28690.0,4020 ,2021,231 hp,Gasoline,Automatic,132 ,5 
+809,DE,MINI Cooper,28690.0,13490 ,2021,231 hp,Gasoline,Automatic,132 ,5 
+810,DE,MINI Cooper,28980.0,12790 ,2021,136 hp,Gasoline,Automatic,132 ,5 
+811,DE,MINI Cooper,28980.0,10 ,2021,136 hp,Gasoline,Automatic,132 ,5 
+812,DE,MINI Cooper,29680.0,5990 ,2018,277 hp,Gasoline,Automatic,130 ,6.7 
+813,DE,MINI Cooper,29690.0,6990 ,2018,231 hp,Gasoline,Automatic,130 ,6.7 
+814,DE,MINI Cooper,29690.0,4050 ,2021,231 hp,Gasoline,Automatic,132 ,5 
+815,DE,MINI Cooper,29740.0,7390 ,2019,184 hp,Gasoline,Automatic,122 ,5.4 
+816,DE,MINI John Cooper Works,29749.0,39750 ,2015,192 hp,Gasoline,Automatic,133 ,5.7 
+817,DE,MINI John Cooper Works,29749.0,39750 ,2018,231 hp,Gasoline,Automatic,130 ,5.7 
+818,DE,MINI Cooper,29980.0,4290 ,2018,150 hp,Gasoline,Automatic,130 ,5.7 
+819,DE,MINI Cooper,29990.0,22200 ,2022,136 hp,Electric,Automatic,0 ,- (
+820,DE,MINI John Cooper Works,29990.0,59999 ,2019,231 hp,Gasoline,Automatic,127 ,5 
+821,DE,MINI John Cooper Works,30490.0,40213 ,2018,136 hp,Gasoline,Automatic,140 ,6.1 
+822,DE,MINI John Cooper Works,30900.0,53460 ,2021,178 hp,Diesel,Automatic,111 ,4.2 
+823,DE,MINI Cooper,30949.0,3000 ,2022,102 hp,Gasoline,Automatic,132 ,5 
+824,DE,MINI Cooper,30990.0,13750 ,2020,136 hp,Gasoline,Automatic,135 ,5.9 
+825,DE,MINI John Cooper Works,31490.0,24300 ,2022,102 hp,Gasoline,Manual,130 ,6.1 
+826,DE,MINI Cooper,32490.0,9896 ,2022,102 hp,Gasoline,Automatic,121 ,5.3 
+827,DE,MINI Cooper,33500.0,1000 ,,136 hp,,,,
+828,DE,MINI John Cooper Works,33600.0,15500 ,,102 hp,,,,
+829,DE,MINI Cooper,34499.0,995 ,2015,102 hp,Gasoline,Manual,114 ,4.8 
+830,DE,MINI Cooper,34990.0,11 ,,102 hp,,,,
+831,DE,MINI Cooper,35480.0,0 ,2017,170 hp,Gasoline,Manual,107 ,4.6 
+832,,,,,2017,102 hp,Gasoline,Manual,111 ,4.9 
+833,,,,,,136 hp,,,,
+834,DE,MINI One,12490.0,79899 ,2018,192 hp,Gasoline,Automatic,127 ,5.4 
+835,,,,,2017,136 hp,Gasoline,Automatic,112 ,4.8 
+836,DE,MINI Cooper,15990.0,61605 ,2020,136 hp,Gasoline,Automatic,109 ,4.8 
+837,DE,MINI One,15990.0,20455 ,2019,102 hp,Gasoline,Automatic,119 ,5.2 
+838,,,,,2019,136 hp,Gasoline,Automatic,109 ,4.8 
+839,DE,MINI One,18760.0,25600 ,2015,102 hp,Diesel,Manual,0 ,- (
+840,DE,MINI Cooper,18900.0,22497 ,,192 hp,,,,
+841,DE,MINI One,19120.0,23000 ,2018,102 hp,Gasoline,Automatic,130 ,5.7 
+842,DE,MINI One,19490.0,38138 ,2018,150 hp,Gasoline,Automatic,112 ,4.9 
+843,DE,MINI One,19550.0,19121 ,2015,192 hp,Gasoline,Automatic,123 ,5.3 
+844,DE,MINI Cooper,19890.0,57100 ,2018,136 hp,Gasoline,Automatic,126 ,5.3 
+845,,,,,2018,192 hp,Gasoline,Automatic,122 ,5.4 
+846,DE,MINI One,20700.0,30633 ,2019,192 hp,Gasoline,Automatic,116 ,5.1 
+847,DE,MINI Cooper,20700.0,32776 ,2016,136 hp,Gasoline,Manual,121 ,5.1 
+848,DE,MINI Cooper,20850.0,20689 ,2021,192 hp,Gasoline,Manual,116 ,5 
+849,DE,MINI Cooper,20850.0,23768 ,2018,102 hp,Gasoline,Manual,145 ,6.4 
+850,DE,MINI Cooper,20900.0,25020 ,2020,170 hp,Gasoline,Automatic,119 ,5.2 
+851,DE,MINI One,20900.0,38600 ,2018,231 hp,Diesel,Manual,112 ,4.3 
+852,DE,MINI Cooper,21850.0,48392 ,2017,136 hp,Gasoline,Automatic,126 ,5.3 
+853,DE,MINI One,22450.0,7890 ,2018,102 hp,Gasoline,Automatic,114 ,5 
+854,DE,MINI Cooper,22860.0,24000 ,2020,170 hp,Gasoline,Manual,149 ,6.5 
+855,DE,MINI One,22890.0,19500 ,2018,231 hp,Gasoline,Automatic,128 ,5.5 
+856,DE,MINI Cooper,22890.0,61228 ,2019,184 hp,Gasoline,Automatic,126 ,5.3 
+857,DE,MINI Cooper,22900.0,81000 ,2017,184 hp,Gasoline,Automatic,123 ,5.3 
+858,DE,MINI Cooper,22995.0,25615 ,2020,184 hp,Gasoline,Manual,129 ,5.6 
+859,DE,MINI Cooper,23450.0,8000 ,2018,136 hp,Diesel,Automatic,106 ,4 
+860,DE,MINI Cooper,23490.0,40553 ,2017,,Gasoline,Manual,168 ,7.4 
+861,DE,MINI Cooper,23900.0,4300 ,2021,,Gasoline,Manual,131 ,5.2 
+862,DE,MINI Cooper,23990.0,13990 ,2021,,Gasoline,Manual,127 ,5.5 
+863,DE,MINI One,24290.0,9200 ,2018,,Diesel,Automatic,106 ,4 
+864,DE,MINI Cooper,24890.0,87500 ,,,,,,
+865,DE,MINI John Cooper Works,24900.0,62686 ,2019,,Gasoline,Manual,158 ,6.9 
+866,DE,MINI Cooper,24990.0,25200 ,2021,,Electric,Automatic,0 ,- (
+867,DE,MINI One,25890.0,5005 ,2020,,Electric,Automatic,0 ,- (
+868,DE,MINI Cooper,25990.0,61927 ,2020,,Electric,Automatic,0 ,- (
+869,DE,MINI Cooper,25990.0,0 ,,,,,,
+870,,,,,2021,,Gasoline,Automatic,120 ,5.3 
+871,DE,MINI John Cooper Works,27890.0,45781 ,,,,,,
+872,DE,MINI Cooper,28990.0,1300 ,,,,,,
+873,DE,MINI Cooper,29400.0,13950 ,,,,,,
+874,DE,MINI Cooper,29400.0,9665 ,,,,,,
+875,DE,MINI Cooper,29720.0,0 ,,,,,,
+876,,,,,,,,,,
+877,DE,MINI Cooper,30750.0,6900 ,,,,,,
+878,DE,MINI Cooper,30855.0,5 ,,,,,,
+879,,,,,,,,,,
+880,DE,Audi A3,999.0,234000 ,1999,101 hp,Gasoline,Manual,- (,7.6 
+881,DE,Audi A3,3490.0,140765 ,2002,102 hp,Gasoline,Automatic,192 ,8 
+882,DE,Audi A3,3600.0,280000 ,2007,105 hp,Diesel,Manual,130 ,4.9 
+883,DE,Audi A3,3999.0,128000 ,2006,150 hp,Gasoline,Manual,182 ,7.6 
+884,DE,Audi A3,5480.0,270000 ,2010,140 hp,Diesel,Manual,115 ,5.1 
+885,DE,Audi A3,5490.0,160550 ,2005,150 hp,Gasoline,Manual,182 ,7.6 
+886,DE,Audi A3,5490.0,227000 ,2010,105 hp,Gasoline,Manual,127 ,5.5 
+887,DE,Audi A3,5980.0,102400 ,2011,125 hp,Gasoline,Manual,132 ,5.7 
+888,DE,Audi A3,6990.0,95700 ,2005,102 hp,Gasoline,Manual,168 ,7.1 
+889,DE,Audi A3,7990.0,42000 ,2006,102 hp,Gasoline,Manual,168 ,7.1 
+890,DE,Audi A3,8480.0,120000 ,2009,105 hp,Diesel,Manual,114 ,4.3 
+891,DE,Audi A3,8499.0,106968 ,2010,102 hp,Gasoline,Manual,164 ,6.9 
+892,DE,Audi A3,9870.0,146200 ,2011,90 hp,Diesel,Manual,119 ,4.5 
+893,DE,Audi A3,9930.0,139861 ,2011,125 hp,Gasoline,Manual,149 ,6.3 
+894,DE,Audi A3,9985.0,92000 ,2012,125 hp,Gasoline,Manual,- (,- (
+895,DE,Audi A3,9990.0,137000 ,2013,105 hp,Gasoline,Manual,116 ,4.9 
+896,DE,Audi A3,10985.0,144929 ,2013,122 hp,Gasoline,Manual,123 ,5.2 
+897,DE,Audi A3,11899.0,53974 ,2011,125 hp,Gasoline,Manual,149 ,6.3 
+898,DE,Audi A3,11900.0,59952 ,2012,105 hp,Gasoline,Manual,0 ,5.5 
+899,DE,Audi A3,11970.0,114133 ,2012,140 hp,Diesel,Manual,115 ,4.4 
+900,DE,Audi A3,11999.0,68000 ,2010,160 hp,Gasoline,Manual,174 ,7.3 
+901,DE,Audi A3,13879.0,63924 ,2013,105 hp,Gasoline,Automatic,116 ,4.9 
+902,DE,Audi A3,13899.0,171095 ,2015,150 hp,Diesel,Automatic,116 ,4.4 
+903,DE,Audi A3,13900.0,118257 ,2012,125 hp,Gasoline,Manual,0 ,6.1 
+904,DE,Audi A3,13999.0,114600 ,2014,105 hp,Gasoline,Automatic,115 ,5 
+905,DE,Audi A3,14270.0,115000 ,2013,140 hp,Diesel,Manual,119 ,4.6 
+906,DE,Audi A3,14480.0,86000 ,2015,110 hp,Diesel,Automatic,102 ,3.9 
+907,DE,Audi A3,14590.0,84300 ,2013,122 hp,Gasoline,Automatic,114 ,4.9 
+908,DE,Audi A3,14790.0,145456 ,2013,150 hp,Diesel,Automatic,119 ,4.5 
+909,DE,Audi A3,14830.0,75036 ,2013,140 hp,Diesel,Manual,154 ,5.7 
+910,DE,Audi A3,14900.0,127500 ,2014,150 hp,Gasoline,Automatic,109 ,4.7 
+911,DE,Audi A3,14990.0,99800 ,2013,122 hp,Gasoline,Manual,120 ,5.2 
+912,DE,Audi A3,15380.0,110642 ,2015,150 hp,Gasoline,Manual,0 ,- (
+913,DE,Audi A3,15490.0,100847 ,2013,179 hp,Gasoline,Automatic,- (,- (
+914,DE,Audi A3,15529.0,102442 ,2014,140 hp,Gasoline,Manual,114 ,4.8 
+915,DE,Audi A3,15840.0,66000 ,2013,140 hp,Gasoline,Manual,0 ,- (
+916,DE,Audi A3,15895.0,97574 ,2018,116 hp,Gasoline,Manual,114 ,4.6 
+917,DE,Audi A3,15900.0,76217 ,2013,150 hp,Diesel,Automatic,0 ,4 
+918,DE,Audi A3,15950.0,47372 ,2012,140 hp,Diesel,Automatic,159 ,5.9 
+919,DE,Audi A3,15990.0,68900 ,2014,179 hp,Gasoline,Automatic,137 ,5.8 
+920,DE,Audi A3,16440.0,34500 ,2017,116 hp,Gasoline,Manual,110 ,4.8 
+921,DE,Audi A3,16850.0,52593 ,2017,116 hp,Gasoline,Manual,104 ,4.5 
+922,DE,Audi A3,16879.0,90900 ,2015,140 hp,Gasoline,Manual,114 ,5 
+923,DE,Audi A3,16888.0,104900 ,2014,125 hp,Gasoline,Manual,139 ,6 
+924,DE,Audi A3,16950.0,89250 ,2018,116 hp,Diesel,Manual,111 ,4.2 
+925,DE,Audi A3,16980.0,106200 ,2014,150 hp,Diesel,Automatic,119 ,4.5 
+926,DE,Audi A3,16990.0,72564 ,2015,110 hp,Gasoline,Manual,0 ,4.9 
+927,DE,Audi A3,16990.0,71958 ,2014,122 hp,Gasoline,Automatic,116 ,5 
+928,DE,Audi A3,17470.0,93135 ,2016,150 hp,Diesel,Manual,111 ,4.4 
+929,DE,Audi A3,17480.0,68335 ,2012,200 hp,Gasoline,Manual,171 ,7.2 
+930,DE,Audi A3,17490.0,92320 ,2018,116 hp,Diesel,Manual,107 ,4.1 
+931,DE,Audi A3,17680.0,76366 ,2018,116 hp,Diesel,Manual,106 ,4 
+932,DE,Audi A3,17760.0,30000 ,2017,116 hp,Gasoline,Manual,104 ,4.5 
+933,DE,Audi A3,17780.0,54201 ,2018,116 hp,Diesel,Manual,106 ,4 
+934,DE,Audi A3,17860.0,54364 ,2014,179 hp,Gasoline,Automatic,137 ,5.8 
+935,DE,Audi A3,17875.0,57990 ,2018,116 hp,Gasoline,Manual,134 ,5.1 
+936,DE,Audi A3,17890.0,93900 ,2015,150 hp,Gasoline,Manual,111 ,4.7 
+937,DE,Audi A3,17900.0,106608 ,2016,110 hp,Diesel,Automatic,0 ,3.8 
+938,DE,Audi A3,17970.0,78291 ,2016,125 hp,Gasoline,Automatic,116 ,5 
+939,DE,Audi A3,17980.0,86169 ,2014,122 hp,Gasoline,Automatic,116 ,5 
+940,DE,Audi A3,17990.0,39500 ,2018,116 hp,Gasoline,Manual,114 ,4.8 
+941,DE,Audi A3,18250.0,45200 ,2015,150 hp,Gasoline,Manual,114 ,4.8 
+942,DE,Audi A3,18443.0,72024 ,2018,116 hp,Gasoline,Automatic,118 ,5.2 
+943,DE,Audi A3,18675.0,62625 ,2019,116 hp,Diesel,Manual,118 ,4.5 
+944,DE,Audi A3,18830.0,26050 ,2012,160 hp,Gasoline,Manual,156 ,7.3 
+945,DE,Audi A3,18900.0,59968 ,2015,150 hp,Gasoline,Manual,0 ,4.7 
+946,DE,Audi A3,18930.0,49682 ,2018,116 hp,Diesel,Automatic,105 ,4 
+947,DE,Audi A3,18990.0,88900 ,2015,184 hp,Diesel,Manual,114 ,4.3 
+948,DE,Audi A3,18995.0,79848 ,2016,184 hp,Diesel,Manual,112 ,4.2 
+949,DE,Audi A3,19480.0,89099 ,2019,116 hp,Diesel,Manual,114 ,4.4 
+950,DE,Audi A3,19490.0,105950 ,2018,150 hp,Diesel,Manual,111 ,4.4 
+951,DE,Audi A3,19749.0,87450 ,2015,140 hp,Gasoline,Automatic,110 ,4.7 
+952,DE,Audi A3,19769.0,56100 ,2018,116 hp,Diesel,Manual,106 ,4 
+953,DE,Audi A3,19870.0,81740 ,2016,184 hp,Diesel,Manual,114 ,4.3 
+954,DE,Audi A3,19890.0,95300 ,2017,150 hp,Diesel,Automatic,122 ,4.6 
+955,DE,Audi A3,19900.0,149000 ,2016,184 hp,Diesel,Automatic,129 ,4.9 
+956,DE,Audi A3,19909.0,46048 ,2018,116 hp,Gasoline,Manual,106 ,4.6 
+957,DE,Audi A3,19960.0,66039 ,2018,150 hp,Gasoline,Manual,121 ,5.1 
+958,DE,Audi A3,19989.0,74823 ,2015,150 hp,Diesel,Automatic,116 ,4.4 
+959,DE,Audi A3,19990.0,63552 ,2014,179 hp,Gasoline,Automatic,0 ,4.8 
+960,DE,Audi A3,19990.0,39542 ,2017,116 hp,Gasoline,Automatic,0 ,4.8 
+961,DE,Audi A3,20450.0,79988 ,2017,150 hp,Gasoline,Automatic,0 ,5.1 
+962,DE,Audi A3,20490.0,25560 ,2019,116 hp,Gasoline,Manual,110 ,4.8 
+963,DE,Audi A3,20499.0,60539 ,2017,150 hp,Gasoline,Automatic,114 ,4.9 
+964,DE,Audi A3,20660.0,61221 ,2018,116 hp,Diesel,Manual,104 ,4 
+965,DE,Audi A3,20670.0,58610 ,2017,150 hp,Gasoline,Automatic,112 ,5 
+966,DE,Audi A3,20690.0,22660 ,2017,150 hp,Gasoline,Manual,121 ,5.1 
+967,DE,Audi A3,20790.0,39490 ,2017,150 hp,Gasoline,Automatic,114 ,5 
+968,DE,Audi A3,20890.0,90500 ,2017,150 hp,Electric/Gasoline,Automatic,38 ,- (
+969,DE,Audi A3,20890.0,43000 ,2015,179 hp,Gasoline,Manual,137 ,5.8 
+970,DE,Audi A3,20990.0,60350 ,2017,150 hp,Gasoline,Manual,120 ,5.3 
+971,DE,Audi A3,20990.0,26553 ,2019,116 hp,Diesel,Manual,141 ,4.5 
+972,DE,Audi A3,20995.0,51700 ,2018,116 hp,Gasoline,Manual,117 ,5.1 
+973,DE,Audi A3,21330.0,87745 ,2018,116 hp,Diesel,Automatic,109 ,4.1 
+974,DE,Audi A3,21350.0,32126 ,2019,150 hp,Gasoline,Manual,121 ,5.3 
+975,DE,Audi A3,21365.0,18691 ,2017,150 hp,Gasoline,Automatic,116 ,5.1 
+976,DE,Audi A3,21420.0,45276 ,2018,116 hp,Diesel,Automatic,119 ,4.5 
+977,DE,Audi A3,21449.0,38450 ,2018,150 hp,Gasoline,Manual,119 ,5.2 
+978,DE,Audi A3,21470.0,12000 ,2019,150 hp,Gasoline,Manual,119 ,5.2 
+979,DE,Audi A3,21490.0,33834 ,2017,150 hp,Gasoline,Automatic,- (,- (
+980,DE,Audi A3,21890.0,80250 ,2019,116 hp,Diesel,Manual,117 ,4.4 
+981,DE,Audi A3,21900.0,79835 ,2017,116 hp,Diesel,Automatic,106 ,4 
+982,DE,Audi A3,21900.0,56282 ,2014,150 hp,Gasoline,Manual,114 ,4.9 
+983,DE,Audi A3,21980.0,76927 ,2018,150 hp,Diesel,Automatic,122 ,4.6 
+984,DE,Audi A3,21980.0,77690 ,2018,110 hp,CNG,Automatic,0 ,- (
+985,DE,Audi A3,21980.0,46002 ,2017,150 hp,Diesel,Manual,111 ,4.3 
+986,DE,Audi A3,21995.0,48400 ,2019,116 hp,Gasoline,Manual,117 ,5.1 
+987,DE,Audi A3,22450.0,9882 ,2018,116 hp,Gasoline,Automatic,143 ,5.2 
+988,DE,Audi A3,22450.0,54882 ,2015,150 hp,Gasoline,Automatic,114 ,4.7 
+989,DE,Audi A3,22500.0,59144 ,2018,150 hp,Gasoline,Automatic,- (,- (
+990,DE,Audi A3,22595.0,51277 ,2017,150 hp,Gasoline,Automatic,114 ,4.9 
+991,DE,Audi A3,22680.0,43937 ,2018,116 hp,Gasoline,Automatic,118 ,5.2 
+992,DE,Audi A3,22690.0,59500 ,2019,116 hp,Diesel,Manual,118 ,4.5 
+993,DE,Audi A3,22879.0,58785 ,2018,116 hp,Diesel,Automatic,106 ,4 
+994,DE,Audi A3,22890.0,43800 ,2019,116 hp,Diesel,Manual,118 ,4.5 
+995,DE,Audi A3,22890.0,47800 ,2019,116 hp,Diesel,Manual,118 ,4.5 
+996,DE,Audi A3,22900.0,55446 ,2016,150 hp,Gasoline,Automatic,0 ,4.7 
+997,DE,Audi A3,22900.0,43177 ,2018,116 hp,Gasoline,Automatic,0 ,5.1 
+998,DE,Audi A3,22900.0,57813 ,2018,150 hp,Diesel,Automatic,0 ,4.6 
+999,DE,Audi A3,22900.0,83487 ,2015,179 hp,Gasoline,Automatic,152 ,6.5 
+1000,DE,Audi A3,22969.0,83751 ,2017,150 hp,Diesel,Automatic,115 ,4.4 
+1001,DE,Audi A3,22990.0,55900 ,2018,150 hp,Gasoline,Automatic,110 ,4.8 
+1002,DE,Audi A3,22990.0,22500 ,2018,150 hp,Gasoline,Manual,115 ,5.1 
+1003,DE,Audi A3,22990.0,181000 ,2017,204 hp,Electric/Gasoline,Automatic,37 ,1.6 
+1004,DE,Audi A3,23220.0,10615 ,2020,116 hp,Gasoline,Manual,117 ,5.1 
+1005,DE,Audi A3,23250.0,32907 ,2018,116 hp,Gasoline,Automatic,119 ,5.2 
+1006,DE,Audi A3,23290.0,38228 ,2018,150 hp,Gasoline,Automatic,121 ,5.1 
+1007,DE,Audi A3,23399.0,83200 ,2018,150 hp,Gasoline,Automatic,113 ,5 
+1008,DE,Audi A3,23400.0,64390 ,2017,204 hp,Electric/Gasoline,Automatic,40 ,1.8 
+1009,DE,Audi A3,23430.0,8609 ,2020,116 hp,Gasoline,Manual,132 ,5 
+1010,DE,Audi A3,23490.0,46820 ,2016,150 hp,Gasoline,Automatic,111 ,4.7 
+1011,DE,Audi A3,23490.0,17000 ,2020,116 hp,Gasoline,Manual,117 ,5.1 
+1012,DE,Audi A3,23490.0,61000 ,2016,184 hp,Diesel,Automatic,0 ,4.2 
+1013,DE,Audi A3,23590.0,31422 ,2018,150 hp,Gasoline,Automatic,116 ,5.2 
+1014,DE,Audi A3,23600.0,14073 ,2019,116 hp,Gasoline,Automatic,118 ,5.2 
+1015,DE,Audi A3,23682.0,20790 ,2019,150 hp,Gasoline,Automatic,150 ,5.1 
+1016,DE,Audi A3,23699.0,81490 ,2017,150 hp,Diesel,Automatic,119 ,4.6 
+1017,DE,Audi A3,23890.0,16920 ,2018,150 hp,Gasoline,Automatic,113 ,5 
+1018,DE,Audi A3,23900.0,37400 ,2019,116 hp,Diesel,Automatic,142 ,4 
+1019,DE,Audi A3,23950.0,56200 ,2018,150 hp,Gasoline,Automatic,116 ,5.1 
+1020,DE,Audi A3,23970.0,46765 ,2019,150 hp,Gasoline,Automatic,113 ,5 
+1021,DE,Audi A3,23982.0,21029 ,2017,150 hp,Electric/Gasoline,Automatic,36 ,- (
+1022,DE,Audi A3,23989.0,108750 ,2018,190 hp,Gasoline,Automatic,133 ,6 
+1023,DE,Audi A3,23990.0,35856 ,2017,150 hp,Electric/Gasoline,Automatic,38 ,1.6 
+1024,DE,Audi A3,23990.0,17089 ,2017,150 hp,Electric/Gasoline,Automatic,36 ,1.6 
+1025,DE,Audi A3,23990.0,50867 ,2018,150 hp,Electric/Gasoline,Automatic,36 ,1.6 
+1026,DE,Audi A3,23990.0,29600 ,2018,150 hp,Electric/Gasoline,Automatic,36 ,1.6 
+1027,DE,Audi A3,24250.0,28438 ,2019,116 hp,Gasoline,Automatic,117 ,5.1 
+1028,DE,Audi A3,24490.0,99050 ,2017,150 hp,Diesel,Manual,128 ,5 
+1029,DE,Audi A3,24740.0,26500 ,2020,150 hp,Gasoline,Automatic,146 ,5.2 
+1030,DE,Audi A3,24750.0,32500 ,2018,150 hp,Diesel,Automatic,119 ,4.6 
+1031,DE,Audi A3,24830.0,22784 ,2020,150 hp,Gasoline,Automatic,117 ,5.1 
+1032,DE,Audi A3,24879.0,45400 ,2018,116 hp,Diesel,Automatic,104 ,4 
+1033,DE,Audi A3,24900.0,77870 ,2017,150 hp,Diesel,Manual,0 ,5 
+1034,DE,Audi A3,24900.0,27887 ,2019,150 hp,Gasoline,Manual,124 ,5.5 
+1035,DE,Audi A3,24980.0,28027 ,2018,150 hp,Gasoline,Automatic,151 ,5.1 
+1036,DE,Audi A3,24980.0,42331 ,2018,150 hp,Gasoline,Automatic,112 ,5 
+1037,DE,Audi A3,24980.0,8546 ,2018,150 hp,Gasoline,Manual,151 ,5.5 
+1038,DE,Audi A3,24980.0,11732 ,2020,150 hp,Gasoline,Manual,- (,- (
+1039,DE,Audi A3,24981.0,47067 ,2017,150 hp,Diesel,Manual,126 ,4.8 
+1040,DE,Audi A3,24990.0,32755 ,2017,150 hp,Diesel,Manual,0 ,5 
+1041,DE,Audi A3,25214.0,4000 ,2019,116 hp,Gasoline,Automatic,117 ,5.1 
+1042,DE,Audi A3,25440.0,52100 ,2018,150 hp,Gasoline,Manual,0 ,- (
+1043,DE,Audi A3,25741.0,19598 ,2018,150 hp,Gasoline,Automatic,113 ,5 
+1044,DE,Audi A3,25749.0,112450 ,2018,190 hp,Gasoline,Automatic,134 ,6 
+1045,DE,Audi A3,25880.0,6100 ,2016,150 hp,Diesel,Manual,111 ,4.2 
+1046,DE,Audi A3,25890.0,29950 ,2019,116 hp,Gasoline,Automatic,121 ,5.1 
+1047,DE,Audi A3,25999.0,37026 ,2020,150 hp,Gasoline,Manual,125 ,5.5 
+1048,DE,Audi A3,26445.0,16900 ,2020,150 hp,Gasoline,Automatic,117 ,5.2 
+1049,DE,Audi A3,26488.0,10000 ,2021,110 hp,Gasoline,Manual,108 ,4.7 
+1050,DE,Audi A3,26670.0,9330 ,2020,204 hp,Electric/Gasoline,Automatic,41 ,1.9 
+1051,DE,Audi A3,26680.0,23642 ,2020,150 hp,Gasoline,Automatic,117 ,5.1 
+1052,DE,Audi A3,26890.0,25300 ,2019,150 hp,Gasoline,Manual,121 ,5.1 
+1053,DE,Audi A3,26900.0,35900 ,2018,150 hp,Gasoline,Manual,0 ,- (
+1054,DE,Audi A3,26900.0,69787 ,2019,150 hp,Diesel,Automatic,146 ,4.5 
+1055,DE,Audi A3,26940.0,16385 ,2018,150 hp,Gasoline,Automatic,109 ,4.8 
+1056,DE,Audi A3,26988.0,9700 ,2020,150 hp,Gasoline,Manual,120 ,5.3 
+1057,DE,Audi A3,26989.0,92750 ,2017,184 hp,Diesel,Automatic,130 ,5.1 
+1058,DE,Audi A3,26990.0,34602 ,2018,150 hp,Gasoline,Automatic,0 ,5.1 
+1059,DE,Audi A3,27275.0,9950 ,2020,150 hp,Gasoline,Automatic,117 ,5.2 
+1060,DE,Audi A3,27490.0,28960 ,2019,131 hp,Gasoline,Automatic,95 ,3.5 kg/100 km 
+1061,DE,Audi A3,27690.0,15700 ,2020,150 hp,Electric/Gasoline,Automatic,46 ,2 
+1062,DE,Audi A3,27725.0,34772 ,2018,150 hp,Gasoline,Automatic,121 ,5.1 
+1063,DE,Audi A3,27777.0,50603 ,2017,150 hp,Gasoline,Automatic,123 ,5.2 
+1064,DE,Audi A3,27850.0,19500 ,2021,110 hp,Gasoline,Manual,106 ,4.6 
+1065,DE,Audi A3,27850.0,31254 ,2018,190 hp,Gasoline,Automatic,137 ,5.8 
+1066,DE,Audi A3,27870.0,43619 ,2019,150 hp,Gasoline,Automatic,156 ,5.3 
+1067,DE,Audi A3,27890.0,13843 ,2020,150 hp,Gasoline,Manual,125 ,5.5 
+1068,DE,Audi A3,27900.0,62200 ,2018,184 hp,Diesel,Automatic,133 ,5 
+1069,DE,Audi A3,27910.0,35000 ,2019,190 hp,Gasoline,Automatic,149 ,6.6 
+1070,DE,Audi A3,27940.0,33500 ,2018,150 hp,Gasoline,Automatic,153 ,5.1 
+1071,DE,Audi A3,27960.0,7865 ,2021,150 hp,Gasoline,Manual,126 ,5.3 
+1072,DE,Audi A3,27970.0,15520 ,2020,150 hp,Diesel,Automatic,144 ,4.4 
+1073,DE,Audi A3,27980.0,16000 ,2019,190 hp,Gasoline,Automatic,148 ,6.5 
+1074,DE,Audi A3,27980.0,25000 ,2019,150 hp,Gasoline,Manual,123 ,5.4 
+1075,DE,Audi A3,27984.0,10000 ,2021,110 hp,Gasoline,Manual,108 ,4.7 
+1076,DE,Audi A3,27990.0,2300 ,2019,150 hp,Gasoline,Manual,121 ,5.3 
+1077,DE,Audi A3,27990.0,14943 ,2020,116 hp,Gasoline,Manual,132 ,5.1 
+1078,DE,Audi A3,28170.0,33400 ,2017,190 hp,Gasoline,Automatic,134 ,5.8 
+1079,DE,Audi A3,28180.0,16800 ,2021,110 hp,Gasoline,Automatic,122 ,4.4 
+1080,DE,Renault Megane,1199.0,279000 ,2007,131 hp,Diesel,Automatic,154 ,5.8 
+1081,DE,Renault Megane,1950.0,104735 ,2003,113 hp,Gasoline,Manual,0 ,- (
+1082,DE,Renault Megane,2790.0,150000 ,2003,113 hp,Gasoline,Manual,164 ,6.9 
+1083,DE,Renault Megane,4690.0,139954 ,2012,101 hp,Gasoline,Manual,161 ,6.8 
+1084,DE,Renault Megane,5990.0,109000 ,2010,110 hp,Gasoline,Manual,0 ,6.9 
+1085,DE,Renault Megane,6950.0,166904 ,2014,110 hp,Gasoline,Manual,164 ,6 
+1086,DE,Renault Megane,7490.0,170700 ,2016,110 hp,Diesel,Manual,90 ,3.5 
+1087,DE,Renault Megane,7690.0,127171 ,2016,110 hp,Diesel,Manual,90 ,3.5 
+1088,DE,Renault Megane,7690.0,130681 ,2016,110 hp,Diesel,Manual,90 ,3.5 
+1089,DE,Renault Megane,7970.0,80214 ,2015,110 hp,Gasoline,Manual,159 ,6.9 
+1090,DE,Renault Megane,9390.0,145000 ,2012,190 hp,Gasoline,Manual,166 ,5.9 
+1091,DE,Renault Megane,9980.0,71251 ,2014,132 hp,Gasoline,Manual,128 ,5.4 
+1092,DE,Renault Megane,9989.0,95490 ,2015,110 hp,Diesel,Manual,0 ,4.6 
+1093,DE,Renault Megane,11490.0,57486 ,2017,101 hp,Gasoline,Manual,120 ,5.4 
+1094,DE,Renault Megane,11890.0,67736 ,2018,110 hp,Diesel,Manual,95 ,3.7 
+1095,DE,Renault Megane,11890.0,61534 ,2018,110 hp,Diesel,Manual,95 ,3.7 
+1096,DE,Renault Megane,11990.0,55000 ,2016,132 hp,Gasoline,Manual,- (,- (
+1097,DE,Renault Megane,12490.0,65235 ,2018,110 hp,Diesel,Manual,95 ,3.7 
+1098,DE,Renault Megane,12490.0,38760 ,2015,132 hp,Gasoline,Automatic,129 ,5.6 
+1099,DE,Renault Megane,12890.0,53444 ,2018,110 hp,Diesel,Manual,95 ,3.7 
+1100,DE,Renault Megane,12890.0,82475 ,2018,110 hp,Diesel,Manual,95 ,3.7 
+1101,DE,Renault Megane,12990.0,73000 ,2015,132 hp,Gasoline,Automatic,0 ,- (
+1102,DE,Renault Megane,12990.0,108000 ,2016,131 hp,Diesel,Manual,104 ,4 
+1103,DE,Renault Megane,13492.0,25200 ,2019,116 hp,Gasoline,Manual,124 ,5.4 
+1104,DE,Renault Megane,13680.0,87000 ,2016,110 hp,Diesel,Automatic,98 ,3.7 
+1105,DE,Renault Megane,13790.0,37592 ,2018,110 hp,Diesel,Manual,95 ,3.7 
+1106,DE,Renault Megane,13900.0,52385 ,2015,110 hp,Gasoline,Manual,159 ,6.9 
+1107,DE,Renault Megane,14250.0,42000 ,2016,131 hp,Diesel,Manual,0 ,- (
+1108,DE,Renault Megane,14914.0,78000 ,2017,132 hp,Gasoline,Manual,120 ,5.4 
+1109,DE,Renault Megane,15800.0,52750 ,2019,159 hp,Gasoline,Manual,131 ,4.3 
+1110,DE,Renault Megane,15890.0,23240 ,2018,110 hp,Diesel,Manual,95 ,3.7 
+1111,DE,Renault Megane,15990.0,50 ,2020,116 hp,Gasoline,Manual,124 ,5.4 
+1112,DE,Renault Megane,16490.0,53199 ,2019,116 hp,Diesel,Manual,0 ,- (
+1113,DE,Renault Megane,16725.0,51941 ,2019,116 hp,Diesel,Manual,102 ,4.3 
+1114,DE,Renault Megane,16890.0,27418 ,2018,132 hp,Gasoline,Automatic,122 ,5.4 
+1115,DE,Renault Megane,16945.0,100 ,2019,116 hp,Gasoline,Manual,124 ,5 
+1116,DE,Renault Megane,16990.0,67600 ,2014,132 hp,Gasoline,Manual,152 ,6 
+1117,DE,Renault Megane,17240.0,22000 ,2018,132 hp,Gasoline,Manual,120 ,5.4 
+1118,DE,Renault Megane,17860.0,7990 ,2020,140 hp,Gasoline,Manual,120 ,5.2 
+1119,DE,Renault Megane,17890.0,39000 ,2019,140 hp,Gasoline,Automatic,125 ,5.5 
+1120,DE,Renault Megane,17890.0,98500 ,2018,205 hp,Gasoline,Automatic,134 ,6 
+1121,DE,Renault Megane,18390.0,60136 ,2019,116 hp,Diesel,Manual,102 ,3.9 
+1122,DE,Renault Megane,20745.0,100 ,2019,140 hp,Gasoline,Automatic,130 ,5 
+1123,DE,Renault Megane,20900.0,39944 ,2018,205 hp,Gasoline,Automatic,134 ,6 
+1124,DE,Renault Megane,21989.0,8000 ,2019,159 hp,Gasoline,Automatic,150 ,5 
+1125,DE,Renault Megane,21989.0,8000 ,2019,159 hp,Gasoline,Automatic,150 ,5 
+1126,DE,Renault Megane,21989.0,8000 ,2019,159 hp,Gasoline,Automatic,150 ,5 
+1127,DE,Renault Megane,22970.0,9999 ,2021,116 hp,Diesel,Manual,110 ,4 
+1128,DE,Renault Megane,23970.0,10 ,2021,140 hp,Gasoline,Automatic,125 ,5.5 
+1129,DE,Renault Megane,23990.0,50 ,2020,140 hp,Gasoline,Manual,125 ,5.5 
+1130,DE,Renault Megane,25650.0,2490 ,2021,158 hp,Electric/Gasoline,Automatic,32 ,1.4 
+1131,DE,Renault Megane,26450.0,9800 ,2020,140 hp,Gasoline,Automatic,123 ,5.4 
+1132,DE,Renault Megane,26480.0,10 ,2021,140 hp,Gasoline,Automatic,125 ,5.5 
+1133,DE,Renault Megane,27750.0,77000 ,2016,273 hp,Gasoline,Manual,178 ,7 
+1134,DE,Renault Megane,28450.0,8950 ,2021,159 hp,Gasoline,Automatic,127 ,5.5 
+1135,DE,Renault Megane,28490.0,10 ,2021,140 hp,Gasoline,Manual,130 ,5.7 
+1136,DE,Renault Megane,29870.0,48900 ,2018,279 hp,Gasoline,Automatic,158 ,7 
+1137,DE,Renault Megane,30990.0,17500 ,2021,94 hp,Electric/Gasoline,Automatic,29 ,1.2 
+1138,DE,Renault Megane,31450.0,5000 ,2021,158 hp,Electric/Gasoline,Automatic,29 ,1.3 
+1139,DE,Renault Megane,32980.0,26520 ,2020,279 hp,Gasoline,Automatic,158 ,7 
+1140,DE,Renault Megane,33990.0,29000 ,2019,300 hp,Gasoline,Automatic,176 ,7.7 
+1141,DE,Renault Megane,36770.0,19820 ,2020,300 hp,Gasoline,Automatic,192 ,8.1 
+1142,DE,Renault Megane,39770.0,6225 ,2021,300 hp,Gasoline,Automatic,196 ,8.3 
+1143,DE,Renault Megane,1499.0,159000 ,1999,90 hp,Gasoline,Manual,172 ,7.2 
+1144,DE,Renault Megane,1790.0,169489 ,2003,98 hp,Gasoline,Manual,162 ,6.9 
+1145,DE,Renault Megane,4550.0,134267 ,2011,110 hp,Gasoline,Manual,159 ,6.9 
+1146,DE,Renault Megane,7900.0,109800 ,2012,140 hp,Gasoline,Automatic,180 ,7.6 
+1147,DE,Renault Megane,8600.0,92492 ,2015,110 hp,Gasoline,Manual,163 ,6.9 
+1148,DE,Renault Megane,10990.0,64437 ,2015,132 hp,Gasoline,Manual,124 ,5.4 
+1149,DE,Renault Megane,11500.0,139155 ,2017,110 hp,Diesel,Manual,95 ,3.5 
+1150,DE,Renault Megane,11970.0,60876 ,2016,110 hp,Diesel,Manual,95 ,3.7 
+1151,DE,Renault Megane,11990.0,30020 ,2017,101 hp,Gasoline,Manual,0 ,- (
+1152,DE,Renault Megane,12900.0,31200 ,2014,131 hp,Diesel,Manual,106 ,4 
+1153,DE,Renault Megane,13690.0,69000 ,2017,110 hp,Diesel,Manual,95 ,3.7 
+1154,DE,Renault Megane,14500.0,66000 ,2018,140 hp,Gasoline,Manual,0 ,- (
+1155,DE,Renault Megane,14990.0,12835 ,2019,116 hp,Gasoline,Manual,124 ,5.4 
+1156,DE,Renault Megane,15490.0,87931 ,2018,110 hp,Diesel,Automatic,95 ,- (
+1157,DE,Renault Megane,15690.0,88750 ,2016,205 hp,Gasoline,- (Gearing Type),134 ,6 
+1158,DE,Renault Megane,16999.0,107283 ,2017,205 hp,Gasoline,Automatic,134 ,6 
+1159,DE,Renault Megane,17790.0,56963 ,2019,159 hp,Gasoline,Automatic,127 ,5.6 
+1160,DE,Renault Megane,17850.0,140997 ,2012,265 hp,Gasoline,Manual,194 ,8.2 
+1161,DE,Renault Megane,17880.0,19248 ,2020,116 hp,Gasoline,Manual,130 ,5.7 
+1162,DE,Renault Megane,17950.0,73720 ,2018,132 hp,Gasoline,Manual,120 ,5.4 
+1163,DE,Renault Megane,18280.0,31000 ,2019,116 hp,Diesel,Manual,120 ,4.3 
+1164,DE,Renault Megane,18490.0,10 ,2020,140 hp,Gasoline,Manual,135 ,5.7 
+1165,DE,Renault Megane,18900.0,31500 ,2018,159 hp,Gasoline,Manual,- (,- (
+1166,DE,Renault Megane,19490.0,68000 ,2020,116 hp,Diesel,Automatic,108 ,4.2 
+1167,DE,Renault Megane,19890.0,59500 ,2018,163 hp,Diesel,Automatic,125 ,4.7 
+1168,DE,Renault Megane,20890.0,39600 ,2017,205 hp,Gasoline,Automatic,134 ,6 
+1169,DE,Renault Megane,20990.0,22500 ,2021,140 hp,Gasoline,Manual,0 ,- (
+1170,DE,Renault Megane,20990.0,41500 ,2018,205 hp,Gasoline,Automatic,134 ,6 
+1171,DE,Renault Megane,22490.0,19500 ,2018,205 hp,Gasoline,Automatic,0 ,- (
+1172,DE,Renault Megane,24999.0,32291 ,2018,205 hp,Gasoline,Automatic,142 ,6 
+1173,DE,Renault Megane,26990.0,9000 ,2021,158 hp,Electric/Gasoline,Automatic,29 ,1.3 
+1174,DE,Renault Megane,28277.0,5000 ,2021,158 hp,Electric/Gasoline,Automatic,29 ,1.3 
+1175,DE,Renault Megane,29799.0,3500 ,2021,158 hp,Electric/Gasoline,Automatic,29 ,5.7 
+1176,DE,Renault Megane,39472.0,18874 ,2019,300 hp,Gasoline,Manual,183 ,8 
+1177,DE,Renault Megane,2280.0,126500 ,2000,95 hp,Gasoline,Manual,165 ,7 
+1178,DE,Renault Megane,2950.0,142000 ,2007,111 hp,Gasoline,Manual,164 ,6.9 
+1179,DE,Renault Megane,2999.0,108844 ,2006,98 hp,Gasoline,Manual,165 ,6.9 
+1180,DE,Renault Megane,3550.0,300200 ,2010,131 hp,Diesel,Manual,135 ,5.1 
+1181,DE,Renault Megane,4900.0,163000 ,2011,131 hp,Gasoline,Manual,156 ,6.6 
+1182,DE,Renault Megane,4950.0,113569 ,2009,110 hp,Gasoline,Manual,164 ,6.9 
+1183,DE,Renault Megane,5550.0,135000 ,2010,131 hp,Gasoline,Manual,145 ,6.3 
+1184,DE,Renault Megane,5990.0,138000 ,2011,131 hp,Diesel,Manual,135 ,5.1 
+1185,DE,Renault Megane,6790.0,145000 ,2012,131 hp,Diesel,Manual,104 ,4 
+1186,DE,Renault Megane,6950.0,42000 ,2012,101 hp,Gasoline,Manual,161 ,6.8 
+1187,DE,Renault Megane,8970.0,91500 ,2014,132 hp,Gasoline,Manual,128 ,5.4 
+1188,DE,Renault Megane,9290.0,67000 ,2015,110 hp,Gasoline,Manual,159 ,6.9 
+1189,DE,Renault Megane,9790.0,97999 ,2015,132 hp,Gasoline,Manual,128 ,5.4 
+1190,DE,Renault Megane,9990.0,107721 ,2014,110 hp,Diesel,Automatic,93 ,3.5 
+1191,DE,Renault Megane,10750.0,105000 ,2015,110 hp,Diesel,Automatic,120 ,4.6 
+1192,DE,Renault Megane,11450.0,96580 ,2016,110 hp,Diesel,Manual,90 ,3.5 
+1193,DE,Renault Megane,11990.0,32046 ,2015,132 hp,Gasoline,Manual,124 ,5.4 
+1194,DE,Renault Megane,12000.0,124000 ,2017,110 hp,Diesel,Manual,90 ,3.5 
+1195,DE,Renault Megane,12490.0,20500 ,2016,132 hp,Gasoline,Manual,120 ,5.4 
+1196,DE,Renault Megane,12900.0,65000 ,2014,163 hp,Diesel,Manual,148 ,5.6 
+1197,DE,Renault Megane,12990.0,40465 ,2015,132 hp,Gasoline,Manual,120 ,5.4 
+1198,DE,Renault Megane,13300.0,157700 ,2017,110 hp,Diesel,Automatic,95 ,3.7 
+1199,,,,,,132 hp,,,,
+1200,DE,Renault Megane,13500.0,51000 ,2017,110 hp,Gasoline,Manual,120 ,5.4 
+1201,DE,Renault Megane,13990.0,107250 ,2017,132 hp,Diesel,Manual,95 ,3.7 
+1202,DE,Renault Megane,14590.0,60900 ,2017,132 hp,Gasoline,Manual,120 ,5.4 
+1203,DE,Renault Megane,14900.0,63692 ,2017,132 hp,Gasoline,Manual,120 ,5.4 
+1204,DE,Renault Megane,14990.0,35000 ,2017,110 hp,Gasoline,Manual,120 ,5.4 
+1205,DE,Renault Megane,15390.0,64500 ,2018,116 hp,Diesel,Manual,95 ,3.7 
+1206,DE,Renault Megane,15500.0,15362 ,2019,116 hp,Gasoline,Manual,124 ,5.4 
+1207,DE,Renault Megane,15890.0,97798 ,2019,132 hp,Diesel,Manual,108 ,4.1 
+1208,DE,Renault Megane,15900.0,46012 ,2017,140 hp,Gasoline,Manual,120 ,5.4 
+1209,DE,Renault Megane,15900.0,32000 ,2019,132 hp,Gasoline,Manual,125 ,5.5 
+1210,DE,Renault Megane,15990.0,55000 ,2017,132 hp,Gasoline,Manual,120 ,5.4 
+1211,DE,Renault Megane,15990.0,18880 ,2018,132 hp,Gasoline,Manual,120 ,5.4 
+1212,DE,Renault Megane,15990.0,53831 ,2017,132 hp,Gasoline,Automatic,122 ,5.4 
+1213,DE,Renault Megane,15995.0,35187 ,2017,116 hp,Gasoline,Automatic,122 ,5.4 
+1214,DE,Renault Megane,16400.0,27270 ,2018,110 hp,Gasoline,Manual,118 ,5 
+1215,DE,Renault Megane,16490.0,67627 ,2017,132 hp,Diesel,Automatic,95 ,3.7 
+1216,DE,Renault Megane,16490.0,36149 ,2018,132 hp,Gasoline,Manual,120 ,5.4 
+1217,DE,Renault Megane,16790.0,26473 ,2017,140 hp,Gasoline,Manual,120 ,5.4 
+1218,DE,Renault Megane,17850.0,37200 ,2019,116 hp,Gasoline,Automatic,125 ,5.5 
+1219,DE,Renault Megane,17990.0,18500 ,2020,132 hp,Gasoline,Manual,130 ,5.7 
+1220,DE,Renault Megane,18290.0,12450 ,2018,140 hp,Gasoline,Manual,120 ,5.4 
+1221,DE,Renault Megane,18490.0,24712 ,2019,140 hp,Gasoline,Automatic,130 ,5.7 
+1222,DE,Renault Megane,18490.0,3500 ,2019,116 hp,Gasoline,Manual,125 ,5.5 
+1223,DE,Renault Megane,18600.0,29 ,2020,132 hp,Gasoline,Manual,130 ,5.7 
+1224,DE,Renault Megane,18990.0,27100 ,2018,140 hp,Gasoline,Manual,120 ,5.4 
+1225,DE,Renault Megane,18990.0,25112 ,2019,140 hp,Gasoline,Automatic,130 ,5.7 
+1226,DE,Renault Megane,19250.0,24200 ,2020,140 hp,Gasoline,Manual,125 ,5.5 
+1227,DE,Renault Megane,19990.0,28800 ,2020,140 hp,Gasoline,Manual,125 ,5.5 
+1228,DE,Renault Megane,20440.0,21385 ,2020,116 hp,Gasoline,Manual,123 ,5.4 
+1229,DE,Renault Megane,21190.0,7 ,2020,140 hp,Gasoline,Manual,127 ,5.6 
+1230,DE,Renault Megane,21290.0,1500 ,2021,140 hp,Gasoline,Manual,128 ,5.6 
+1231,DE,Renault Megane,21440.0,18682 ,2021,140 hp,Gasoline,Manual,123 ,5.4 
+1232,DE,Renault Megane,21440.0,16449 ,2021,140 hp,Gasoline,Manual,123 ,5.4 
+1233,DE,Renault Megane,21490.0,12 ,2021,140 hp,Gasoline,Manual,128 ,5.6 
+1234,DE,Renault Megane,21890.0,14 ,2020,116 hp,Gasoline,Manual,128 ,5.6 
+1235,DE,Renault Megane,21950.0,16200 ,2020,140 hp,Diesel,Manual,104 ,4 
+1236,DE,Renault Megane,21980.0,23528 ,2020,140 hp,Gasoline,Automatic,125 ,5.5 
+1237,DE,Renault Megane,22500.0,32500 ,2020,140 hp,Gasoline,Manual,125 ,5.5 
+1238,DE,Renault Megane,22990.0,15 ,2020,140 hp,Gasoline,Automatic,130 ,5.7 
+1239,DE,Renault Megane,23850.0,4500 ,2021,140 hp,Gasoline,Manual,143 ,5.4 
+1240,DE,Renault Megane,23880.0,4800 ,2021,140 hp,Gasoline,Manual,122 ,5.4 
+1241,DE,Renault Megane,23950.0,12900 ,2021,140 hp,Gasoline,Manual,128 ,5.6 
+1242,DE,Renault Megane,23990.0,20 ,2020,140 hp,Gasoline,Manual,120 ,5.3 
+1243,DE,Renault Megane,23990.0,9 ,2021,140 hp,Gasoline,Manual,128 ,5.6 
+1244,DE,Renault Megane,23990.0,15 ,2020,116 hp,Gasoline,Automatic,128 ,5.6 
+1245,DE,Renault Megane,23990.0,10 ,2020,140 hp,Diesel,Manual,119 ,3.9 
+1246,DE,Renault Megane,23990.0,1184 ,2019,91 hp,Gasoline,Manual,125 ,5.5 
+1247,DE,Renault Megane,24990.0,29500 ,2020,159 hp,Electric/Gasoline,Automatic,30 ,1.4 
+1248,DE,Renault Megane,25490.0,10 ,2020,140 hp,Gasoline,Automatic,133 ,5.8 
+1249,DE,Renault Megane,25490.0,99 ,2020,158 hp,Gasoline,Manual,130 ,5.7 
+1250,DE,Renault Megane,25500.0,6600 ,2020,140 hp,Electric/Gasoline,Automatic,32 ,1.4 
+1251,DE,Renault Megane,25955.0,18 ,2021,140 hp,Gasoline,Automatic,125 ,5.5 
+1252,DE,Renault Megane,25990.0,11 ,2021,116 hp,Gasoline,Manual,128 ,5.6 
+1253,DE,Renault Megane,26475.0,20 ,2021,91 hp,Gasoline,Manual,148 ,5.3 
+1254,DE,Renault Megane,28400.0,1050 ,2021,159 hp,Electric/Gasoline,Automatic,29 ,1.4 
+1255,DE,Renault Megane,28450.0,10000 ,2020,159 hp,Gasoline,Automatic,127 ,5.5 
+1256,DE,Renault Megane,31990.0,9500 ,2021,158 hp,Gasoline,Automatic,125 ,5.5 
+1257,DE,Renault Megane,34900.0,10 ,2021,158 hp,Electric/Gasoline,Automatic,27 ,1.2 
+1258,DE,Renault Megane,35990.0,12 ,2021,160 hp,Electric/Gasoline,Automatic,27 ,1.2 
+1259,DE,Renault Megane,36690.0,4500 ,2021,279 hp,Electric/Gasoline,Automatic,29 ,1.4 
+1260,DE,Renault Megane,40950.0,2500 ,2020,300 hp,Gasoline,Automatic,171 ,7.5 
+1261,DE,Renault Megane,52900.0,1000 ,2022,,Gasoline,Automatic,183 ,8.1 
+1262,,,,,,,,,,
+1263,,,,,,,,,,
+1264,DE,Skoda Octavia,2350.0,175000 ,2001,116 hp,Gasoline,Automatic,- (,- (
+1265,DE,Skoda Octavia,4380.0,149665 ,2009,102 hp,Gasoline,Manual,175 ,7.3 
+1266,DE,Skoda Octavia,8950.0,112000 ,2013,105 hp,Diesel,Manual,109 ,4.2 
+1267,DE,Skoda Octavia,8990.0,88500 ,2010,160 hp,Gasoline,Automatic,155 ,6.6 
+1268,DE,Skoda Octavia,8990.0,119812 ,2009,160 hp,Gasoline,Manual,163 ,7 
+1269,DE,Skoda Octavia,9888.0,117500 ,2011,105 hp,Gasoline,Manual,134 ,5.7 
+1270,DE,Skoda Octavia,9949.0,280400 ,2016,150 hp,Diesel,Manual,106 ,4 
+1271,DE,Skoda Octavia,10477.0,142500 ,2013,105 hp,Gasoline,Manual,134 ,5.7 
+1272,DE,Skoda Octavia,10666.0,76270 ,2010,160 hp,Gasoline,Manual,0 ,- (
+1273,DE,Skoda Octavia,10990.0,54740 ,2012,160 hp,Gasoline,Manual,164 ,6.9 
+1274,DE,Skoda Octavia,11660.0,104307 ,2017,90 hp,Diesel,Manual,109 ,4.1 
+1275,DE,Skoda Octavia,11900.0,114989 ,2014,105 hp,Diesel,Manual,0 ,4.5 
+1276,DE,Skoda Octavia,11970.0,37050 ,2017,86 hp,Gasoline,Manual,119 ,5.2 
+1277,DE,Skoda Octavia,12500.0,100602 ,2012,200 hp,Gasoline,Manual,190 ,7.9 
+1278,DE,Skoda Octavia,13470.0,31400 ,2015,105 hp,Gasoline,Manual,123 ,5.2 
+1279,DE,Skoda Octavia,13989.0,123500 ,2017,110 hp,Diesel,Manual,103 ,3.9 
+1280,DE,Skoda Octavia,13990.0,68000 ,2013,140 hp,Gasoline,Manual,0 ,- (
+1281,DE,Skoda Octavia,14590.0,81600 ,2015,140 hp,Gasoline,Manual,121 ,5.3 
+1282,DE,Skoda Octavia,14866.0,129100 ,2014,105 hp,Gasoline,Automatic,121 ,5.1 
+1283,DE,Skoda Octavia,14920.0,43101 ,2019,116 hp,Gasoline,Manual,110 ,4.8 
+1284,DE,Skoda Octavia,15470.0,153350 ,2018,150 hp,Diesel,Automatic,118 ,4.5 
+1285,DE,Skoda Octavia,15470.0,49606 ,2016,116 hp,Gasoline,Automatic,0 ,- (
+1286,DE,Skoda Octavia,15850.0,107200 ,2018,116 hp,Diesel,Manual,109 ,4.1 
+1287,DE,Skoda Octavia,15990.0,137258 ,2017,150 hp,Diesel,Automatic,114 ,4.4 
+1288,DE,Skoda Octavia,15990.0,84250 ,2015,150 hp,Gasoline,Manual,126 ,5.3 
+1289,DE,Skoda Octavia,16477.0,47397 ,2015,140 hp,Gasoline,Manual,126 ,5.3 
+1290,DE,Skoda Octavia,16490.0,75000 ,2018,116 hp,Diesel,Manual,106 ,4.1 
+1291,DE,Skoda Octavia,16498.0,72000 ,2018,116 hp,Gasoline,Manual,114 ,4.8 
+1292,DE,Skoda Octavia,16890.0,33754 ,2018,116 hp,Gasoline,Manual,109 ,4.8 
+1293,DE,Skoda Octavia,16900.0,74650 ,2017,116 hp,Gasoline,Manual,108 ,4.7 
+1294,DE,Skoda Octavia,16900.0,87995 ,2014,179 hp,Gasoline,Manual,0 ,6.1 
+1295,DE,Skoda Octavia,16930.0,67407 ,2018,116 hp,Diesel,Automatic,103 ,3.9 
+1296,DE,Skoda Octavia,16989.0,64179 ,2017,116 hp,Gasoline,Manual,109 ,4.7 
+1297,DE,Skoda Octavia,16990.0,101650 ,2018,150 hp,Diesel,Manual,0 ,- (
+1298,DE,Skoda Octavia,16990.0,77948 ,2015,140 hp,Gasoline,Automatic,0 ,5.3 
+1299,DE,Skoda Octavia,17460.0,188600 ,2019,150 hp,Diesel,Automatic,153 ,4.9 
+1300,DE,Skoda Octavia,17490.0,119900 ,2018,150 hp,Diesel,Manual,113 ,4.3 
+1301,DE,Skoda Octavia,17849.0,33925 ,2017,150 hp,Gasoline,Manual,123 ,5.2 
+1302,DE,Skoda Octavia,17890.0,111042 ,2018,150 hp,Diesel,Automatic,118 ,4.5 
+1303,DE,Skoda Octavia,17900.0,104999 ,2017,150 hp,Diesel,Manual,0 ,4.7 
+1304,DE,Skoda Octavia,17900.0,69987 ,2015,150 hp,Diesel,Manual,110 ,4.2 
+1305,DE,Skoda Octavia,17900.0,56918 ,2018,150 hp,Gasoline,Manual,121 ,5.2 
+1306,DE,Skoda Octavia,17950.0,102200 ,2018,150 hp,Diesel,Manual,114 ,4.3 
+1307,DE,Skoda Octavia,17990.0,109439 ,2015,150 hp,Diesel,Manual,125 ,4.7 
+1308,DE,Skoda Octavia,18470.0,73001 ,2018,150 hp,Gasoline,Automatic,117 ,5 
+1309,DE,Skoda Octavia,18470.0,57661 ,2019,116 hp,Diesel,Manual,106 ,4.1 
+1310,DE,Skoda Octavia,18480.0,127075 ,2018,150 hp,Diesel,Manual,114 ,4.3 
+1311,DE,Skoda Octavia,18490.0,59800 ,2014,184 hp,Diesel,Manual,- (,- (
+1312,DE,Skoda Octavia,18490.0,59800 ,2014,184 hp,Diesel,Manual,- (,- (
+1313,DE,Skoda Octavia,18490.0,67096 ,2017,150 hp,Diesel,Automatic,114 ,4.4 
+1314,DE,Skoda Octavia,18769.0,160200 ,2017,150 hp,Diesel,Automatic,0 ,0 
+1315,DE,Skoda Octavia,18950.0,98800 ,2018,150 hp,Diesel,Manual,114 ,4.3 
+1316,DE,Skoda Octavia,18970.0,102777 ,2018,116 hp,Diesel,Manual,132 ,4 
+1317,DE,Skoda Octavia,18980.0,73042 ,2018,116 hp,Diesel,Automatic,103 ,3.9 
+1318,DE,Skoda Octavia,18990.0,107494 ,2018,150 hp,Diesel,Automatic,119 ,4.5 
+1319,DE,Skoda Octavia,19280.0,48850 ,2018,150 hp,Gasoline,Manual,0 ,- (
+1320,DE,Skoda Octavia,19449.0,70750 ,2018,150 hp,Diesel,Manual,112 ,4.3 
+1321,DE,Skoda Octavia,19449.0,78000 ,2018,150 hp,Diesel,Automatic,114 ,4.3 
+1322,DE,Skoda Octavia,19490.0,122833 ,2017,184 hp,Diesel,Automatic,126 ,4.8 
+1323,DE,Skoda Octavia,19522.0,- ,,150 hp,,,,
+1324,,,,,2018,116 hp,Diesel,Automatic,110 ,4.2 
+1325,DE,Skoda Octavia,19645.0,84284 ,2019,150 hp,Diesel,Manual,131 ,4.2 
+1326,DE,Skoda Octavia,19760.0,44695 ,2017,150 hp,Diesel,Automatic,130 ,4.9 
+1327,DE,Skoda Octavia,19900.0,118800 ,2017,150 hp,Gasoline,Automatic,114 ,4.9 
+1328,DE,Skoda Octavia,19900.0,22509 ,2017,150 hp,Gasoline,Manual,121 ,5.2 
+1329,DE,Skoda Octavia,19900.0,23105 ,2016,116 hp,Gasoline,Automatic,0 ,5.2 
+1330,DE,Skoda Octavia,19900.0,55254 ,2019,150 hp,Diesel,Manual,109 ,4.2 
+1331,DE,Skoda Octavia,19900.0,28207 ,2018,150 hp,Diesel,Automatic,118 ,4.5 
+1332,DE,Skoda Octavia,19947.0,82501 ,2018,150 hp,Diesel,Automatic,118 ,4.5 
+1333,DE,Skoda Octavia,19980.0,97051 ,2017,150 hp,Diesel,Automatic,119 ,4.6 
+1334,DE,Skoda Octavia,19987.0,72495 ,2018,131 hp,Gasoline,Manual,119 ,5 
+1335,DE,Skoda Octavia,19989.0,45990 ,2020,184 hp,Diesel,Automatic,114 ,- (
+1336,DE,Skoda Octavia,19990.0,108800 ,,150 hp,,,,
+1337,DE,Skoda Octavia,20409.0,- ,2018,150 hp,Diesel,Automatic,0 ,- (
+1338,,,,,2018,220 hp,Diesel,Automatic,128 ,4.9 
+1339,DE,Skoda Octavia,20960.0,181000 ,2017,150 hp,Diesel,Automatic,120 ,4.6 
+1340,DE,Skoda Octavia,20970.0,121632 ,,245 hp,,,,
+1341,DE,Skoda Octavia,20970.0,28817 ,2014,150 hp,Gasoline,Automatic,0 ,6.2 
+1342,DE,Skoda Octavia,20995.0,- ,2016,150 hp,Gasoline,Automatic,114 ,5 
+1343,,,,,,150 hp,,,,
+1344,DE,Skoda Octavia,21900.0,82953 ,2018,230 hp,Gasoline,Manual,150 ,6.6 
+1345,DE,Skoda Octavia,22015.0,53700 ,2020,150 hp,Gasoline,Automatic,113 ,5 
+1346,DE,Skoda Octavia,22366.0,- ,2018,150 hp,Diesel,Automatic,115 ,4.4 
+1347,,,,,2018,179 hp,Diesel,Automatic,120 ,4.6 
+1348,DE,Skoda Octavia,22990.0,92194 ,,184 hp,,,,
+1349,DE,Skoda Octavia,22999.0,38300 ,2017,190 hp,Gasoline,Automatic,154 ,6.5 
+1350,DE,Skoda Octavia,23270.0,63774 ,2019,184 hp,Diesel,Automatic,114 ,4.3 
+1351,DE,Skoda Octavia,23290.0,62810 ,2019,150 hp,Diesel,Automatic,110 ,4.2 
+1352,DE,Skoda Octavia,23373.0,- ,2018,116 hp,Gasoline,Manual,0 ,5.8 
+1353,,,,,2017,184 hp,Diesel,Manual,119 ,4.9 
+1354,DE,Skoda Octavia,23880.0,76783 ,2019,150 hp,Gasoline,Automatic,139 ,6.1 
+1355,DE,Skoda Octavia,23890.0,66724 ,,179 hp,,,,
+1356,DE,Skoda Octavia,23890.0,77209 ,2018,110 hp,Diesel,Manual,129 ,4.9 
+1357,DE,Skoda Octavia,23900.0,37330 ,2019,110 hp,Diesel,Automatic,111 ,4.2 
+1358,DE,Skoda Octavia,23900.0,93176 ,,150 hp,,,,
+1359,DE,Skoda Octavia,23980.0,50529 ,2021,131 hp,Diesel,Manual,101 ,3.8 
+1360,DE,Skoda Octavia,24085.0,- ,2018,184 hp,Diesel,Automatic,129 ,4.9 
+1361,,,,,2018,110 hp,Diesel,Manual,0 ,4.3 
+1362,DE,Skoda Octavia,24470.0,94200 ,2016,184 hp,Gasoline,Automatic,0 ,6.6 
+1363,DE,Skoda Octavia,24490.0,21980 ,,179 hp,,,,
+1364,DE,Skoda Octavia,24678.0,- ,2020,150 hp,Gasoline,Manual,107 ,4.7 
+1365,,,,,2020,131 hp,Gasoline,Manual,107 ,4.7 
+1366,DE,Skoda Octavia,24880.0,9427 ,2019,150 hp,Diesel,Manual,112 ,5.1 
+1367,DE,Skoda Octavia,24900.0,134213 ,2020,245 hp,CNG,Automatic,96 ,0 kg/100 km 
+1368,DE,Skoda Octavia,24900.0,94951 ,2017,245 hp,Diesel,Automatic,130 ,4.9 
+1369,DE,Skoda Octavia,24900.0,44598 ,2021,110 hp,Gasoline,Manual,109 ,4.8 
+1370,DE,Skoda Octavia,24910.0,- ,2018,150 hp,Diesel,Automatic,129 ,5 
+1371,,,,,2017,150 hp,Gasoline,Automatic,154 ,6.6 
+1372,DE,Skoda Octavia,25390.0,10 ,2020,184 hp,Gasoline,Manual,114 ,4.8 
+1373,DE,Skoda Octavia,25390.0,10 ,2020,184 hp,CNG,Automatic,96 ,0 kg/100 km 
+1374,DE,Skoda Octavia,25470.0,38857 ,2020,110 hp,Gasoline,Automatic,116 ,5.1 
+1375,DE,Skoda Octavia,25549.0,17630 ,2019,150 hp,Gasoline,Automatic,144 ,6.3 
+1376,DE,Skoda Octavia,25616.0,103404 ,2018,150 hp,Gasoline,Manual,144 ,6.3 
+1377,DE,Skoda Octavia,25690.0,7335 ,2021,150 hp,Gasoline,Manual,107 ,4.7 
+1378,DE,Skoda Octavia,25870.0,71896 ,2019,110 hp,Gasoline,Automatic,148 ,6.5 
+1379,DE,Skoda Octavia,25871.0,64900 ,2018,110 hp,Diesel,Automatic,138 ,4.4 
+1380,DE,Skoda Octavia,25879.0,21000 ,2018,110 hp,Diesel,Automatic,141 ,5.4 
+1381,DE,Skoda Octavia,25890.0,18111 ,,150 hp,,,,
+1382,DE,Skoda Octavia,25900.0,9201 ,2017,110 hp,Diesel,Automatic,125 ,4.9 
+1383,DE,Skoda Octavia,25900.0,92374 ,,230 hp,,,,
+1384,DE,Skoda Octavia,25930.0,80487 ,2021,150 hp,Gasoline,Manual,109 ,4.8 
+1385,DE,Skoda Octavia,25949.0,14400 ,2020,150 hp,Gasoline,Manual,111 ,4.8 
+1386,DE,Skoda Octavia,25977.0,39990 ,2020,110 hp,Gasoline,Manual,111 ,4.8 
+1387,DE,Skoda Octavia,25980.0,29269 ,,,,,,
+1388,DE,Skoda Octavia,25980.0,88191 ,2020,,Gasoline,Manual,111 ,4.8 
+1389,DE,Skoda Octavia,26291.0,- ,2021,,Gasoline,Automatic,121 ,4.4 
+1390,,,,,2021,,Electric/Gasoline,Automatic,120 ,4.3 
+1391,DE,Skoda Octavia,26432.0,82100 ,2021,,Gasoline,Automatic,98 ,4.3 
+1392,DE,Skoda Octavia,26476.0,- ,2021,,Gasoline,Manual,117 ,5.1 
+1393,,,,,2022,,Gasoline,Manual,107 ,4.7 
+1394,DE,Skoda Octavia,26990.0,28480 ,2017,,Gasoline,Automatic,149 ,6.6 
+1395,DE,Skoda Octavia,26999.0,1000 ,2020,,Gasoline,Manual,109 ,4.7 
+1396,DE,Skoda Octavia,27007.0,1000 ,2021,,Gasoline,Manual,111 ,4.8 
+1397,DE,Skoda Octavia,27176.0,- ,2021,,Gasoline,Automatic,98 ,4.3 
+1398,,,,,,,,,,
+1399,DE,Skoda Octavia,27930.0,6680 ,,,,,,
+1400,DE,Skoda Octavia,27930.0,12357 ,,,,,,
+1401,DE,Skoda Octavia,27960.0,19000 ,,,,,,
+1402,DE,Skoda Octavia,27988.0,22127 ,,,,,,
+1403,DE,Skoda Octavia,27989.0,24900 ,,,,,,
+1404,DE,Skoda Octavia,27990.0,10 ,,,,,,
+1405,DE,Skoda Octavia,27990.0,45698 ,,,,,,
+1406,DE,Skoda Octavia,27990.0,14500 ,,,,,,
+1407,DE,Skoda Octavia,28390.0,18476 ,,,,,,
+1408,DE,Skoda Octavia,28490.0,9303 ,,,,,,
+1409,DE,Skoda Octavia,28540.0,- ,,,,,,
+1410,,,,,,,,,,
+1411,IT,MINI Cooper,2000.0,200000 ,2002,116 hp,Diesel,Manual,- (,- (
+1412,IT,MINI One,3900.0,147000 ,2002,90 hp,Gasoline,Manual,164 ,6.8 
+1413,IT,MINI Cooper,4500.0,138499 ,2003,116 hp,Gasoline,Manual,166 ,6.9 
+1414,IT,MINI Cooper,4990.0,159000 ,2008,120 hp,Gasoline,Manual,129 ,5.4 
+1415,,,,,,98 hp,,,,
+1416,IT,MINI One,6500.0,105000 ,2011,111 hp,Gasoline,Automatic,- (,0 
+1417,IT,MINI Cooper,7000.0,173000 ,2011,120 hp,Diesel,Manual,99 ,3.8 
+1418,IT,MINI Cooper,7700.0,150000 ,2010,111 hp,Diesel,Manual,129 ,5.4 
+1419,IT,MINI Cooper,7700.0,94800 ,2011,95 hp,Diesel,Manual,99 ,3.8 
+1420,IT,MINI One,7900.0,58000 ,2007,90 hp,Gasoline,Manual,128 ,5.3 
+1421,IT,MINI One,8849.0,105458 ,2013,90 hp,Diesel,Manual,99 ,- (
+1422,IT,MINI One,8849.0,105458 ,2013,143 hp,Diesel,Manual,99 ,- (
+1423,IT,MINI Cooper,9600.0,128000 ,2011,95 hp,Diesel,Manual,114 ,4.3 
+1424,,,,,,102 hp,,,,
+1425,,,,,,116 hp,,,,
+1426,IT,MINI One,13800.0,137926 ,2016,95 hp,Diesel,Manual,128 ,5.3 
+1427,IT,MINI One,13900.0,72640 ,2015,116 hp,Gasoline,Manual,112 ,4.8 
+1428,IT,MINI Cooper,13900.0,51849 ,2015,75 hp,Diesel,Manual,95 ,3.6 
+1429,IT,MINI One,13900.0,94190 ,2015,170 hp,Diesel,Manual,92 ,3.5 
+1430,IT,MINI Cooper,13900.0,108000 ,2014,75 hp,Diesel,Manual,92 ,3.5 
+1431,IT,MINI One,13990.0,61300 ,2017,136 hp,Gasoline,Manual,121 ,5.2 
+1432,IT,MINI Cooper,14250.0,163000 ,2015,170 hp,Diesel,Manual,109 ,4.1 
+1433,IT,MINI One,14500.0,73600 ,2016,170 hp,Gasoline,Manual,118 ,5.1 
+1434,IT,MINI Cooper,14900.0,57877 ,2016,136 hp,Gasoline,Manual,109 ,4.7 
+1435,IT,MINI Cooper,15400.0,101847 ,2015,136 hp,Diesel,Manual,109 ,4.1 
+1436,IT,MINI Cooper,15490.0,116278 ,2016,116 hp,Diesel,Manual,106 ,4 
+1437,IT,MINI Cooper,15490.0,63445 ,2018,116 hp,Gasoline,Manual,106 ,4.7 
+1438,IT,MINI Cooper,15500.0,88600 ,2015,211 hp,Gasoline,Manual,106 ,4.7 
+1439,IT,MINI Cooper,15750.0,82000 ,2015,116 hp,Diesel,Automatic,98 ,3.7 
+1440,IT,MINI Cooper,16200.0,93746 ,2017,102 hp,Diesel,Manual,98 ,3.7 
+1441,IT,MINI John Cooper Works,16490.0,88405 ,2013,170 hp,Gasoline,Manual,153 ,6.6 
+1442,IT,MINI Cooper,16500.0,49350 ,2014,116 hp,Diesel,Manual,95 ,3.6 
+1443,IT,MINI Cooper,16800.0,33721 ,2018,116 hp,Gasoline,Manual,115 ,- (
+1444,IT,MINI Cooper,16900.0,110000 ,2016,102 hp,Diesel,Manual,106 ,4 
+1445,IT,MINI Cooper,16900.0,87136 ,2017,102 hp,Diesel,Manual,92 ,3.5 
+1446,IT,MINI Cooper,16900.0,87136 ,2017,75 hp,Diesel,Manual,92 ,3.5 
+1447,IT,MINI One,16900.0,26310 ,2019,75 hp,Gasoline,Manual,109 ,4.8 
+1448,IT,MINI One,16900.0,29000 ,2017,116 hp,Gasoline,Manual,109 ,4.7 
+1449,IT,MINI One,16950.0,32700 ,2018,95 hp,Gasoline,Manual,122 ,5.4 
+1450,IT,MINI One,17000.0,26852 ,2019,136 hp,Gasoline,Manual,116 ,5.2 
+1451,IT,MINI Cooper,17000.0,105800 ,2017,116 hp,Diesel,Automatic,95 ,3.6 
+1452,IT,MINI Cooper,17200.0,38022 ,2016,170 hp,Diesel,Manual,92 ,3.5 
+1453,IT,MINI Cooper,17490.0,41767 ,2017,102 hp,Gasoline,Manual,105 ,4.5 
+1454,IT,MINI Cooper,17900.0,84864 ,2018,116 hp,Diesel,Manual,99 ,3.8 
+1455,IT,MINI Cooper,17900.0,120000 ,2016,102 hp,Diesel,Automatic,109 ,4.1 
+1456,IT,MINI One,17900.0,44980 ,2018,75 hp,Gasoline,Manual,111 ,4.9 
+1457,IT,MINI Cooper,17900.0,62500 ,2017,192 hp,Diesel,Manual,95 ,3.6 
+1458,IT,MINI One,17900.0,33000 ,2018,102 hp,Gasoline,Manual,116 ,5 
+1459,IT,MINI One,17990.0,21623 ,2018,102 hp,Gasoline,Manual,116 ,5.2 
+1460,IT,MINI Cooper,17990.0,70000 ,2014,136 hp,Gasoline,Manual,141 ,6.2 
+1461,IT,MINI One,18190.0,28800 ,2018,231 hp,Gasoline,Manual,123 ,5.4 
+1462,IT,MINI One,18400.0,32540 ,2018,231 hp,Gasoline,Manual,111 ,4.9 
+1463,IT,MINI Cooper,18500.0,54400 ,2019,102 hp,Gasoline,Automatic,115 ,5 
+1464,IT,MINI John Cooper Works,18549.0,107618 ,2015,102 hp,Gasoline,Automatic,133 ,- (
+1465,IT,MINI John Cooper Works,18549.0,107618 ,2015,116 hp,Gasoline,Automatic,133 ,- (
+1466,IT,MINI One,18900.0,48165 ,2018,116 hp,Gasoline,Manual,111 ,4.9 
+1467,IT,MINI One,18900.0,29221 ,2019,102 hp,Gasoline,Manual,122 ,5.4 
+1468,IT,MINI Cooper,19100.0,22103 ,2017,102 hp,Diesel,Automatic,99 ,3.8 
+1469,IT,MINI Cooper,19215.0,44386 ,2018,95 hp,Diesel,Manual,- (,- (
+1470,IT,MINI One,19400.0,35616 ,2019,116 hp,Gasoline,Manual,122 ,5.4 
+1471,IT,MINI One,19400.0,38097 ,2018,192 hp,Gasoline,Manual,117 ,5.1 
+1472,IT,MINI John Cooper Works,19400.0,51300 ,2018,116 hp,Diesel,Manual,99 ,3.8 
+1473,IT,MINI Cooper,19450.0,83251 ,2017,75 hp,Diesel,Automatic,102 ,3.9 
+1474,IT,MINI Cooper,19500.0,49878 ,2014,116 hp,Gasoline,Automatic,122 ,5.2 
+1475,IT,MINI Cooper,19800.0,38779 ,2018,136 hp,Diesel,Automatic,103 ,3.9 
+1476,IT,MINI One,19800.0,24550 ,2019,102 hp,Gasoline,Manual,123 ,5.4 
+1477,IT,MINI Cooper,19900.0,36954 ,2016,192 hp,Diesel,Automatic,99 ,3.8 
+1478,IT,MINI Cooper,19900.0,15700 ,2017,116 hp,Gasoline,Manual,105 ,4.5 
+1479,IT,MINI One,19900.0,35806 ,2019,218 hp,Gasoline,Manual,117 ,5.1 
+1480,IT,MINI Cooper,19900.0,74400 ,2017,218 hp,Gasoline,Automatic,133 ,5.7 
+1481,IT,MINI Cooper,19990.0,41500 ,2018,102 hp,Diesel,Automatic,103 ,3.9 
+1482,,,,,,136 hp,,,,
+1483,IT,MINI John Cooper Works,21500.0,96900 ,2015,116 hp,Gasoline,Manual,165 ,7.1 
+1484,IT,MINI John Cooper Works,21900.0,60331 ,2006,116 hp,Gasoline,Manual,207 ,8.6 
+1485,IT,MINI One,21900.0,2239 ,2020,231 hp,Gasoline,Manual,117 ,5.1 
+1486,IT,MINI Cooper,21900.0,12090 ,2019,136 hp,Gasoline,Automatic,118 ,5.2 
+1487,IT,MINI One,22750.0,48000 ,2018,231 hp,Diesel,Automatic,109 ,4.1 
+1488,,,,,,170 hp,,,,
+1489,IT,MINI Cooper,23400.0,31300 ,2019,192 hp,Diesel,Automatic,109 ,4.3 
+1490,IT,MINI John Cooper Works,23490.0,75000 ,2015,102 hp,Gasoline,Automatic,133 ,5.7 
+1491,IT,MINI Cooper,23900.0,7889 ,2020,170 hp,Gasoline,Manual,118 ,5.1 
+1492,IT,MINI John Cooper Works,23900.0,121717 ,2015,231 hp,Gasoline,Manual,147 ,6.3 
+1493,IT,MINI Cooper,23900.0,85996 ,2016,102 hp,Diesel,Automatic,109 ,4.1 
+1494,IT,MINI Cooper,23990.0,72000 ,2017,136 hp,Gasoline,Automatic,125 ,5.4 
+1495,IT,MINI One,24400.0,41070 ,2018,116 hp,Gasoline,Manual,126 ,5.5 
+1496,IT,MINI Cooper,24500.0,48803 ,2017,231 hp,Diesel,Automatic,106 ,4 
+1497,IT,MINI John Cooper Works,24900.0,69833 ,2016,184 hp,Gasoline,Manual,147 ,6.3 
+1498,IT,MINI Cooper,24900.0,11406 ,2020,184 hp,Electric,Automatic,0 ,14.8 
+1499,IT,MINI Cooper,24900.0,21000 ,2018,102 hp,Gasoline,Manual,114 ,5 
+1500,IT,MINI Cooper,24900.0,42807 ,2019,136 hp,Diesel,Manual,102 ,3.9 
+1501,IT,MINI John Cooper Works,24900.0,27756 ,2016,184 hp,Gasoline,Automatic,133 ,5.7 
+1502,IT,MINI Cooper,24990.0,37800 ,2020,136 hp,Electric,Automatic,0 ,- (
+1503,IT,MINI Cooper,24990.0,5932 ,2020,136 hp,Electric,Automatic,0 ,14.8 
+1504,,,,,,184 hp,,,,
+1505,IT,MINI Cooper,25900.0,11093 ,2020,136 hp,Electric,Automatic,0 ,14.8 
+1506,IT,MINI Cooper,25900.0,9102 ,2021,231 hp,Gasoline,Automatic,106 ,4.7 
+1507,,,,,,136 hp,,,,
+1508,IT,MINI Cooper,27790.0,9375 ,2020,184 hp,Electric,Automatic,0 ,14.8 
+1509,IT,MINI Cooper,27900.0,10696 ,2021,136 hp,Gasoline,Automatic,- (,- (
+1510,IT,MINI Cooper,27900.0,8353 ,2021,184 hp,Gasoline,Automatic,- (,- (
+1511,IT,MINI Cooper,28000.0,3690 ,2020,170 hp,Electric,Automatic,0 ,14.8 
+1512,IT,MINI Cooper,28750.0,34000 ,2018,75 hp,Electric/Gasoline,Automatic,55 ,2.4 
+1513,IT,MINI John Cooper Works,28800.0,42249 ,2017,184 hp,Gasoline,Automatic,133 ,5.7 
+1514,IT,MINI Cooper,28900.0,11723 ,2021,102 hp,Gasoline,Automatic,- (,- (
+1515,IT,MINI Cooper,29000.0,11000 ,2020,231 hp,Electric,Automatic,0 ,14.8 
+1516,IT,MINI Cooper,29250.0,9180 ,2021,136 hp,Gasoline,Automatic,126 ,4.7 
+1517,IT,MINI Cooper,29900.0,10 ,2021,178 hp,Electric,Automatic,0 ,14.8 
+1518,IT,MINI Cooper,29900.0,30824 ,2018,178 hp,Diesel,Automatic,110 ,4.2 
+1519,IT,MINI One,29900.0,7700 ,2021,136 hp,Gasoline,Manual,105 ,4.6 
+1520,IT,MINI Cooper,29900.0,5038 ,2020,231 hp,Diesel,Automatic,- (,- (
+1521,IT,MINI Cooper,30200.0,1868 ,2021,150 hp,Electric,Automatic,0 ,- (
+1522,IT,MINI John Cooper Works,30900.0,19000 ,2019,184 hp,Gasoline,Automatic,140 ,6.1 
+1523,IT,MINI Cooper,30900.0,24900 ,2020,90 hp,Gasoline,Automatic,109 ,4.8 
+1524,IT,MINI Cooper,31900.0,1 ,2021,,Gasoline,Automatic,142 ,6.2 
+1525,IT,MINI Cooper,32238.0,2000 ,2021,,Gasoline,Automatic,142 ,8 
+1526,IT,MINI Cooper,32300.0,6000 ,2021,,Gasoline,Automatic,- (,- (
+1527,IT,MINI John Cooper Works,32490.0,18437 ,2020,,Gasoline,Automatic,135 ,5.9 
+1528,IT,MINI Cooper,32900.0,8208 ,2020,,Diesel,Manual,111 ,4.2 
+1529,IT,MINI Cooper,33000.0,5820 ,2021,,Electric,Automatic,0 ,14.8 
+1530,IT,MINI Cooper,33600.0,- ,,,,,,
+1531,,,,,,,,,,
+1532,IT,MINI John Cooper Works,44550.0,0 ,,,,,,
+1533,,,,,2005,,Gasoline,Manual,164 ,6.8 
+1534,,,,,,,,,,
+1535,IT,MINI One,1990.0,260000 ,,,,,,
+1536,,,,,,,,,,
+1537,,,,,,,,,,
+1538,IT,Audi A3,2999.0,159000 ,2005,140 hp,Diesel,Manual,149 ,5.5 
+1539,IT,Audi A3,3300.0,240000 ,2006,140 hp,Diesel,Manual,148 ,5.5 
+1540,IT,Audi A3,3400.0,213000 ,2003,150 hp,Diesel,Manual,149 ,5.5 
+1541,IT,Audi A3,3950.0,198000 ,2006,105 hp,Diesel,Manual,- (,5.1 
+1542,IT,Audi A3,4200.0,321677 ,2009,105 hp,Diesel,Manual,132 ,5 
+1543,IT,Audi A3,4600.0,229000 ,2006,140 hp,Diesel,Manual,148 ,5.5 
+1544,IT,Audi A3,5100.0,179948 ,2008,140 hp,Diesel,Manual,148 ,5.5 
+1545,,,,,,105 hp,,,,
+1546,,,,,,140 hp,,,,
+1547,IT,Audi A3,9999.0,139000 ,2012,170 hp,Gasoline,Automatic,123 ,5.3 
+1548,IT,Audi A3,10900.0,99649 ,2006,105 hp,Diesel,Manual,- (,- (
+1549,IT,Audi A3,11900.0,175000 ,2011,200 hp,Diesel,Manual,135 ,5.2 
+1550,IT,Audi A3,12500.0,131973 ,2014,105 hp,Diesel,Semi-automatic,102 ,3.9 
+1551,IT,Audi A3,12500.0,100000 ,2009,150 hp,Gasoline,Automatic,- (,7.6 
+1552,IT,Audi A3,12700.0,150000 ,2014,150 hp,Diesel,Manual,99 ,3.8 
+1553,IT,Audi A3,12900.0,214000 ,2014,150 hp,Diesel,Manual,107 ,4.1 
+1554,IT,Audi A3,13700.0,139000 ,2012,150 hp,Diesel,Manual,106 ,4.1 
+1555,IT,Audi A3,13900.0,112630 ,2013,150 hp,Diesel,Manual,106 ,4.1 
+1556,IT,Audi A3,13900.0,195000 ,2013,110 hp,Diesel,Automatic,117 ,4.4 
+1557,IT,Audi A3,13900.0,195000 ,2013,122 hp,Diesel,Automatic,117 ,4.4 
+1558,IT,Audi A3,13900.0,175000 ,2014,122 hp,CNG,Automatic,94 ,3.4 kg/100 km 
+1559,IT,Audi A3,14400.0,134000 ,2013,110 hp,Gasoline,Manual,123 ,4 
+1560,IT,Audi A3,14400.0,134000 ,2013,110 hp,Gasoline,Manual,123 ,4 
+1561,IT,Audi A3,14900.0,125000 ,2015,110 hp,Diesel,Automatic,99 ,3.8 
+1562,IT,Audi A3,14900.0,157440 ,2015,150 hp,Diesel,Semi-automatic,97 ,3.2 kg/100 km 
+1563,IT,Audi A3,14900.0,183208 ,2016,170 hp,Diesel,Manual,99 ,3.8 
+1564,IT,Audi A3,15000.0,148000 ,2015,105 hp,Diesel,Manual,- (,- (
+1565,IT,Audi A3,15000.0,150000 ,2013,150 hp,Diesel,Semi-automatic,- (,4.9 
+1566,IT,Audi A3,15000.0,127000 ,2013,110 hp,Diesel,Manual,102 ,3.9 
+1567,IT,Audi A3,15000.0,105000 ,2013,110 hp,Diesel,Manual,122 ,4.7 
+1568,IT,Audi A3,15000.0,177000 ,2016,105 hp,Diesel,Automatic,99 ,3.8 
+1569,,,,,,150 hp,,,,
+1570,IT,Audi A3,16370.0,145000 ,2015,150 hp,Diesel,Automatic,99 ,3.8 
+1571,IT,Audi A3,16400.0,88930 ,2014,150 hp,Diesel,Automatic,102 ,3.9 
+1572,IT,Audi A3,16400.0,72000 ,2015,125 hp,Gasoline,Manual,112 ,4.8 
+1573,IT,Audi A3,16490.0,170000 ,2016,150 hp,Diesel,Automatic,114 ,4.4 
+1574,IT,Audi A3,16500.0,96067 ,2014,179 hp,Diesel,Manual,106 ,4.1 
+1575,IT,Audi A3,16890.0,69752 ,2015,150 hp,Gasoline,Automatic,118 ,5.1 
+1576,IT,Audi A3,17900.0,89000 ,2014,110 hp,Diesel,Automatic,117 ,4.4 
+1577,IT,Audi A3,17900.0,86849 ,2013,110 hp,Gasoline,Automatic,130 ,5.6 
+1578,IT,Audi A3,18149.0,106252 ,2016,150 hp,Diesel,Manual,106 ,- (
+1579,IT,Audi A3,18200.0,111931 ,2017,116 hp,Diesel,Manual,107 ,4 
+1580,IT,Audi A3,18200.0,111931 ,2017,150 hp,Diesel,Manual,107 ,4 
+1581,IT,Audi A3,18500.0,140600 ,2018,110 hp,Diesel,Manual,126 ,4.8 
+1582,IT,Audi A3,18500.0,80000 ,2017,116 hp,Gasoline,Manual,- (,0 
+1583,IT,Audi A3,18700.0,120141 ,2017,110 hp,Diesel,Manual,- (,- (
+1584,IT,Audi A3,18700.0,121000 ,2018,116 hp,CNG,Manual,91 ,3.3 kg/100 km 
+1585,,,,,,116 hp,,,,
+1586,IT,Audi A3,18950.0,109900 ,2018,116 hp,Diesel,Automatic,103 ,3.9 
+1587,IT,Audi A3,18990.0,64000 ,2016,116 hp,Diesel,Automatic,99 ,3.8 
+1588,IT,Audi A3,18990.0,92316 ,2018,150 hp,Diesel,Automatic,103 ,3.9 
+1589,IT,Audi A3,19000.0,54000 ,2017,110 hp,Diesel,Automatic,103 ,3.9 
+1590,IT,Audi A3,19199.0,75316 ,2018,116 hp,Diesel,Manual,114 ,- (
+1591,IT,Audi A3,19400.0,88497 ,2017,116 hp,Diesel,Automatic,103 ,3.9 
+1592,IT,Audi A3,19500.0,130000 ,2017,110 hp,Diesel,Manual,124 ,4.8 
+1593,IT,Audi A3,19500.0,77164 ,2018,184 hp,CNG,Manual,94 ,3.5 kg/100 km 
+1594,,,,,,116 hp,,,,
+1595,IT,Audi A3,19900.0,90935 ,2016,150 hp,Diesel,Manual,106 ,4 
+1596,IT,Audi A3,19900.0,141890 ,2017,116 hp,Diesel,Automatic,103 ,3.9 
+1597,IT,Audi A3,19900.0,118459 ,2017,150 hp,Diesel,Automatic,99 ,3.8 
+1598,IT,Audi A3,19900.0,118000 ,2015,150 hp,Diesel,Automatic,127 ,4.8 
+1599,IT,Audi A3,19900.0,81000 ,2018,116 hp,Diesel,Semi-automatic,103 ,3.9 
+1600,IT,Audi A3,19990.0,120000 ,2018,116 hp,Diesel,Manual,111 ,4.3 
+1601,IT,Audi A3,20700.0,75000 ,2018,116 hp,Diesel,Manual,114 ,4.4 
+1602,IT,Audi A3,20900.0,104209 ,2017,116 hp,Diesel,Automatic,114 ,4.4 
+1603,IT,Audi A3,20900.0,87000 ,2018,116 hp,Diesel,Automatic,- (,4.5 
+1604,IT,Audi A3,20900.0,48619 ,2018,116 hp,Gasoline,Manual,106 ,4.6 
+1605,IT,Audi A3,20990.0,49458 ,2019,110 hp,Diesel,Manual,114 ,4.4 
+1606,IT,Audi A3,21200.0,21600 ,2019,110 hp,Gasoline,Automatic,114 ,5.1 
+1607,IT,Audi A3,21290.0,87026 ,2017,150 hp,Diesel,Manual,106 ,4 
+1608,IT,Audi A3,21300.0,70365 ,2019,116 hp,Gasoline,Manual,114 ,5.1 
+1609,IT,Audi A3,21490.0,49750 ,2017,150 hp,Diesel,Manual,106 ,4 
+1610,,,,,,110 hp,,,,
+1611,IT,Audi A3,21900.0,36553 ,2018,116 hp,CNG,Automatic,119 ,4 
+1612,IT,Audi A3,21900.0,36553 ,2018,116 hp,CNG,Automatic,119 ,4 
+1613,IT,Audi A3,21900.0,91499 ,2017,116 hp,Diesel,Automatic,118 ,4.5 
+1614,IT,Audi A3,21900.0,72307 ,2019,150 hp,Gasoline,Manual,114 ,5.1 
+1615,IT,Audi A3,22000.0,145421 ,2018,184 hp,Diesel,Automatic,- (,- (
+1616,,,,,,179 hp,,,,
+1617,IT,Audi A3,22480.0,34700 ,2018,116 hp,CNG,Automatic,91 ,3.3 kg/100 km 
+1618,IT,Audi A3,22490.0,52300 ,2018,116 hp,Diesel,Manual,106 ,4 
+1619,IT,Audi A3,22500.0,47234 ,2017,184 hp,Diesel,Automatic,103 ,3.9 
+1620,IT,Audi A3,22800.0,45000 ,2017,116 hp,Diesel,Automatic,103 ,3.9 
+1621,IT,Audi A3,22800.0,109000 ,2017,184 hp,Diesel,Semi-automatic,114 ,4.4 
+1622,IT,Audi A3,22860.0,80000 ,2016,116 hp,Diesel,Automatic,127 ,4.8 
+1623,,,,,,150 hp,,,,
+1624,IT,Audi A3,23049.0,16074 ,2014,116 hp,Gasoline,Automatic,133 ,- (
+1625,IT,Audi A3,23400.0,36036 ,2019,150 hp,Diesel,Manual,114 ,4.4 
+1626,IT,Audi A3,23499.0,38030 ,2019,116 hp,Diesel,Manual,112 ,4.4 
+1627,IT,Audi A3,23500.0,122100 ,2015,116 hp,Diesel,Semi-automatic,127 ,4.8 
+1628,IT,Audi A3,23500.0,40996 ,2019,150 hp,Diesel,Manual,137 ,5.2 
+1629,IT,Audi A3,23500.0,118860 ,2017,131 hp,Diesel,Automatic,126 ,4.8 
+1630,IT,Audi A3,23500.0,72300 ,2018,116 hp,Gasoline,Automatic,117 ,5.1 
+1631,IT,Audi A3,23900.0,73680 ,2016,150 hp,Diesel,Manual,122 ,4.7 
+1632,IT,Audi A3,23900.0,67100 ,2019,150 hp,Diesel,Automatic,103 ,3.9 
+1633,IT,Audi A3,23900.0,49056 ,2015,150 hp,Gasoline,Manual,116 ,5 
+1634,IT,Audi A3,23900.0,54000 ,2018,116 hp,Diesel,Semi-automatic,103 ,3.9 
+1635,IT,Audi A3,23900.0,38192 ,2018,131 hp,Diesel,Automatic,105 ,4 
+1636,IT,Audi A3,23900.0,30684 ,2018,116 hp,Gasoline,Manual,- (,- (
+1637,,,,,,116 hp,,,,
+1638,IT,Audi A3,24121.0,97853 ,2019,116 hp,CNG,Automatic,- (,- (
+1639,IT,Audi A3,24450.0,37658 ,2019,184 hp,Diesel,Automatic,101 ,3.9 
+1640,IT,Audi A3,24490.0,99349 ,2017,116 hp,Diesel,Automatic,115 ,4.4 
+1641,IT,Audi A3,24500.0,88358 ,2016,131 hp,Diesel,Automatic,118 ,4.5 
+1642,IT,Audi A3,24500.0,78597 ,2018,150 hp,Gasoline,Automatic,112 ,4.9 
+1643,IT,Audi A3,24500.0,33783 ,2019,116 hp,Diesel,Manual,114 ,4.4 
+1644,IT,Audi A3,24500.0,69166 ,2019,116 hp,CNG,Automatic,96 ,3.5 kg/100 km 
+1645,IT,Audi A3,24500.0,43360 ,2019,131 hp,Diesel,Semi-automatic,103 ,3.9 
+1646,IT,Audi A3,24750.0,51457 ,2018,150 hp,Diesel,Automatic,103 ,3.9 
+1647,IT,Audi A3,24800.0,47808 ,2019,150 hp,Diesel,Manual,137 ,5.2 
+1648,IT,Audi A3,24900.0,87000 ,2017,150 hp,Diesel,Automatic,128 ,4.9 
+1649,IT,Audi A3,24900.0,31990 ,2020,131 hp,Diesel,Manual,137 ,4.4 
+1650,IT,Audi A3,24900.0,48783 ,2019,150 hp,CNG,Automatic,97 ,3.5 kg/100 km 
+1651,IT,Audi A3,24900.0,65016 ,2019,150 hp,Gasoline,Automatic,112 ,4.9 
+1652,IT,Audi A3,24900.0,44805 ,2019,150 hp,Diesel,Manual,137 ,5.2 
+1653,IT,Audi A3,24900.0,40 ,2019,116 hp,Gasoline,Manual,114 ,5.1 
+1654,IT,Audi A3,25499.0,17000 ,2019,116 hp,CNG,Automatic,97 ,3.5 kg/100 km 
+1655,IT,Audi A3,25500.0,86000 ,2017,116 hp,Diesel,Automatic,140 ,4.4 
+1656,IT,Audi A3,25750.0,50000 ,2017,150 hp,Electric/Gasoline,Automatic,36 ,1.6 
+1657,,,,,,116 hp,,,,
+1658,IT,Audi A3,25890.0,38400 ,2017,150 hp,Electric/Gasoline,Automatic,36 ,1.6 
+1659,IT,Audi A3,25900.0,26000 ,2019,116 hp,CNG,Automatic,97 ,3.5 kg/100 km 
+1660,IT,Audi A3,25900.0,13100 ,2020,131 hp,Gasoline,Automatic,121 ,5.5 
+1661,IT,Audi A3,25900.0,85940 ,2018,116 hp,Electric/Gasoline,Automatic,36 ,1.6 
+1662,IT,Audi A3,25900.0,33783 ,2019,131 hp,Gasoline,Automatic,- (,- (
+1663,IT,Audi A3,25900.0,31988 ,2019,116 hp,Diesel,Semi-automatic,103 ,3.9 
+1664,IT,Audi A3,25900.0,38028 ,2019,116 hp,Diesel,Automatic,136 ,5.2 
+1665,IT,Audi A3,25990.0,83367 ,2019,150 hp,Diesel,Automatic,103 ,3.9 
+1666,IT,Audi A3,26000.0,70000 ,2017,116 hp,Diesel,Manual,124 ,4.8 
+1667,IT,Audi A3,26200.0,58158 ,2019,116 hp,Diesel,Automatic,136 ,5.2 
+1668,IT,Audi A3,26400.0,16478 ,2019,150 hp,Gasoline,Manual,114 ,5.1 
+1669,IT,Audi A3,26500.0,43263 ,2019,190 hp,Gasoline,Manual,117 ,5.1 
+1670,IT,Audi A3,26500.0,76534 ,2019,116 hp,CNG,Automatic,96 ,3.5 kg/100 km 
+1671,IT,Audi A3,26700.0,30836 ,2019,116 hp,Diesel,Automatic,136 ,5.2 
+1672,IT,Audi A3,26750.0,50000 ,2019,116 hp,CNG,Automatic,95 ,5.4 kg/100 km 
+1673,IT,Audi A3,26900.0,27740 ,2019,116 hp,Diesel,Automatic,103 ,3.9 
+1674,IT,Audi A3,26900.0,40009 ,2019,131 hp,Diesel,Automatic,103 ,3.9 
+1675,IT,Audi A3,26900.0,84500 ,2018,150 hp,Gasoline,Automatic,- (,- (
+1676,IT,Audi A3,26900.0,13051 ,2019,150 hp,Diesel,Automatic,103 ,3.9 
+1677,IT,Audi A3,26900.0,13051 ,2019,150 hp,Diesel,Automatic,103 ,3.9 
+1678,IT,Audi A3,26900.0,45405 ,2018,150 hp,Gasoline,Automatic,112 ,4.9 
+1679,IT,Audi A3,26950.0,89950 ,2018,116 hp,Gasoline,Automatic,132 ,5.8 
+1680,IT,Audi A3,26950.0,24880 ,2020,184 hp,Diesel,Manual,137 ,5.2 
+1681,IT,Audi A3,26980.0,54912 ,2019,131 hp,Diesel,Automatic,103 ,3.9 
+1682,IT,Audi A3,26990.0,69890 ,2019,116 hp,Diesel,Automatic,103 ,3.9 
+1683,IT,Audi A3,26990.0,22804 ,2020,150 hp,Diesel,Manual,- (,- (
+1684,IT,Audi A3,26999.0,46000 ,2019,184 hp,CNG,Automatic,- (,- (
+1685,IT,Audi A3,27150.0,64457 ,2019,116 hp,Diesel,Automatic,- (,- (
+1686,IT,Audi A3,27190.0,95088 ,2019,131 hp,Diesel,Automatic,115 ,4.4 
+1687,IT,Audi A3,27300.0,48462 ,2020,116 hp,Diesel,Automatic,- (,- (
+1688,IT,Audi A3,27400.0,30651 ,2018,,Gasoline,Automatic,114 ,5.1 
+1689,IT,Audi A3,27500.0,31100 ,2019,,Diesel,Automatic,103 ,3.9 
+1690,IT,Audi A3,27500.0,67500 ,2018,,Diesel,Automatic,128 ,4.9 
+1691,IT,Audi A3,27500.0,29200 ,2019,,CNG,Automatic,95 ,5.4 kg/100 km 
+1692,IT,Audi A3,27790.0,29550 ,2019,,Diesel,Automatic,103 ,3.9 
+1693,IT,Audi A3,27800.0,49904 ,2020,,Diesel,Automatic,137 ,5.2 
+1694,IT,Audi A3,27900.0,74900 ,2017,,Diesel,Automatic,128 ,4.9 
+1695,IT,Audi A3,27900.0,45468 ,2019,,Diesel,Automatic,136 ,5.2 
+1696,IT,Audi A3,27900.0,15855 ,2019,,CNG,Automatic,114 ,6.4 kg/100 km 
+1697,IT,Audi A3,27900.0,41541 ,2019,,Diesel,Automatic,103 ,3.9 
+1698,IT,Renault Megane,2900.0,167000 ,2008,131 hp,Diesel,Manual,151 ,5.8 
+1699,IT,Renault Megane,4800.0,199999 ,2011,110 hp,Diesel,- (Gearing Type),- (,- (
+1700,IT,Renault Megane,5600.0,155000 ,2012,110 hp,Diesel,Manual,90 ,3.5 
+1701,IT,Renault Megane,5900.0,119000 ,2008,111 hp,Gasoline,Manual,166 ,7 
+1702,IT,Renault Megane,6900.0,125000 ,2012,110 hp,Diesel,Manual,114 ,4.4 
+1703,IT,Renault Megane,7950.0,178953 ,2016,110 hp,Diesel,Manual,90 ,3.5 
+1704,IT,Renault Megane,8800.0,122350 ,2014,110 hp,Diesel,Manual,90 ,3.5 
+1705,IT,Renault Megane,8800.0,144820 ,2015,110 hp,Diesel,Manual,106 ,4.1 
+1706,IT,Renault Megane,9000.0,106481 ,2014,110 hp,Diesel,Automatic,- (,- (
+1707,IT,Renault Megane,9500.0,160000 ,2004,224 hp,Gasoline,Manual,209 ,8.8 
+1708,IT,Renault Megane,9800.0,114231 ,2016,110 hp,Diesel,Manual,110 ,4.2 
+1709,IT,Renault Megane,10700.0,77000 ,2014,110 hp,Diesel,Manual,114 ,4.4 
+1710,IT,Renault Megane,11900.0,140000 ,2018,110 hp,Diesel,Manual,95 ,3.7 
+1711,IT,Renault Megane,11900.0,129000 ,2017,110 hp,Diesel,Manual,95 ,3.7 
+1712,IT,Renault Megane,11990.0,140000 ,2017,110 hp,Diesel,Manual,95 ,3.7 
+1713,IT,Renault Megane,12450.0,98789 ,2017,110 hp,Diesel,Manual,- (,- (
+1714,IT,Renault Megane,12700.0,146099 ,2018,110 hp,Diesel,Automatic,- (,- (
+1715,IT,Renault Megane,12798.0,98929 ,2018,110 hp,Diesel,Manual,95 ,3.7 
+1716,IT,Renault Megane,14200.0,80626 ,2019,116 hp,Gasoline,Manual,120 ,5.3 
+1717,IT,Renault Megane,14480.0,49853 ,2019,140 hp,Gasoline,Manual,125 ,5.7 
+1718,IT,Renault Megane,14490.0,100544 ,2018,110 hp,Diesel,Automatic,- (,- (
+1719,IT,Renault Megane,14671.0,74159 ,2017,110 hp,Diesel,Manual,- (,- (
+1720,IT,Renault Megane,14900.0,107000 ,2017,110 hp,Diesel,Manual,95 ,3.7 
+1721,IT,Renault Megane,14990.0,99877 ,2017,110 hp,Diesel,Manual,95 ,3.7 
+1722,IT,Renault Megane,14990.0,109520 ,2017,110 hp,Diesel,Automatic,- (,- (
+1723,IT,Renault Megane,14990.0,94166 ,2017,110 hp,Diesel,Automatic,- (,- (
+1724,IT,Renault Megane,14990.0,75459 ,2018,110 hp,Diesel,Automatic,- (,- (
+1725,IT,Renault Megane,15000.0,70000 ,2017,110 hp,Diesel,Manual,95 ,3.7 
+1726,IT,Renault Megane,15300.0,94911 ,2018,110 hp,Diesel,Automatic,95 ,3.7 
+1727,IT,Renault Megane,15496.0,67243 ,2017,110 hp,Diesel,Automatic,95 ,3.7 
+1728,IT,Renault Megane,15900.0,82403 ,2017,110 hp,Diesel,Automatic,95 ,3.7 
+1729,IT,Renault Megane,15990.0,50416 ,2018,110 hp,Diesel,Manual,- (,- (
+1730,IT,Renault Megane,15990.0,32500 ,2019,116 hp,Gasoline,Manual,120 ,5.2 
+1731,IT,Renault Megane,16200.0,22950 ,2020,116 hp,Diesel,Manual,102 ,4.3 
+1732,IT,Renault Megane,16400.0,43687 ,2019,110 hp,Diesel,Manual,95 ,3 
+1733,IT,Renault Megane,16400.0,43687 ,2019,110 hp,Diesel,Manual,95 ,3 
+1734,IT,Renault Megane,16416.0,83761 ,2018,110 hp,Diesel,Manual,- (,- (
+1735,IT,Renault Megane,16495.0,40606 ,2018,110 hp,Diesel,Manual,95 ,3.7 
+1736,IT,Renault Megane,16666.0,60014 ,2018,110 hp,Diesel,Automatic,- (,- (
+1737,IT,Renault Megane,16990.0,59634 ,2018,110 hp,Diesel,Automatic,- (,- (
+1738,IT,Renault Megane,16990.0,57300 ,2017,131 hp,Diesel,Manual,103 ,4 
+1739,IT,Renault Megane,17390.0,81186 ,2020,116 hp,Diesel,Manual,102 ,3.9 
+1740,IT,Renault Megane,17590.0,44044 ,2018,110 hp,Diesel,Automatic,- (,- (
+1741,IT,Renault Megane,17849.0,18111 ,2019,116 hp,Diesel,Manual,103 ,- (
+1742,IT,Renault Megane,17900.0,25000 ,2018,110 hp,Diesel,Manual,95 ,3.7 
+1743,IT,Renault Megane,17900.0,16745 ,2019,116 hp,Diesel,Automatic,108 ,4.1 
+1744,IT,Renault Megane,18461.0,31506 ,2019,116 hp,Diesel,Manual,102 ,3.9 
+1745,IT,Renault Megane,18949.0,19568 ,2019,140 hp,Gasoline,Automatic,134 ,- (
+1746,IT,Renault Megane,19293.0,15836 ,2019,116 hp,Diesel,Manual,102 ,3.9 
+1747,IT,Renault Megane,19400.0,33282 ,2019,116 hp,Diesel,Automatic,108 ,4.1 
+1748,IT,Renault Megane,19500.0,6000 ,2020,95 hp,Diesel,Manual,102 ,3.9 
+1749,IT,Renault Megane,19900.0,54327 ,2019,116 hp,Diesel,Automatic,102 ,3.9 
+1750,IT,Renault Megane,19900.0,21508 ,2019,116 hp,Diesel,Automatic,102 ,4.3 
+1751,IT,Renault Megane,19990.0,13268 ,2021,116 hp,Diesel,Manual,104 ,3.9 
+1752,IT,Renault Megane,19999.0,52000 ,2012,265 hp,Gasoline,Manual,174 ,7.5 
+1753,IT,Renault Megane,20861.0,6054 ,2020,116 hp,Diesel,Manual,104 ,3.9 
+1754,IT,Renault Megane,21600.0,6500 ,2020,116 hp,Diesel,Manual,102 ,- (
+1755,IT,Renault Megane,21690.0,8194 ,2020,116 hp,Diesel,Automatic,104 ,3.9 
+1756,IT,Renault Megane,21700.0,12975 ,2019,116 hp,Diesel,Automatic,108 ,4.1 
+1757,IT,Renault Megane,21810.0,32965 ,2020,116 hp,Diesel,Automatic,108 ,4.1 
+1758,IT,Renault Megane,21890.0,11 ,2021,116 hp,Diesel,Automatic,102 ,3.9 
+1759,IT,Renault Megane,24300.0,17000 ,2020,158 hp,Electric/Gasoline,Automatic,29 ,4.4 
+1760,IT,Renault Megane,25500.0,1 ,2021,91 hp,Electric/Gasoline,Automatic,29 ,4.4 
+1761,IT,Renault Megane,28600.0,5000 ,2021,91 hp,Electric/Gasoline,Manual,- (,- (
+1762,IT,Renault Megane,29190.0,74 ,2021,158 hp,Electric/Gasoline,Automatic,- (,- (
+1763,IT,Renault Megane,29800.0,2700 ,2021,94 hp,Electric/Gasoline,Automatic,- (,- (
+1764,IT,Renault Megane,29900.0,11200 ,2020,159 hp,Electric/Gasoline,Automatic,29 ,- (
+1765,IT,Renault Megane,29900.0,500 ,2021,94 hp,Electric/Gasoline,Automatic,- (,- (
+1766,IT,Renault Megane,29950.0,800 ,2021,94 hp,Electric/Gasoline,Automatic,- (,- (
+1767,IT,Renault Megane,30100.0,3800 ,2021,94 hp,Electric/Gasoline,Automatic,- (,- (
+1768,IT,Renault Megane,31400.0,10 ,2020,158 hp,Electric/Gasoline,Automatic,29 ,1.4 
+1769,IT,Renault Megane,53900.0,220 ,2020,300 hp,Gasoline,Manual,- (,- (
+1770,IT,Renault Megane,4800.0,170000 ,2009,95 hp,Diesel,Manual,- (,- (
+1771,,,,,,111 hp,,,,
+1772,,,,,,,,,,
+1773,IT,Renault Megane,1200.0,225000 ,2005,,LPG,Automatic,- (,- (
+1774,,,,,,,,,,
+1775,IT,Skoda Octavia,7000.0,158938 ,2010,140 hp,Diesel,Manual,129 ,4.9 
+1776,IT,Skoda Octavia,8900.0,194357 ,2015,105 hp,Diesel,Manual,109 ,4.2 
+1777,IT,Skoda Octavia,11650.0,152400 ,2017,116 hp,Diesel,Automatic,- (,- (
+1778,IT,Skoda Octavia,11900.0,150000 ,2016,110 hp,Diesel,Manual,99 ,3.8 
+1779,IT,Skoda Octavia,12400.0,110000 ,2017,116 hp,Diesel,Manual,103 ,3.9 
+1780,IT,Skoda Octavia,12899.0,86092 ,2017,110 hp,Diesel,Manual,101 ,- (
+1781,IT,Skoda Octavia,12900.0,196950 ,2018,116 hp,Diesel,Manual,103 ,3.9 
+1782,IT,Skoda Octavia,13450.0,130184 ,2018,116 hp,Diesel,Automatic,- (,- (
+1783,IT,Skoda Octavia,13500.0,129008 ,2014,220 hp,Gasoline,Manual,142 ,6.2 
+1784,IT,Skoda Octavia,14150.0,98084 ,2018,110 hp,CNG,Manual,97 ,5.4 kg/100 km 
+1785,IT,Skoda Octavia,14950.0,133343 ,2018,110 hp,CNG,Manual,102 ,5.7 kg/100 km 
+1786,IT,Skoda Octavia,15000.0,51600 ,2017,110 hp,CNG,Manual,102 ,5.7 kg/100 km 
+1787,IT,Skoda Octavia,15000.0,122500 ,2019,116 hp,Diesel,Automatic,107 ,4.1 
+1788,IT,Skoda Octavia,15390.0,86679 ,2017,116 hp,Diesel,Automatic,102 ,3.9 
+1789,IT,Skoda Octavia,15499.0,72951 ,2018,110 hp,CNG,Automatic,99 ,- (
+1790,IT,Skoda Octavia,15549.0,55325 ,2019,116 hp,Diesel,Manual,109 ,- (
+1791,IT,Skoda Octavia,15549.0,55325 ,2019,116 hp,Diesel,Manual,109 ,- (
+1792,IT,Skoda Octavia,15800.0,131707 ,2018,150 hp,Diesel,Automatic,115 ,4.4 
+1793,IT,Skoda Octavia,15900.0,54135 ,2015,110 hp,Diesel,Automatic,99 ,3.5 
+1794,IT,Skoda Octavia,15900.0,109000 ,2014,184 hp,Diesel,Manual,129 ,4.9 
+1795,IT,Skoda Octavia,15900.0,85443 ,2019,116 hp,Diesel,Manual,111 ,4.2 
+1796,IT,Skoda Octavia,16390.0,84493 ,2017,110 hp,CNG,Automatic,- (,- (
+1797,,,,,,116 hp,,,,
+1798,IT,Skoda Octavia,17990.0,86755 ,2018,116 hp,Diesel,Automatic,102 ,3.9 
+1799,IT,Skoda Octavia,18200.0,46150 ,2019,131 hp,Diesel,Manual,111 ,4.2 
+1800,IT,Skoda Octavia,18450.0,44725 ,2019,150 hp,CNG,Automatic,96 ,5.4 kg/100 km 
+1801,IT,Skoda Octavia,18500.0,139785 ,2017,131 hp,Diesel,Automatic,120 ,4.6 
+1802,IT,Skoda Octavia,18500.0,43935 ,2019,150 hp,CNG,Automatic,96 ,3.9 kg/100 km 
+1803,IT,Skoda Octavia,18900.0,130174 ,2018,150 hp,Diesel,Semi-automatic,119 ,4.6 
+1804,IT,Skoda Octavia,18900.0,124400 ,2018,131 hp,Diesel,Automatic,143 ,5.5 
+1805,IT,Skoda Octavia,18900.0,52500 ,2020,131 hp,CNG,Automatic,96 ,3.9 kg/100 km 
+1806,IT,Skoda Octavia,19200.0,53696 ,2020,110 hp,CNG,Automatic,96 ,3.9 kg/100 km 
+1807,IT,Skoda Octavia,19200.0,62949 ,2018,184 hp,CNG,Automatic,126 ,5.5 kg/100 km 
+1808,IT,Skoda Octavia,19349.0,102497 ,2016,131 hp,Diesel,Automatic,126 ,- (
+1809,IT,Skoda Octavia,19900.0,55000 ,2020,131 hp,CNG,Automatic,116 ,5.4 kg/100 km 
+1810,IT,Skoda Octavia,20200.0,41636 ,2019,150 hp,CNG,Automatic,96 ,3.9 kg/100 km 
+1811,IT,Skoda Octavia,21900.0,70000 ,2018,150 hp,Diesel,Automatic,129 ,4.9 
+1812,IT,Skoda Octavia,23500.0,35568 ,2019,204 hp,Diesel,Automatic,117 ,4.5 
+1813,IT,Skoda Octavia,23700.0,- ,,131 hp,,,,
+1814,,,,,2020,131 hp,Others,Automatic,22 ,1 
+1815,IT,Skoda Octavia,28500.0,22375 ,2021,150 hp,CNG,Automatic,105 ,4 
+1816,IT,Skoda Octavia,28900.0,19990 ,2021,150 hp,CNG,Automatic,95 ,5.3 kg/100 km 
+1817,IT,Skoda Octavia,29850.0,2536 ,2021,90 hp,Diesel,Automatic,117 ,4.5 
+1818,IT,Skoda Octavia,30500.0,15000 ,,102 hp,,,,
+1819,IT,Skoda Octavia,30500.0,- ,2021,105 hp,Diesel,Automatic,116 ,4.5 
+1820,,,,,,140 hp,,,,
+1821,IT,Skoda Octavia,36900.0,23931 ,,105 hp,,,,
+1822,IT,Skoda Octavia,37200.0,- ,2004,105 hp,Diesel,Manual,- (,5 
+1823,,,,,,,,,,
+1824,,,,,2003,,Gasoline,Manual,- (,- (
+1825,IT,Skoda Octavia,2500.0,218000 ,,,,,,
+1826,,,,,,,,,,
+1827,IT,Skoda Octavia,3400.0,205756 ,2013,,Diesel,Manual,114 ,4.4 
+1828,,,,,2009,,Diesel,Automatic,156 ,5.9 
+1829,,,,,2007,,Diesel,Manual,135 ,5.3 
+1830,IT,Skoda Octavia,5900.0,137900 ,2011,,Diesel,Manual,114 ,4.4 
+1831,IT,Skoda Octavia,5900.0,253000 ,,,,,,
+1832,IT,Skoda Octavia,5900.0,142000 ,,,,,,
+1833,IT,Skoda Octavia,5900.0,226600 ,,,,,,
+1834,,,,,,,,,,
+1835,BE,MINI Cooper,3999.0,147351 ,2002,116 hp,Gasoline,Manual,163 ,6.5 
+1836,BE,MINI Cooper,9999.0,60790 ,2013,111 hp,Diesel,Manual,99 ,3.8 
+1837,BE,MINI One,14390.0,66452 ,2016,102 hp,Gasoline,Automatic,112 ,4.8 
+1838,BE,MINI One,14900.0,118214 ,2018,102 hp,Gasoline,Manual,122 ,- (
+1839,BE,MINI One,15600.0,70000 ,2018,102 hp,Gasoline,Manual,112 ,4.9 
+1840,BE,MINI Cooper,15990.0,99000 ,2016,116 hp,Diesel,Automatic,99 ,3.6 
+1841,BE,MINI One,16600.0,61960 ,2018,102 hp,Gasoline,Manual,122 ,- (
+1842,BE,MINI One,16950.0,62000 ,2018,102 hp,Gasoline,Manual,112 ,6.3 
+1843,BE,MINI One,17450.0,39587 ,2019,102 hp,Gasoline,Manual,122 ,5.4 
+1844,BE,MINI One,18300.0,16699 ,2018,102 hp,Gasoline,Manual,124 ,5.5 
+1845,BE,MINI One,18950.0,69000 ,2019,102 hp,Gasoline,Automatic,116 ,5.7 
+1846,BE,MINI One,19495.0,28377 ,2019,102 hp,Gasoline,Manual,122 ,5 
+1847,BE,MINI One,19950.0,47998 ,2021,102 hp,Gasoline,Manual,122 ,- (
+1848,BE,MINI Cooper,21900.0,6890 ,2019,136 hp,Gasoline,Manual,117 ,- (
+1849,BE,MINI Cooper,21950.0,89970 ,2016,192 hp,Gasoline,Automatic,126 ,5 
+1850,BE,MINI Cooper,24500.0,17145 ,2020,136 hp,Gasoline,Manual,143 ,5.8 
+1851,BE,MINI One,25495.0,5801 ,2021,102 hp,Gasoline,Manual,118 ,5.2 
+1852,BE,MINI Cooper,25499.0,31500 ,2018,136 hp,Gasoline,Automatic,110 ,4.8 
+1853,BE,MINI John Cooper Works,25500.0,59800 ,2015,231 hp,Gasoline,Automatic,133 ,6 
+1854,BE,MINI Cooper,26950.0,34833 ,2018,192 hp,Gasoline,Automatic,125 ,5.4 
+1855,BE,MINI Cooper,28350.0,35000 ,2019,192 hp,Gasoline,Automatic,128 ,6.6 
+1856,BE,MINI Cooper,29000.0,25351 ,2019,192 hp,Gasoline,Automatic,127 ,5.6 
+1857,BE,MINI Cooper,29250.0,10250 ,2019,163 hp,Gasoline,Automatic,120 ,5.3 
+1858,BE,MINI John Cooper Works,31900.0,61282 ,2020,231 hp,Gasoline,Automatic,0 ,- (
+1859,BE,MINI Cooper,32000.0,9607 ,2020,192 hp,Gasoline,Automatic,120 ,5.3 
+1860,BE,MINI John Cooper Works,32900.0,25000 ,2020,231 hp,Gasoline,Automatic,139 ,- (
+1861,BE,MINI John Cooper Works,40500.0,13468 ,2021,231 hp,Gasoline,Automatic,142 ,- (
+1862,BE,MINI John Cooper Works,46950.0,344 ,2020,306 hp,Gasoline,Automatic,167 ,- (
+1863,BE,MINI One,3250.0,176869 ,2003,90 hp,Gasoline,Manual,158 ,6.5 
+1864,BE,MINI One,4300.0,122000 ,2002,90 hp,Gasoline,Manual,158 ,6.5 
+1865,BE,MINI Cooper,4499.0,133000 ,2005,90 hp,Gasoline,Manual,- (,- (
+1866,BE,MINI Cooper,4750.0,202106 ,2009,109 hp,Diesel,Manual,104 ,3.9 
+1867,BE,MINI One,4950.0,175455 ,2004,90 hp,Gasoline,Manual,158 ,6.5 
+1868,BE,MINI One,5250.0,175000 ,2010,98 hp,Gasoline,Manual,127 ,5.4 
+1869,BE,MINI Cooper,6500.0,186000 ,2003,163 hp,Gasoline,Manual,209 ,8.6 
+1870,BE,MINI Cooper,7200.0,207000 ,2004,163 hp,Gasoline,Manual,209 ,8.6 
+1871,BE,MINI One,7490.0,124620 ,2010,90 hp,Diesel,Manual,99 ,3.8 
+1872,BE,MINI Cooper,11290.0,115047 ,2016,95 hp,Diesel,Manual,89 ,3.5 
+1873,BE,MINI Cooper,12450.0,52410 ,2014,116 hp,Diesel,Automatic,98 ,3.7 
+1874,BE,MINI Cooper,12900.0,128908 ,2014,116 hp,Diesel,Automatic,99 ,3.6 
+1875,BE,MINI One,15400.0,53522 ,2017,75 hp,Gasoline,Manual,118 ,4.6 
+1876,BE,MINI Cooper,15500.0,63648 ,2015,136 hp,Gasoline,Manual,105 ,4.5 
+1877,BE,MINI One,15600.0,59000 ,2018,102 hp,Gasoline,Manual,111 ,4.9 
+1878,,,,,,102 hp,,,,
+1879,BE,MINI One,17490.0,69590 ,2018,102 hp,Gasoline,Manual,115 ,5 
+1880,BE,MINI One,18950.0,50173 ,2018,102 hp,Gasoline,Automatic,116 ,5 
+1881,BE,MINI One,19790.0,29402 ,2019,95 hp,Gasoline,Manual,123 ,5.4 
+1882,BE,MINI One,19890.0,25000 ,2018,170 hp,Diesel,Manual,97 ,- (
+1883,BE,MINI Cooper,19990.0,39181 ,2016,102 hp,Diesel,Manual,112 ,4.3 
+1884,BE,MINI One,20995.0,29252 ,2018,136 hp,Gasoline,Automatic,110 ,4.8 
+1885,BE,MINI Cooper,21990.0,45500 ,2018,102 hp,Gasoline,Automatic,111 ,4.8 
+1886,BE,MINI One,22995.0,13106 ,2019,192 hp,Gasoline,Automatic,119 ,- (
+1887,BE,MINI Cooper,24490.0,42327 ,2018,102 hp,Gasoline,Automatic,119 ,5.2 
+1888,BE,MINI One,24500.0,95 ,2021,192 hp,Gasoline,Manual,120 ,5.3 
+1889,BE,MINI Cooper,25490.0,44065 ,2019,211 hp,Gasoline,Manual,145 ,6.4 
+1890,BE,MINI John Cooper Works,26999.0,70900 ,2013,136 hp,Gasoline,Manual,165 ,6.6 
+1891,BE,MINI Cooper,28995.0,22630 ,2021,136 hp,Gasoline,Manual,120 ,- (
+1892,BE,MINI Cooper,28995.0,16225 ,2020,192 hp,Gasoline,Automatic,112 ,- (
+1893,BE,MINI Cooper,29450.0,56905 ,2019,192 hp,Gasoline,Automatic,120 ,5.3 
+1894,BE,MINI Cooper,29750.0,34135 ,2019,136 hp,Gasoline,Automatic,158 ,5.3 
+1895,BE,MINI Cooper,29995.0,21641 ,2021,136 hp,Gasoline,Automatic,112 ,- (
+1896,BE,MINI Cooper,30990.0,4200 ,2021,192 hp,Gasoline,Automatic,112 ,4.9 
+1897,BE,MINI Cooper,31490.0,8124 ,2020,136 hp,Gasoline,Automatic,119 ,- (
+1898,BE,MINI Cooper,31495.0,6166 ,2021,136 hp,Gasoline,Automatic,112 ,- (
+1899,BE,MINI Cooper,31495.0,8774 ,2021,192 hp,Gasoline,Automatic,112 ,- (
+1900,BE,MINI Cooper,31900.0,21074 ,2020,231 hp,Gasoline,Automatic,128 ,- (
+1901,,,,,,231 hp,,,,
+1902,BE,MINI John Cooper Works,37900.0,5900 ,2021,163 hp,Gasoline,Automatic,137 ,6 
+1903,BE,MINI John Cooper Works,39995.0,6106 ,2021,75 hp,Gasoline,Automatic,137 ,- (
+1904,BE,MINI Cooper,11999.0,125000 ,2011,102 hp,Gasoline,Automatic,149 ,6.4 
+1905,BE,MINI One,13400.0,70238 ,2017,192 hp,Gasoline,Manual,117 ,4.6 
+1906,BE,MINI One,15500.0,31978 ,2016,192 hp,Gasoline,Manual,112 ,4.8 
+1907,BE,MINI Cooper,18900.0,81000 ,2017,102 hp,Gasoline,Automatic,125 ,5.4 
+1908,BE,MINI Cooper,19490.0,82000 ,2017,163 hp,Gasoline,Manual,133 ,5.7 
+1909,BE,MINI One,19995.0,8000 ,2021,136 hp,Gasoline,Manual,- (,- (
+1910,BE,MINI Cooper,20000.0,78031 ,2016,136 hp,Gasoline,Manual,133 ,5.7 
+1911,BE,MINI Cooper,20990.0,60000 ,2019,136 hp,Gasoline,Automatic,109 ,4.7 
+1912,BE,MINI Cooper,23750.0,31882 ,2018,136 hp,Gasoline,Manual,114 ,4.9 
+1913,BE,MINI Cooper,24450.0,12007 ,2019,231 hp,Gasoline,Automatic,119 ,5.2 
+1914,BE,MINI Cooper,24995.0,24566 ,2019,178 hp,Gasoline,Automatic,119 ,4.9 
+1915,BE,MINI John Cooper Works,32950.0,19260 ,2020,231 hp,Gasoline,Manual,159 ,6.9 
+1916,BE,MINI Cooper,33900.0,10670 ,2021,125 hp,Gasoline,Automatic,119 ,- (
+1917,BE,MINI John Cooper Works,39995.0,3750 ,2021,,Gasoline,Automatic,137 ,- (
+1918,BE,MINI Cooper,49999.0,100 ,1968,,Gasoline,Manual,- (,- (
+1919,,,,,,,,,,
+1920,,,,,,,,,,
+1921,BE,Audi A3,17490.0,122654 ,2016,110 hp,Diesel,Automatic,98 ,3.9 
+1922,BE,Audi A3,17990.0,115000 ,2017,116 hp,Diesel,Manual,108 ,4 
+1923,BE,Audi A3,18990.0,107800 ,2016,110 hp,Diesel,Automatic,102 ,3.8 
+1924,BE,Audi A3,19450.0,130747 ,2017,110 hp,Diesel,Automatic,98 ,4.1 
+1925,BE,Audi A3,19750.0,109005 ,2017,116 hp,Diesel,Automatic,106 ,4.3 
+1926,BE,Audi A3,19990.0,41990 ,2017,116 hp,Gasoline,Manual,106 ,4.4 
+1927,BE,Audi A3,19990.0,84537 ,2014,150 hp,Diesel,Manual,120 ,4.6 
+1928,BE,Audi A3,20300.0,70401 ,2019,116 hp,Gasoline,Manual,111 ,4.9 
+1929,BE,Audi A3,20900.0,18024 ,2019,116 hp,Gasoline,Automatic,115 ,5.1 
+1930,BE,Audi A3,20990.0,98343 ,2018,116 hp,Diesel,Automatic,102 ,4 
+1931,BE,Audi A3,17490.0,122654 ,2016,110 hp,Diesel,Automatic,98 ,3.9 
+1932,BE,Audi A3,17990.0,115000 ,2017,116 hp,Diesel,Manual,108 ,4 
+1933,BE,Audi A3,18990.0,107800 ,2016,110 hp,Diesel,Automatic,102 ,3.8 
+1934,BE,Audi A3,19450.0,130747 ,2017,110 hp,Diesel,Automatic,98 ,4.1 
+1935,BE,Audi A3,19750.0,109005 ,2017,116 hp,Diesel,Automatic,106 ,4.3 
+1936,BE,Audi A3,19990.0,41990 ,2017,116 hp,Gasoline,Manual,106 ,4.4 
+1937,BE,Audi A3,19990.0,84537 ,2014,150 hp,Diesel,Manual,120 ,4.6 
+1938,BE,Audi A3,20300.0,70401 ,2019,116 hp,Gasoline,Manual,111 ,4.9 
+1939,BE,Audi A3,20900.0,18024 ,2019,116 hp,Gasoline,Automatic,115 ,5.1 
+1940,BE,Audi A3,20990.0,98343 ,2018,116 hp,Diesel,Automatic,102 ,4 
+1941,BE,Audi A3,17490.0,122654 ,2016,110 hp,Diesel,Automatic,98 ,3.9 
+1942,BE,Audi A3,17990.0,115000 ,2017,116 hp,Diesel,Manual,108 ,4 
+1943,BE,Audi A3,18990.0,107800 ,2016,110 hp,Diesel,Automatic,102 ,3.8 
+1944,BE,Audi A3,19450.0,130747 ,2017,110 hp,Diesel,Automatic,98 ,4.1 
+1945,BE,Audi A3,19750.0,109005 ,2017,116 hp,Diesel,Automatic,106 ,4.3 
+1946,BE,Audi A3,19990.0,41990 ,2017,116 hp,Gasoline,Manual,106 ,4.4 
+1947,BE,Audi A3,19990.0,84537 ,2014,150 hp,Diesel,Manual,120 ,4.6 
+1948,BE,Audi A3,20300.0,70401 ,2019,116 hp,Gasoline,Manual,111 ,4.9 
+1949,BE,Audi A3,20900.0,18024 ,2019,116 hp,Gasoline,Automatic,115 ,5.1 
+1950,BE,Audi A3,20990.0,98343 ,2018,116 hp,Diesel,Automatic,102 ,4 
+1951,BE,Audi A3,17490.0,122654 ,2016,110 hp,Diesel,Automatic,98 ,3.9 
+1952,BE,Audi A3,17990.0,115000 ,2017,116 hp,Diesel,Manual,108 ,4 
+1953,BE,Audi A3,18990.0,107800 ,2016,110 hp,Diesel,Automatic,102 ,3.8 
+1954,BE,Audi A3,19450.0,130747 ,2017,110 hp,Diesel,Automatic,98 ,4.1 
+1955,BE,Audi A3,19750.0,109005 ,2017,116 hp,Diesel,Automatic,106 ,4.3 
+1956,BE,Audi A3,19990.0,41990 ,2017,116 hp,Gasoline,Manual,106 ,4.4 
+1957,BE,Audi A3,19990.0,84537 ,2014,150 hp,Diesel,Manual,120 ,4.6 
+1958,BE,Audi A3,20300.0,70401 ,2019,116 hp,Gasoline,Manual,111 ,4.9 
+1959,BE,Audi A3,20900.0,18024 ,2019,116 hp,Gasoline,Automatic,115 ,5.1 
+1960,BE,Audi A3,20990.0,98343 ,2018,116 hp,Diesel,Automatic,102 ,4 
+1961,BE,Audi A3,17490.0,122654 ,2016,110 hp,Diesel,Automatic,98 ,3.9 
+1962,BE,Audi A3,17990.0,115000 ,2017,116 hp,Diesel,Manual,108 ,4 
+1963,BE,Audi A3,18990.0,107800 ,2016,110 hp,Diesel,Automatic,102 ,3.8 
+1964,BE,Audi A3,19450.0,130747 ,2017,110 hp,Diesel,Automatic,98 ,4.1 
+1965,BE,Audi A3,19750.0,109005 ,2017,116 hp,Diesel,Automatic,106 ,4.3 
+1966,BE,Audi A3,19990.0,41990 ,2017,116 hp,Gasoline,Manual,106 ,4.4 
+1967,BE,Audi A3,19990.0,84537 ,2014,150 hp,Diesel,Manual,120 ,4.6 
+1968,BE,Audi A3,20300.0,70401 ,2019,116 hp,Gasoline,Manual,111 ,4.9 
+1969,BE,Audi A3,20900.0,18024 ,2019,116 hp,Gasoline,Automatic,115 ,5.1 
+1970,BE,Audi A3,20990.0,98343 ,2018,116 hp,Diesel,Automatic,102 ,4 
+1971,BE,Audi A3,17490.0,122654 ,2016,110 hp,Diesel,Automatic,98 ,3.9 
+1972,BE,Audi A3,17990.0,115000 ,2017,116 hp,Diesel,Manual,108 ,4 
+1973,BE,Audi A3,18990.0,107800 ,2016,110 hp,Diesel,Automatic,102 ,3.8 
+1974,BE,Audi A3,19450.0,130747 ,2017,110 hp,Diesel,Automatic,98 ,4.1 
+1975,BE,Audi A3,19750.0,109005 ,2017,116 hp,Diesel,Automatic,106 ,4.3 
+1976,BE,Audi A3,19990.0,41990 ,2017,116 hp,Gasoline,Manual,106 ,4.4 
+1977,BE,Audi A3,19990.0,84537 ,2014,150 hp,Diesel,Manual,120 ,4.6 
+1978,BE,Audi A3,20300.0,70401 ,2019,116 hp,Gasoline,Manual,111 ,4.9 
+1979,BE,Audi A3,20900.0,18024 ,2019,116 hp,Gasoline,Automatic,115 ,5.1 
+1980,BE,Audi A3,20990.0,98343 ,2018,116 hp,Diesel,Automatic,102 ,4 
+1981,BE,Audi A3,17490.0,122654 ,2016,110 hp,Diesel,Automatic,98 ,3.9 
+1982,BE,Audi A3,17990.0,115000 ,2017,116 hp,Diesel,Manual,108 ,4 
+1983,BE,Audi A3,18990.0,107800 ,2016,110 hp,Diesel,Automatic,102 ,3.8 
+1984,BE,Audi A3,19450.0,130747 ,2017,110 hp,Diesel,Automatic,98 ,4.1 
+1985,BE,Audi A3,19750.0,109005 ,2017,116 hp,Diesel,Automatic,106 ,4.3 
+1986,BE,Audi A3,19990.0,41990 ,2017,116 hp,Gasoline,Manual,106 ,4.4 
+1987,BE,Audi A3,19990.0,84537 ,2014,150 hp,Diesel,Manual,120 ,4.6 
+1988,BE,Audi A3,20300.0,70401 ,2019,116 hp,Gasoline,Manual,111 ,4.9 
+1989,BE,Audi A3,20900.0,18024 ,2019,116 hp,Gasoline,Automatic,115 ,5.1 
+1990,BE,Audi A3,20990.0,98343 ,2018,116 hp,Diesel,Automatic,102 ,4 
+1991,BE,Audi A3,17490.0,122654 ,2016,110 hp,Diesel,Automatic,98 ,3.9 
+1992,BE,Audi A3,17990.0,115000 ,2017,116 hp,Diesel,Manual,108 ,4 
+1993,BE,Audi A3,18990.0,107800 ,2016,110 hp,Diesel,Automatic,102 ,3.8 
+1994,BE,Audi A3,19450.0,130747 ,2017,110 hp,Diesel,Automatic,98 ,4.1 
+1995,BE,Audi A3,19750.0,109005 ,2017,116 hp,Diesel,Automatic,106 ,4.3 
+1996,BE,Audi A3,19990.0,41990 ,2017,116 hp,Gasoline,Manual,106 ,4.4 
+1997,BE,Audi A3,19990.0,84537 ,2014,150 hp,Diesel,Manual,120 ,4.6 
+1998,BE,Audi A3,20300.0,70401 ,2019,116 hp,Gasoline,Manual,111 ,4.9 
+1999,BE,Audi A3,20900.0,18024 ,2019,116 hp,Gasoline,Automatic,115 ,5.1 
+2000,BE,Audi A3,20990.0,98343 ,2018,116 hp,Diesel,Automatic,102 ,4 
+2001,BE,Audi A3,17490.0,122654 ,2016,110 hp,Diesel,Automatic,98 ,3.9 
+2002,BE,Audi A3,17990.0,115000 ,2017,116 hp,Diesel,Manual,108 ,4 
+2003,BE,Audi A3,18990.0,107800 ,2016,110 hp,Diesel,Automatic,102 ,3.8 
+2004,BE,Audi A3,19450.0,130747 ,2017,110 hp,Diesel,Automatic,98 ,4.1 
+2005,BE,Audi A3,19750.0,109005 ,2017,116 hp,Diesel,Automatic,106 ,4.3 
+2006,BE,Audi A3,19990.0,41990 ,2017,116 hp,Gasoline,Manual,106 ,4.4 
+2007,BE,Audi A3,19990.0,84537 ,2014,150 hp,Diesel,Manual,120 ,4.6 
+2008,BE,Audi A3,20300.0,70401 ,2019,116 hp,Gasoline,Manual,111 ,4.9 
+2009,BE,Audi A3,20900.0,18024 ,2019,116 hp,Gasoline,Automatic,115 ,5.1 
+2010,BE,Audi A3,20990.0,98343 ,2018,116 hp,Diesel,Automatic,102 ,4 
+2011,BE,Audi A3,17490.0,122654 ,2016,110 hp,Diesel,Automatic,98 ,3.9 
+2012,BE,Audi A3,17990.0,115000 ,2017,116 hp,Diesel,Manual,108 ,4 
+2013,BE,Audi A3,18990.0,107800 ,2016,110 hp,Diesel,Automatic,102 ,3.8 
+2014,BE,Audi A3,19450.0,130747 ,2017,110 hp,Diesel,Automatic,98 ,4.1 
+2015,BE,Audi A3,19750.0,109005 ,2017,116 hp,Diesel,Automatic,106 ,4.3 
+2016,BE,Audi A3,19990.0,41990 ,2017,116 hp,Gasoline,Manual,106 ,4.4 
+2017,BE,Audi A3,19990.0,84537 ,2014,150 hp,Diesel,Manual,120 ,4.6 
+2018,BE,Audi A3,20300.0,70401 ,2019,116 hp,Gasoline,Manual,111 ,4.9 
+2019,BE,Audi A3,20900.0,18024 ,2019,116 hp,Gasoline,Automatic,115 ,5.1 
+2020,BE,Audi A3,20990.0,98343 ,2018,116 hp,Diesel,Automatic,102 ,4 
+2021,BE,Audi A3,17490.0,122654 ,2016,110 hp,Diesel,Automatic,98 ,3.9 
+2022,BE,Audi A3,17990.0,115000 ,2017,116 hp,Diesel,Manual,108 ,4 
+2023,BE,Audi A3,18990.0,107800 ,2016,110 hp,Diesel,Automatic,102 ,3.8 
+2024,BE,Audi A3,19450.0,130747 ,2017,110 hp,Diesel,Automatic,98 ,4.1 
+2025,BE,Audi A3,19750.0,109005 ,2017,116 hp,Diesel,Automatic,106 ,4.3 
+2026,BE,Audi A3,19990.0,41990 ,2017,116 hp,Gasoline,Manual,106 ,4.4 
+2027,BE,Audi A3,19990.0,84537 ,2014,150 hp,Diesel,Manual,120 ,4.6 
+2028,BE,Audi A3,20300.0,70401 ,2019,116 hp,Gasoline,Manual,111 ,4.9 
+2029,BE,Audi A3,20900.0,18024 ,2019,116 hp,Gasoline,Automatic,115 ,5.1 
+2030,BE,Audi A3,20990.0,98343 ,2018,116 hp,Diesel,Automatic,102 ,4 
+2031,BE,Audi A3,17490.0,122654 ,2016,110 hp,Diesel,Automatic,98 ,3.9 
+2032,BE,Audi A3,17990.0,115000 ,2017,116 hp,Diesel,Manual,108 ,4 
+2033,BE,Audi A3,18990.0,107800 ,2016,110 hp,Diesel,Automatic,102 ,3.8 
+2034,BE,Audi A3,19450.0,130747 ,2017,110 hp,Diesel,Automatic,98 ,4.1 
+2035,BE,Audi A3,19750.0,109005 ,2017,116 hp,Diesel,Automatic,106 ,4.3 
+2036,BE,Audi A3,19990.0,41990 ,2017,116 hp,Gasoline,Manual,106 ,4.4 
+2037,BE,Audi A3,19990.0,84537 ,2014,150 hp,Diesel,Manual,120 ,4.6 
+2038,BE,Audi A3,20300.0,70401 ,2019,116 hp,Gasoline,Manual,111 ,4.9 
+2039,BE,Audi A3,20900.0,18024 ,2019,116 hp,Gasoline,Automatic,115 ,5.1 
+2040,BE,Audi A3,20990.0,98343 ,2018,116 hp,Diesel,Automatic,102 ,4 
+2041,BE,Audi A3,17490.0,122654 ,2016,110 hp,Diesel,Automatic,98 ,3.9 
+2042,BE,Audi A3,17990.0,115000 ,2017,116 hp,Diesel,Manual,108 ,4 
+2043,BE,Audi A3,18990.0,107800 ,2016,110 hp,Diesel,Automatic,102 ,3.8 
+2044,BE,Audi A3,19450.0,130747 ,2017,110 hp,Diesel,Automatic,98 ,4.1 
+2045,BE,Audi A3,19750.0,109005 ,2017,116 hp,Diesel,Automatic,106 ,4.3 
+2046,BE,Audi A3,19990.0,41990 ,2017,116 hp,Gasoline,Manual,106 ,4.4 
+2047,BE,Audi A3,19990.0,84537 ,2014,150 hp,Diesel,Manual,120 ,4.6 
+2048,BE,Audi A3,20300.0,70401 ,2019,116 hp,Gasoline,Manual,111 ,4.9 
+2049,BE,Audi A3,20900.0,18024 ,2019,116 hp,Gasoline,Automatic,115 ,5.1 
+2050,BE,Audi A3,20990.0,98343 ,2018,116 hp,Diesel,Automatic,102 ,4 
+2051,BE,Renault Megane,2490.0,191000 ,2005,116 hp,Diesel,Manual,146 ,5.5 
+2052,BE,Renault Megane,4500.0,145000 ,2009,110 hp,Gasoline,Manual,- (,6.9 
+2053,BE,Renault Megane,4950.0,155000 ,2010,110 hp,Diesel,Manual,104 ,4.1 
+2054,BE,Renault Megane,12850.0,108503 ,2018,110 hp,Diesel,Manual,95 ,3.7 
+2055,BE,Renault Megane,13900.0,97623 ,2019,116 hp,Diesel,Manual,101 ,3.9 
+2056,BE,Renault Megane,13900.0,15395 ,2019,116 hp,Gasoline,Manual,138 ,5.2 
+2057,BE,Renault Megane,13999.0,120000 ,2017,110 hp,Diesel,Manual,95 ,3.7 
+2058,BE,Renault Megane,16000.0,56214 ,2017,110 hp,Diesel,Automatic,95 ,3.7 
+2059,BE,Renault Megane,18495.0,90502 ,2018,163 hp,Diesel,Automatic,124 ,4.7 
+2060,BE,Renault Megane,20900.0,38594 ,2020,116 hp,Diesel,Automatic,107 ,4.1 
+2061,BE,Renault Megane,29900.0,11780 ,2020,91 hp,Electric/Gasoline,Automatic,29 ,- (
+2062,BE,Renault Megane,3750.0,85000 ,2009,110 hp,Gasoline,Manual,163 ,7.1 
+2063,BE,Renault Megane,9450.0,77613 ,2015,116 hp,Gasoline,Manual,119 ,5.3 
+2064,BE,Renault Megane,12500.0,61008 ,2017,101 hp,Gasoline,Manual,120 ,5.4 
+2065,BE,Renault Megane,13400.0,82071 ,2012,131 hp,Gasoline,Manual,169 ,- (
+2066,BE,Renault Megane,13999.0,106187 ,2017,131 hp,Diesel,Manual,103 ,4 
+2067,BE,Renault Megane,14900.0,96311 ,2018,110 hp,Diesel,Automatic,95 ,3.7 
+2068,BE,Renault Megane,16985.0,38612 ,2018,132 hp,Gasoline,Automatic,122 ,5.4 
+2069,BE,Renault Megane,20200.0,11677 ,2020,116 hp,Gasoline,Manual,137 ,5.9 
+2070,BE,Renault Megane,21000.0,47311 ,2017,207 hp,Gasoline,Automatic,134 ,6 
+2071,BE,Renault Megane,599.0,270120 ,2008,86 hp,Diesel,Manual,- (,- (
+2072,BE,Renault Megane,5900.0,155000 ,2010,106 hp,Diesel,Manual,- (,4.5 
+2073,BE,Renault Megane,6500.0,180000 ,2014,110 hp,Diesel,Manual,93 ,3.6 
+2074,BE,Renault Megane,9500.0,132000 ,2011,110 hp,Diesel,Automatic,124 ,4.8 
+2075,BE,Renault Megane,9800.0,142000 ,2005,224 hp,Gasoline,Manual,209 ,8.8 
+2076,BE,Renault Megane,10950.0,102000 ,2013,110 hp,Diesel,Automatic,124 ,4.8 
+2077,BE,Renault Megane,15990.0,16000 ,2019,116 hp,Gasoline,Manual,136 ,60 
+2078,BE,Renault Megane,17750.0,55387 ,2019,140 hp,Gasoline,Manual,125 ,5.5 
+2079,BE,Renault Megane,18490.0,22979 ,2020,116 hp,Diesel,Manual,- (,- (
+2080,BE,Renault Megane,19990.0,21732 ,2021,116 hp,Diesel,Manual,- (,- (
+2081,BE,Renault Megane,34990.0,29443 ,2019,279 hp,Gasoline,Automatic,171 ,7.7 
+2082,,,,,,82 hp,,,,
+2083,,,,,,95 hp,,,,
+2084,,,,,,82 hp,,,,
+2085,BE,Renault Megane,1555.0,150 ,2005,86 hp,Diesel,Manual,122 ,4.6 
+2086,BE,Renault Megane,1599.0,83000 ,2000,86 hp,Gasoline,Manual,156 ,6.6 
+2087,BE,Renault Megane,1699.0,270000 ,2005,,Diesel,Manual,117 ,4.5 
+2088,BE,Renault Megane,1699.0,199000 ,2008,,Diesel,Manual,124 ,4.4 
+2089,BE,Renault Megane,1700.0,220000 ,2009,,Diesel,Manual,- (,4.4 
+2090,,,,,,,,,,
+2091,BE,Skoda Octavia,8990.0,149900 ,2013,105 hp,Diesel,Automatic,123 ,- (
+2092,BE,Skoda Octavia,11500.0,80000 ,2014,105 hp,Gasoline,Automatic,115 ,5 
+2093,BE,Skoda Octavia,14890.0,52926 ,2016,110 hp,Diesel,Manual,99 ,3.7 
+2094,BE,Skoda Octavia,15970.0,128509 ,2015,184 hp,Diesel,Manual,119 ,4.5 
+2095,BE,Skoda Octavia,21950.0,28828 ,2020,131 hp,Gasoline,Automatic,96 ,- (
+2096,BE,Skoda Octavia,25990.0,88921 ,2020,184 hp,Diesel,Automatic,137 ,5.2 
+2097,BE,Skoda Octavia,26040.0,10 ,2022,110 hp,Gasoline,Manual,105 ,4.6 
+2098,BE,Skoda Octavia,27995.0,37854 ,2019,245 hp,Gasoline,Automatic,172 ,6.3 
+2099,BE,Skoda Octavia,28490.0,29749 ,2020,150 hp,Diesel,Automatic,139 ,- (
+2100,BE,Skoda Octavia,30450.0,23256 ,2019,245 hp,Gasoline,Automatic,174 ,6.3 
+2101,BE,Skoda Octavia,30500.0,7424 ,2020,150 hp,Gasoline,Manual,110 ,4.9 
+2102,BE,Skoda Octavia,34995.0,111 ,2021,150 hp,Diesel,Automatic,97 ,3.7 
+2103,BE,Skoda Octavia,37850.0,24250 ,2021,245 hp,Gasoline,Automatic,149 ,6.5 
+2104,BE,Skoda Octavia,39970.0,3528 ,2021,245 hp,Gasoline,Automatic,149 ,6.5 
+2105,,,,,,150 hp,,,,
+2106,BE,Skoda Octavia,18900.0,29200 ,2018,179 hp,Gasoline,Manual,113 ,4.9 
+2107,BE,Skoda Octavia,19999.0,54448 ,2016,230 hp,Gasoline,Automatic,149 ,6.4 
+2108,BE,Skoda Octavia,20600.0,101000 ,2016,184 hp,Gasoline,Automatic,147 ,6.5 
+2109,BE,Skoda Octavia,20900.0,138846 ,2016,116 hp,Diesel,Manual,117 ,- (
+2110,BE,Skoda Octavia,22950.0,51999 ,2020,110 hp,Diesel,Automatic,105 ,4 
+2111,BE,Skoda Octavia,24999.0,28160 ,2021,110 hp,Gasoline,Manual,107 ,4.7 
+2112,,,,,,245 hp,,,,
+2113,BE,Skoda Octavia,28999.0,27510 ,2021,150 hp,Gasoline,Automatic,98 ,4.3 
+2114,BE,Skoda Octavia,29499.0,45000 ,2019,110 hp,Gasoline,Automatic,144 ,6.3 
+2115,BE,Skoda Octavia,29990.0,10 ,2022,245 hp,Gasoline,Manual,127 ,5.1 
+2116,BE,Skoda Octavia,29999.0,14884 ,2021,105 hp,Gasoline,Automatic,98 ,4.3 
+2117,BE,Skoda Octavia,43990.0,10 ,2021,170 hp,Gasoline,Automatic,151 ,6.6 
+2118,BE,Skoda Octavia,7250.0,138223 ,2013,105 hp,Diesel,Manual,109 ,4.2 
+2119,BE,Skoda Octavia,8800.0,138000 ,2010,110 hp,Diesel,Automatic,159 ,6 
+2120,BE,Skoda Octavia,10499.0,87000 ,2013,116 hp,Gasoline,Manual,134 ,1.6 
+2121,BE,Skoda Octavia,13850.0,99000 ,2016,150 hp,Diesel,Manual,90 ,5.5 
+2122,BE,Skoda Octavia,16450.0,79000 ,2017,110 hp,Diesel,Manual,90 ,5.4 
+2123,BE,Skoda Octavia,17900.0,67588 ,2016,150 hp,Diesel,Automatic,115 ,4.4 
+2124,BE,Skoda Octavia,20550.0,53510 ,2018,105 hp,CNG,Automatic,125 ,5.5 kg/100 km 
+2125,BE,Skoda Octavia,21990.0,39052 ,2019,,CNG,Automatic,96 ,5 kg/100 km 
+2126,,,,,,,,,,
+2127,,,,,,,,,,
+2128,BE,Skoda Octavia,4749.0,195000 ,2009,,Diesel,Manual,135 ,5.1 
+2129,,,,,,,,,,
+2130,NL,MINI Cooper,2299.0,212687 ,2004,116 hp,Gasoline,Manual,166 ,6.9 
+2131,NL,MINI Cooper,2950.0,227706 ,2002,116 hp,Gasoline,Manual,163 ,6.7 
+2132,NL,MINI Cooper,3499.0,178538 ,2004,163 hp,Gasoline,Manual,202 ,8.4 
+2133,NL,MINI One,3499.0,185865 ,2002,90 hp,Gasoline,Automatic,187 ,7.7 
+2134,NL,MINI One,3850.0,147025 ,2005,90 hp,Gasoline,Manual,164 ,6.8 
+2135,NL,MINI One,3944.0,189421 ,2009,75 hp,Gasoline,Manual,- (,- (
+2136,NL,MINI Cooper,3999.0,183219 ,2007,120 hp,Gasoline,Manual,139 ,- (
+2137,NL,MINI Cooper,4200.0,183488 ,2004,116 hp,Gasoline,Manual,165 ,6.8 
+2138,NL,MINI Cooper,4450.0,186570 ,2003,163 hp,Gasoline,Manual,202 ,- (
+2139,NL,MINI One,4450.0,149503 ,2005,90 hp,Gasoline,Manual,- (,- (
+2140,NL,MINI One,4725.0,135912 ,2008,95 hp,Gasoline,Manual,128 ,5.3 
+2141,NL,MINI Cooper,4745.0,253914 ,2008,109 hp,Diesel,Manual,104 ,3.9 
+2142,NL,MINI Cooper,4945.0,171826 ,2006,116 hp,Gasoline,Manual,166 ,6.9 
+2143,,,,,,174 hp,,,,
+2144,NL,MINI Cooper,6950.0,153931 ,2007,184 hp,Gasoline,Automatic,182 ,- (
+2145,,,,,,143 hp,,,,
+2146,NL,MINI Cooper,10950.0,129995 ,2013,102 hp,Gasoline,Manual,137 ,5.9 
+2147,NL,MINI Cooper,11240.0,164268 ,2012,122 hp,Diesel,Automatic,160 ,- (
+2148,NL,MINI Cooper,11385.0,64015 ,2015,102 hp,Gasoline,Manual,108 ,4.6 
+2149,NL,MINI Cooper,11445.0,182106 ,2011,136 hp,Gasoline,Automatic,168 ,7.2 
+2150,NL,MINI One,11880.0,128977 ,2014,136 hp,Gasoline,Manual,108 ,4.6 
+2151,NL,MINI Cooper,11900.0,162624 ,2014,95 hp,Gasoline,Manual,105 ,4.5 
+2152,NL,MINI Cooper,11999.0,142758 ,2014,136 hp,Gasoline,Manual,105 ,4.5 
+2153,NL,MINI One,12450.0,28263 ,2009,135 hp,Gasoline,Automatic,155 ,6.5 
+2154,NL,MINI Cooper,12940.0,143922 ,2017,102 hp,Gasoline,Manual,107 ,4.6 
+2155,,,,,,102 hp,,,,
+2156,NL,MINI Cooper,13650.0,64242 ,2015,192 hp,Gasoline,Manual,107 ,4.6 
+2157,NL,MINI One,13790.0,45488 ,2016,75 hp,Gasoline,Manual,109 ,- (
+2158,,,,,,102 hp,,,,
+2159,NL,MINI One,15350.0,22015 ,2015,102 hp,Gasoline,Manual,0 ,4.6 
+2160,NL,MINI Cooper,15790.0,99331 ,2015,136 hp,Gasoline,Manual,136 ,5.8 
+2161,NL,MINI Cooper,15885.0,112908 ,2018,192 hp,Gasoline,Manual,- (,0 
+2162,NL,MINI One,16390.0,53027 ,2018,192 hp,Gasoline,Manual,111 ,- (
+2163,NL,MINI One,16450.0,88375 ,2018,102 hp,Gasoline,Manual,112 ,4.9 
+2164,NL,MINI Cooper,16650.0,49115 ,2016,102 hp,Gasoline,Manual,107 ,4.6 
+2165,NL,MINI Cooper,16950.0,155984 ,2014,102 hp,Gasoline,Automatic,- (,5.4 
+2166,NL,MINI Cooper,16950.0,127145 ,2016,136 hp,Gasoline,Manual,133 ,5.7 
+2167,NL,MINI One,16950.0,38584 ,2017,136 hp,Gasoline,Manual,109 ,4.7 
+2168,NL,MINI One,16990.0,29974 ,2017,75 hp,Gasoline,Manual,109 ,- (
+2169,NL,MINI One,17445.0,72944 ,2015,136 hp,Gasoline,Automatic,114 ,4.9 
+2170,NL,MINI Cooper,17500.0,94271 ,2017,136 hp,Gasoline,Manual,109 ,4.7 
+2171,NL,MINI Cooper,17500.0,58710 ,2015,136 hp,Gasoline,Automatic,111 ,4.8 
+2172,NL,MINI One,17950.0,27202 ,2018,192 hp,Gasoline,Manual,0 ,5.4 
+2173,NL,MINI Cooper,18240.0,77732 ,2016,102 hp,Gasoline,Automatic,114 ,- (
+2174,NL,MINI Cooper,18500.0,69865 ,2017,192 hp,Gasoline,Manual,105 ,4.5 
+2175,NL,MINI Cooper,18500.0,91200 ,2016,163 hp,Gasoline,Automatic,0 ,4.9 
+2176,NL,MINI Cooper,19745.0,81806 ,2015,192 hp,Gasoline,Automatic,125 ,5.4 
+2177,NL,MINI One,19880.0,22867 ,2018,102 hp,Gasoline,Manual,111 ,4.9 
+2178,NL,MINI Cooper,19950.0,135495 ,2017,136 hp,Gasoline,Automatic,125 ,5.4 
+2179,NL,MINI Cooper,19995.0,100102 ,2002,136 hp,Gasoline,Manual,202 ,8.4 
+2180,NL,MINI Cooper,21495.0,86175 ,2014,192 hp,Gasoline,Automatic,125 ,5.4 
+2181,NL,MINI One,21500.0,46679 ,2018,231 hp,Gasoline,Automatic,0 ,4.8 
+2182,NL,MINI Cooper,22450.0,15806 ,2019,136 hp,Gasoline,Manual,122 ,5.4 
+2183,NL,MINI Cooper,22900.0,26308 ,2018,136 hp,Gasoline,Automatic,112 ,4.8 
+2184,NL,MINI Cooper,23880.0,64102 ,2017,163 hp,Gasoline,Manual,136 ,5.8 
+2185,NL,MINI John Cooper Works,23990.0,106436 ,2016,136 hp,Gasoline,Automatic,133 ,5.7 
+2186,NL,MINI Cooper,24750.0,67565 ,2019,192 hp,Gasoline,Automatic,0 ,5.8 
+2187,NL,MINI Cooper,24900.0,27505 ,2019,232 hp,Gasoline,Automatic,117 ,5.1 
+2188,NL,MINI Cooper,24950.0,44164 ,2016,192 hp,Gasoline,Automatic,126 ,- (
+2189,NL,MINI Cooper,25950.0,39370 ,2017,192 hp,Gasoline,Automatic,123 ,5.3 
+2190,NL,MINI Cooper,26880.0,15376 ,2019,231 hp,Gasoline,Manual,149 ,6.5 
+2191,NL,MINI John Cooper Works,27790.0,72669 ,2017,192 hp,Gasoline,Automatic,133 ,- (
+2192,NL,MINI Cooper,27880.0,27441 ,2018,136 hp,Gasoline,Automatic,126 ,5.4 
+2193,NL,MINI Cooper,28450.0,12300 ,2020,136 hp,Gasoline,Manual,149 ,6.5 
+2194,NL,MINI John Cooper Works,28750.0,47885 ,2017,136 hp,Gasoline,Automatic,- (,5.7 
+2195,NL,MINI Cooper,29750.0,26237 ,2019,136 hp,Gasoline,Automatic,127 ,5.6 
+2196,NL,MINI Cooper,30990.0,6785 ,2021,136 hp,Gasoline,Automatic,- (,- (
+2197,NL,MINI Cooper,30990.0,7325 ,2021,192 hp,Gasoline,Automatic,- (,- (
+2198,NL,MINI Cooper,30990.0,6928 ,2021,231 hp,Gasoline,Automatic,- (,- (
+2199,NL,MINI Cooper,31490.0,7974 ,2021,231 hp,Gasoline,Automatic,- (,- (
+2200,NL,MINI Cooper,31990.0,7112 ,2021,136 hp,Gasoline,Automatic,- (,- (
+2201,NL,MINI Cooper,31990.0,8754 ,2019,184 hp,Gasoline,Automatic,0 ,5.7 
+2202,NL,MINI John Cooper Works,32850.0,74654 ,2018,231 hp,Gasoline,Automatic,- (,5.7 
+2203,NL,MINI John Cooper Works,33850.0,58685 ,2019,136 hp,Gasoline,Manual,- (,7.2 
+2204,NL,MINI Cooper,34495.0,10211 ,2021,306 hp,Gasoline,Automatic,0 ,5.8 
+2205,NL,MINI Cooper,35495.0,4501 ,2021,163 hp,Electric,Automatic,0 ,- (
+2206,NL,MINI John Cooper Works,37990.0,21845 ,2019,184 hp,Gasoline,Automatic,- (,7 
+2207,NL,MINI Cooper,41950.0,234 ,2021,116 hp,Gasoline,Automatic,0 ,6.3 
+2208,NL,MINI John Cooper Works,52880.0,6735 ,2020,116 hp,Gasoline,Automatic,167 ,- (
+2209,NL,MINI Cooper,2949.0,241421 ,2003,116 hp,Gasoline,Manual,202 ,8.4 
+2210,,,,,,90 hp,,,,
+2211,NL,MINI Cooper,35995.0,11079 ,2021,90 hp,Electric,Automatic,0 ,- (
+2212,NL,MINI Cooper,1195.0,312554 ,2001,116 hp,Gasoline,Manual,- (,6.9 
+2213,NL,MINI Cooper,1250.0,272676 ,2002,116 hp,Gasoline,Manual,163 ,6.7 
+2214,,,,,,116 hp,,,,
+2215,,,,,,116 hp,,,,
+2216,NL,MINI Cooper,1944.0,212508 ,2003,90 hp,Gasoline,Manual,165 ,6.9 
+2217,NL,MINI One,1945.0,298165 ,2005,90 hp,Gasoline,Manual,164 ,6.8 
+2218,NL,MINI One,1945.0,141925 ,2002,116 hp,Gasoline,Manual,158 ,6.8 
+2219,NL,MINI Cooper,1950.0,254576 ,2002,,Gasoline,Manual,163 ,- (
+2220,NL,MINI Cooper,1950.0,188077 ,2004,,Gasoline,Automatic,166 ,6.9 
+2221,NL,MINI Cooper,1950.0,262225 ,2003,,Gasoline,Manual,163 ,6.7 
+2222,NL,MINI Cooper,1950.0,291568 ,2005,,Gasoline,Manual,166 ,6.9 
+2223,,,,,,,,,,
+2224,NL,MINI One,1999.0,297426 ,2002,,Gasoline,Manual,158 ,6.5 
+2225,NL,MINI One,1999.0,207784 ,2004,,Gasoline,Manual,164 ,6.8 
+2226,NL,MINI Cooper,1999.0,237941 ,2001,,Gasoline,Manual,163 ,6.7 
+2227,,,,,,,,,,
+2228,,,,,,,,,,
+2229,,,,,,,,,,
+2230,,,,,,,,,,
+2231,,,,,,,,,,
+2232,,,,,,,,,,
+2233,NL,Audi A3,1500.0,296667 ,2002,102 hp,Gasoline,Manual,168 ,- (
+2234,NL,Audi A3,2895.0,175465 ,2002,102 hp,Gasoline,Manual,168 ,7 
+2235,NL,Audi A3,4499.0,276440 ,2007,160 hp,Gasoline,Manual,171 ,- (
+2236,NL,Audi A3,4744.0,362996 ,2008,105 hp,Diesel,Manual,129 ,4.9 
+2237,NL,Audi A3,5440.0,162891 ,2007,116 hp,Gasoline,Manual,158 ,6.6 
+2238,NL,Audi A3,6450.0,151528 ,2008,125 hp,Gasoline,Manual,154 ,6.5 
+2239,NL,Audi A3,7450.0,205586 ,2012,105 hp,Diesel,Manual,102 ,3.9 
+2240,NL,Audi A3,7950.0,182040 ,2009,125 hp,Gasoline,Automatic,137 ,- (
+2241,NL,Audi A3,8385.0,176597 ,2011,105 hp,Diesel,Manual,99 ,3.8 
+2242,NL,Audi A3,8450.0,217334 ,2010,126 hp,Gasoline,Automatic,127 ,5.5 
+2243,NL,Audi A3,8475.0,228215 ,2012,125 hp,Gasoline,Automatic,127 ,5.8 
+2244,NL,Audi A3,8750.0,166787 ,2012,122 hp,LPG,Manual,120 ,- (
+2245,NL,Audi A3,8750.0,187555 ,2008,200 hp,Gasoline,Automatic,171 ,7.4 
+2246,NL,Audi A3,9945.0,245637 ,2013,122 hp,Gasoline,Automatic,114 ,4.9 
+2247,NL,Audi A3,9950.0,173889 ,2012,126 hp,Gasoline,Manual,134 ,5.8 
+2248,NL,Audi A3,9950.0,151817 ,2006,250 hp,Gasoline,Manual,257 ,10.7 
+2249,,,,,,150 hp,,,,
+2250,NL,Audi A3,10999.0,215411 ,2013,140 hp,Diesel,Manual,106 ,4.1 
+2251,NL,Audi A3,11490.0,184496 ,2014,126 hp,Gasoline,Manual,111 ,- (
+2252,NL,Audi A3,11900.0,129357 ,2012,160 hp,Gasoline,Manual,134 ,5.8 
+2253,NL,Audi A3,12222.0,119965 ,2009,111 hp,Gasoline,Manual,0 ,7.3 
+2254,NL,Audi A3,12400.0,154518 ,2014,122 hp,CNG,Automatic,88 ,- (
+2255,NL,Audi A3,12450.0,158376 ,2013,160 hp,Gasoline,Manual,123 ,5.3 
+2256,NL,Audi A3,12666.0,132823 ,2010,160 hp,Gasoline,Manual,0 ,7.3 
+2257,NL,Audi A3,12777.0,131342 ,2010,111 hp,Gasoline,Manual,0 ,7.3 
+2258,NL,Audi A3,12888.0,146625 ,2014,110 hp,CNG,Automatic,115 ,5 kg/100 km 
+2259,NL,Audi A3,12950.0,161146 ,2014,140 hp,Diesel,Manual,88 ,- (
+2260,NL,Audi A3,12950.0,178872 ,2013,150 hp,Gasoline,Manual,111 ,4.8 
+2261,NL,Audi A3,13400.0,181633 ,2013,110 hp,Diesel,Manual,108 ,4.2 
+2262,NL,Audi A3,13450.0,158305 ,2015,105 hp,Diesel,Manual,88 ,3.3 
+2263,NL,Audi A3,13450.0,140203 ,2014,141 hp,Gasoline,Manual,114 ,4.9 
+2264,NL,Audi A3,14945.0,187824 ,2014,140 hp,Gasoline,Automatic,110 ,4.7 
+2265,NL,Audi A3,14950.0,126171 ,2014,179 hp,Gasoline,Manual,112 ,- (
+2266,NL,Audi A3,14950.0,187999 ,2013,105 hp,Gasoline,Automatic,130 ,- (
+2267,NL,Audi A3,14950.0,71988 ,2014,111 hp,Gasoline,Manual,114 ,- (
+2268,NL,Audi A3,14950.0,48804 ,2014,110 hp,Gasoline,Manual,114 ,4.9 
+2269,NL,Audi A3,14999.0,163386 ,2014,141 hp,CNG,Automatic,115 ,- (
+2270,NL,Audi A3,15150.0,96755 ,2013,126 hp,Gasoline,Manual,111 ,4.8 
+2271,NL,Audi A3,15888.0,99531 ,2016,116 hp,Gasoline,Manual,122 ,5.3 
+2272,NL,Audi A3,15890.0,146941 ,2017,150 hp,Gasoline,Manual,104 ,- (
+2273,NL,Audi A3,15900.0,176987 ,2015,150 hp,Gasoline,Automatic,109 ,4.7 
+2274,NL,Audi A3,15945.0,152404 ,2016,140 hp,Gasoline,Manual,106 ,4.6 
+2275,NL,Audi A3,15950.0,110923 ,2013,110 hp,Gasoline,Automatic,109 ,4.7 
+2276,NL,Audi A3,15990.0,101993 ,2016,125 hp,Gasoline,Manual,114 ,- (
+2277,NL,Audi A3,16409.0,102884 ,2015,122 hp,Gasoline,Automatic,119 ,5.2 
+2278,NL,Audi A3,16450.0,133128 ,2014,116 hp,Gasoline,Automatic,116 ,5 
+2279,NL,Audi A3,16450.0,166159 ,2018,150 hp,Gasoline,Manual,103 ,4.4 
+2280,NL,Audi A3,16472.0,161739 ,2016,126 hp,Electric/Gasoline,Automatic,0 ,1.7 
+2281,NL,Audi A3,16550.0,64533 ,2016,141 hp,Gasoline,Manual,120 ,5.1 
+2282,NL,Audi A3,16850.0,76731 ,2014,140 hp,Gasoline,Automatic,109 ,4.7 
+2283,NL,Audi A3,16945.0,94420 ,2013,150 hp,Gasoline,Automatic,109 ,4.7 
+2284,NL,Audi A3,16950.0,133012 ,2016,150 hp,Gasoline,Manual,106 ,4.6 
+2285,NL,Audi A3,17150.0,117313 ,2016,116 hp,Electric/Gasoline,Automatic,36 ,0 
+2286,NL,Audi A3,17245.0,100376 ,2016,110 hp,Gasoline,Manual,106 ,4.6 
+2287,NL,Audi A3,17449.0,169844 ,2017,141 hp,Diesel,Automatic,104 ,3.9 
+2288,NL,Audi A3,17550.0,49554 ,2014,116 hp,Gasoline,Automatic,109 ,4.7 
+2289,NL,Audi A3,17909.0,143549 ,2016,116 hp,Gasoline,Automatic,103 ,4.4 
+2290,NL,Audi A3,17945.0,99421 ,2017,122 hp,Gasoline,Manual,106 ,4.6 
+2291,NL,Audi A3,17950.0,55752 ,2013,150 hp,Gasoline,Automatic,116 ,5 
+2292,NL,Audi A3,17989.0,138590 ,2016,150 hp,Electric/Gasoline,Automatic,0 ,1.7 
+2293,NL,Audi A3,17990.0,116048 ,2016,116 hp,Gasoline,Manual,106 ,- (
+2294,NL,Audi A3,18350.0,18418 ,2017,150 hp,Gasoline,Manual,103 ,4.4 
+2295,NL,Audi A3,18400.0,103200 ,2016,116 hp,Gasoline,Automatic,106 ,4.6 
+2296,NL,Audi A3,18450.0,86285 ,2017,150 hp,Gasoline,Manual,108 ,- (
+2297,NL,Audi A3,18550.0,64391 ,2014,116 hp,Gasoline,Automatic,109 ,4.7 
+2298,NL,Audi A3,18690.0,133585 ,2017,150 hp,Gasoline,Automatic,107 ,- (
+2299,NL,Audi A3,18885.0,130983 ,2016,116 hp,Electric/Gasoline,Automatic,38 ,0 
+2300,NL,Audi A3,18890.0,110737 ,2017,150 hp,Diesel,Automatic,106 ,- (
+2301,NL,Audi A3,18898.0,148180 ,2016,141 hp,Electric/Gasoline,Automatic,0 ,1.7 
+2302,NL,Audi A3,18945.0,91633 ,2014,150 hp,Gasoline,Automatic,110 ,4.7 
+2303,NL,Audi A3,18945.0,107808 ,2015,116 hp,Gasoline,Automatic,114 ,4.9 
+2304,NL,Audi A3,18990.0,142862 ,2017,150 hp,Diesel,Automatic,105 ,- (
+2305,NL,Audi A3,19250.0,28939 ,2015,116 hp,Gasoline,Manual,112 ,4.9 
+2306,NL,Audi A3,19250.0,47009 ,2017,116 hp,Gasoline,Manual,106 ,4.4 
+2307,NL,Audi A3,19290.0,120758 ,2017,179 hp,Gasoline,Automatic,106 ,- (
+2308,NL,Audi A3,19350.0,56239 ,2014,150 hp,Gasoline,Automatic,149 ,6.6 
+2309,NL,Audi A3,19390.0,125494 ,2016,116 hp,Gasoline,Automatic,106 ,- (
+2310,NL,Audi A3,19390.0,149724 ,2018,110 hp,Diesel,Automatic,105 ,- (
+2311,NL,Audi A3,19390.0,134829 ,2016,- hp,Diesel,Manual,106 ,- (
+2312,NL,Audi A3,19495.0,173988 ,2016,150 hp,Electric/Gasoline,Automatic,0 ,1.7 
+2313,NL,Audi A3,19650.0,29498 ,2015,116 hp,Gasoline,Manual,110 ,4.8 
+2314,NL,Audi A3,19790.0,64687 ,2018,116 hp,Gasoline,Manual,104 ,- (
+2315,NL,Audi A3,19845.0,153348 ,2016,116 hp,Gasoline,Automatic,106 ,4.6 
+2316,NL,Audi A3,19895.0,95357 ,2016,150 hp,Gasoline,Automatic,103 ,- (
+2317,NL,Audi A3,19900.0,66352 ,2016,150 hp,Gasoline,Automatic,106 ,4.6 
+2318,NL,Audi A3,19909.0,161739 ,2016,150 hp,Electric/Gasoline,Automatic,0 ,1.7 
+2319,NL,Audi A3,19940.0,199887 ,2017,204 hp,Gasoline,Automatic,112 ,4.8 
+2320,NL,Audi A3,19945.0,175926 ,2015,179 hp,Electric/Gasoline,Automatic,0 ,1.5 
+2321,NL,Audi A3,19950.0,85267 ,2014,110 hp,Gasoline,Automatic,149 ,6.5 
+2322,NL,Audi A3,19990.0,134162 ,2017,116 hp,Diesel,Manual,106 ,- (
+2323,NL,Audi A3,19990.0,89763 ,2017,116 hp,Gasoline,Automatic,103 ,4.4 
+2324,NL,Audi A3,19999.0,85921 ,2017,111 hp,Gasoline,Automatic,103 ,4.4 
+2325,NL,Audi A3,20750.0,67326 ,2016,150 hp,Diesel,Automatic,98 ,3.7 
+2326,NL,Audi A3,20750.0,106260 ,2016,150 hp,Electric/Gasoline,Automatic,39 ,1.7 
+2327,NL,Audi A3,20949.0,97216 ,2016,150 hp,Gasoline,Automatic,106 ,4.6 
+2328,,,,,,150 hp,,,,
+2329,NL,Audi A3,21150.0,97661 ,2016,116 hp,Gasoline,Automatic,113 ,4.9 
+2330,NL,Audi A3,21150.0,49273 ,2017,150 hp,Gasoline,Automatic,116 ,4.7 
+2331,NL,Audi A3,21690.0,71210 ,2016,150 hp,Gasoline,Automatic,104 ,- (
+2332,NL,Audi A3,21745.0,138590 ,2016,150 hp,Electric/Gasoline,Automatic,0 ,1.7 
+2333,NL,Audi A3,21749.0,75663 ,2016,204 hp,Gasoline,Manual,109 ,4.7 
+2334,NL,Audi A3,21945.0,131783 ,2017,150 hp,Gasoline,Automatic,114 ,4.9 
+2335,NL,Audi A3,21949.0,115708 ,2015,116 hp,Electric/Gasoline,Automatic,0 ,1.5 
+2336,NL,Audi A3,21950.0,65787 ,2018,116 hp,Diesel,Automatic,115 ,4.4 
+2337,NL,Audi A3,21990.0,131985 ,2017,116 hp,Gasoline,Automatic,106 ,- (
+2338,NL,Audi A3,21990.0,114859 ,2017,116 hp,Gasoline,Automatic,107 ,- (
+2339,NL,Audi A3,21999.0,73443 ,2019,116 hp,Gasoline,Manual,118 ,- (
+2340,NL,Audi A3,22390.0,103562 ,2018,110 hp,Diesel,Automatic,106 ,- (
+2341,NL,Audi A3,22450.0,66950 ,2017,204 hp,Gasoline,Automatic,106 ,4.6 
+2342,NL,Audi A3,22590.0,114285 ,2016,- hp,Diesel,Automatic,101 ,- (
+2343,NL,Audi A3,22700.0,97910 ,2015,150 hp,Electric/Gasoline,Automatic,0 ,1.5 
+2344,NL,Audi A3,22750.0,140380 ,2015,204 hp,Electric/Gasoline,Automatic,0 ,- (
+2345,NL,Audi A3,22790.0,111148 ,2016,116 hp,Electric/Gasoline,Automatic,38 ,- (
+2346,NL,Audi A3,22790.0,78899 ,2016,150 hp,Electric/Gasoline,Automatic,38 ,- (
+2347,NL,Audi A3,22790.0,78191 ,2018,150 hp,Diesel,Automatic,105 ,- (
+2348,NL,Audi A3,22845.0,148180 ,2016,204 hp,Electric/Gasoline,Automatic,0 ,1.7 
+2349,NL,Audi A3,22945.0,138921 ,2018,204 hp,Gasoline,Automatic,114 ,5 
+2350,NL,Audi A3,22949.0,134519 ,2015,116 hp,Electric/Gasoline,Automatic,0 ,1.5 
+2351,NL,Audi A3,22949.0,134205 ,2016,150 hp,Electric/Gasoline,Automatic,0 ,1.6 
+2352,NL,Audi A3,22949.0,96290 ,2017,150 hp,Gasoline,Automatic,108 ,4.7 
+2353,NL,Audi A3,22990.0,78963 ,2017,179 hp,Diesel,Automatic,114 ,- (
+2354,NL,Audi A3,23250.0,77567 ,2016,204 hp,Electric/Gasoline,Automatic,36 ,1.6 
+2355,NL,Audi A3,23250.0,21708 ,2015,150 hp,Gasoline,Automatic,129 ,5.6 
+2356,NL,Audi A3,23513.0,106471 ,2016,150 hp,Electric/Gasoline,Automatic,38 ,1.7 
+2357,NL,Audi A3,23899.0,76011 ,2018,150 hp,Gasoline,Automatic,110 ,- (
+2358,NL,Audi A3,23900.0,87797 ,2016,116 hp,Gasoline,Automatic,115 ,5 
+2359,NL,Audi A3,23900.0,55815 ,2017,116 hp,Gasoline,Automatic,113 ,5 
+2360,NL,Audi A3,23945.0,39528 ,2018,116 hp,Diesel,Automatic,103 ,3.9 
+2361,NL,Audi A3,23950.0,24888 ,2018,116 hp,Gasoline,Automatic,117 ,5.1 
+2362,NL,Audi A3,23990.0,92715 ,2018,150 hp,Diesel,Automatic,107 ,- (
+2363,NL,Audi A3,23999.0,33982 ,2019,116 hp,Gasoline,Automatic,- (,5.1 
+2364,NL,Audi A3,24690.0,106455 ,2016,150 hp,Electric/Gasoline,Automatic,36 ,- (
+2365,NL,Audi A3,24750.0,47536 ,2019,116 hp,Gasoline,Automatic,0 ,5.1 
+2366,NL,Audi A3,24750.0,42335 ,2016,150 hp,Gasoline,Manual,0 ,4.9 
+2367,NL,Audi A3,24790.0,95461 ,2017,204 hp,Diesel,Automatic,106 ,- (
+2368,NL,Audi A3,24900.0,128559 ,2017,110 hp,Gasoline,Automatic,114 ,5 
+2369,NL,Audi A3,24949.0,86713 ,2016,150 hp,Electric/Gasoline,Automatic,0 ,1.7 
+2370,NL,Audi A3,24990.0,122757 ,2017,150 hp,Diesel,Automatic,101 ,- (
+2371,NL,Audi A3,24990.0,70745 ,2018,150 hp,Gasoline,Automatic,113 ,- (
+2372,NL,Audi A3,24995.0,71554 ,2018,126 hp,Gasoline,Automatic,117 ,5.2 
+2373,NL,Audi A3,25190.0,76871 ,2018,204 hp,Gasoline,Manual,118 ,- (
+2374,NL,Audi A3,25555.0,55624 ,2016,150 hp,Gasoline,Automatic,123 ,5.4 
+2375,NL,Audi A3,25949.0,74758 ,2016,150 hp,Electric/Gasoline,Automatic,0 ,1.7 
+2376,NL,Audi A3,26138.0,128698 ,2016,116 hp,Electric/Gasoline,Automatic,0 ,1.7 
+2377,NL,Audi A3,26450.0,61642 ,2018,150 hp,Gasoline,Automatic,113 ,5 
+2378,NL,Audi A3,26690.0,34528 ,2018,150 hp,Gasoline,Manual,108 ,- (
+2379,NL,Audi A3,26900.0,41622 ,2016,116 hp,Gasoline,Automatic,115 ,5 
+2380,NL,Audi A3,26900.0,69290 ,2018,116 hp,Gasoline,Automatic,0 ,4.8 
+2381,NL,Audi A3,26950.0,17986 ,2019,116 hp,Gasoline,Automatic,118 ,5.2 
+2382,NL,Audi A3,26990.0,63960 ,2018,150 hp,Diesel,Automatic,106 ,- (
+2383,NL,Audi A3,28995.0,72439 ,2018,150 hp,Gasoline,Manual,0 ,5.3 
+2384,NL,Audi A3,29950.0,47469 ,2018,190 hp,Gasoline,Automatic,- (,4.8 
+2385,NL,Audi A3,30899.0,43264 ,2020,110 hp,Gasoline,Automatic,118 ,- (
+2386,NL,Audi A3,30995.0,34114 ,2017,150 hp,Gasoline,Automatic,136 ,5.6 
+2387,NL,Audi A3,33490.0,21650 ,2021,220 hp,Gasoline,Automatic,- (,5.3 
+2388,NL,Audi A3,33950.0,31500 ,2017,150 hp,Gasoline,Automatic,0 ,4.9 
+2389,NL,Audi A3,34995.0,57909 ,2019,150 hp,Diesel,Automatic,138 ,5.3 
+2390,NL,Audi A3,35900.0,16067 ,2020,150 hp,Gasoline,Automatic,121 ,5.3 
+2391,NL,Audi A3,35900.0,16066 ,2020,368 hp,Electric/Gasoline,Automatic,121 ,5.3 
+2392,NL,Audi A3,36444.0,17884 ,2021,150 hp,Gasoline,Automatic,0 ,5.1 
+2393,NL,Audi A3,36995.0,133350 ,2015,150 hp,Gasoline,Automatic,189 ,8.1 
+2394,NL,Audi A3,37950.0,6300 ,2021,368 hp,Gasoline,Automatic,0 ,4.8 
+2395,NL,Audi A3,38445.0,8297 ,2021,150 hp,Electric/Gasoline,Automatic,132 ,4.5 
+2396,NL,Audi A3,39500.0,82585 ,2016,- hp,Gasoline,Automatic,189 ,8.1 
+2397,NL,Audi A3,44949.0,17572 ,2021,368 hp,Gasoline,Automatic,0 ,5.6 
+2398,NL,Audi A3,46950.0,10467 ,2021,245 hp,Electric/Gasoline,Automatic,0 ,1.4 
+2399,NL,Audi A3,48900.0,76251 ,2016,245 hp,Gasoline,Automatic,0 ,8.1 
+2400,NL,Audi A3,49949.0,7184 ,2021,245 hp,Electric/Gasoline,Automatic,0 ,1.4 
+2401,NL,Audi A3,50949.0,7054 ,2021,310 hp,Electric/Gasoline,Automatic,0 ,1.4 
+2402,NL,Audi A3,52949.0,7438 ,2021,125 hp,Electric/Gasoline,Automatic,0 ,1.4 
+2403,NL,Audi A3,65900.0,11442 ,2021,125 hp,Gasoline,Automatic,170 ,- (
+2404,,,,,,200 hp,,,,
+2405,NL,Audi A3,9285.0,144715 ,2010,160 hp,Gasoline,Manual,- (,6 
+2406,NL,Audi A3,9950.0,138011 ,2011,105 hp,Gasoline,Manual,134 ,5.8 
+2407,NL,Audi A3,10940.0,76308 ,2007,110 hp,Gasoline,Manual,186 ,7.8 
+2408,NL,Audi A3,10950.0,170530 ,2011,110 hp,Gasoline,Manual,- (,6.7 
+2409,NL,Audi A3,11950.0,178421 ,2013,141 hp,Diesel,Manual,99 ,3.8 
+2410,NL,Audi A3,14950.0,138446 ,2015,150 hp,Diesel,Manual,99 ,3.8 
+2411,NL,Audi A3,14999.0,160254 ,2014,150 hp,CNG,Automatic,115 ,4.9 kg/100 km 
+2412,NL,Audi A3,18950.0,82799 ,2014,101 hp,Gasoline,Automatic,109 ,4.7 
+2413,,,,,,,,,,
+2414,NL,Audi A3,25950.0,83204 ,2017,,Gasoline,Automatic,0 ,4.8 
+2415,NL,Audi A3,29950.0,69896 ,2017,,Gasoline,Automatic,0 ,4.7 
+2416,NL,Audi A3,680.0,238057 ,1999,,Gasoline,Manual,185 ,7.7 
+2417,,,,,,,,,,
+2418,NL,Renault Megane,990.0,277000 ,2004,133 hp,Gasoline,Manual,191 ,8 
+2419,NL,Renault Megane,1950.0,337567 ,2004,135 hp,Gasoline,Automatic,201 ,8.4 
+2420,NL,Renault Megane,1950.0,150362 ,2006,111 hp,Gasoline,Manual,164 ,6.9 
+2421,NL,Renault Megane,2250.0,213097 ,2006,165 hp,Gasoline,Manual,191 ,8 
+2422,NL,Renault Megane,2945.0,208347 ,2008,111 hp,Gasoline,Manual,164 ,- (
+2423,NL,Renault Megane,3299.0,124440 ,2006,135 hp,Gasoline,Automatic,- (,8.4 
+2424,NL,Renault Megane,3950.0,250000 ,2006,163 hp,Gasoline,Manual,191 ,- (
+2425,NL,Renault Megane,4650.0,187511 ,2009,111 hp,Gasoline,Manual,166 ,- (
+2426,NL,Renault Megane,4950.0,88285 ,2007,111 hp,Gasoline,Automatic,191 ,8 
+2427,NL,Renault Megane,4950.0,148403 ,2008,135 hp,Gasoline,Manual,191 ,8 
+2428,NL,Renault Megane,4995.0,202591 ,2010,110 hp,Gasoline,Manual,162 ,6.9 
+2429,NL,Renault Megane,6450.0,133777 ,2010,101 hp,Gasoline,Manual,159 ,6.7 
+2430,NL,Renault Megane,6450.0,185253 ,2012,111 hp,Diesel,Manual,90 ,3.5 
+2431,NL,Renault Megane,6750.0,188912 ,2013,110 hp,Diesel,Manual,88 ,- (
+2432,NL,Renault Megane,6950.0,220122 ,2014,110 hp,Diesel,Manual,90 ,- (
+2433,NL,Renault Megane,7450.0,120462 ,2011,131 hp,Gasoline,Manual,147 ,6.4 
+2434,NL,Renault Megane,7950.0,166550 ,2010,179 hp,Gasoline,Manual,178 ,7.7 
+2435,NL,Renault Megane,7950.0,160673 ,2012,110 hp,Diesel,Manual,90 ,3.5 
+2436,NL,Renault Megane,8700.0,138471 ,2013,111 hp,Diesel,Automatic,110 ,4.2 
+2437,NL,Renault Megane,8745.0,129106 ,2011,131 hp,Gasoline,Manual,145 ,6.3 
+2438,NL,Renault Megane,9450.0,98920 ,2014,116 hp,Gasoline,Manual,119 ,5.3 
+2439,NL,Renault Megane,9950.0,136735 ,2016,131 hp,Diesel,Manual,104 ,4 
+2440,NL,Renault Megane,9995.0,145956 ,2016,111 hp,Diesel,Manual,0 ,3.4 
+2441,NL,Renault Megane,10490.0,153752 ,2015,111 hp,Diesel,Manual,88 ,3.4 
+2442,,,,,,111 hp,,,,
+2443,NL,Renault Megane,11950.0,143709 ,2017,132 hp,Diesel,Manual,90 ,3.5 
+2444,NL,Renault Megane,11985.0,86935 ,2014,111 hp,Gasoline,Manual,124 ,5.4 
+2445,NL,Renault Megane,11999.0,123178 ,2016,111 hp,Diesel,Manual,88 ,3.4 
+2446,NL,Renault Megane,12450.0,123629 ,2016,132 hp,Diesel,Manual,90 ,3.5 
+2447,NL,Renault Megane,12740.0,93975 ,2016,131 hp,Gasoline,Manual,119 ,5.3 
+2448,NL,Renault Megane,13190.0,134412 ,2017,132 hp,Gasoline,Manual,119 ,- (
+2449,NL,Renault Megane,13409.0,168332 ,2018,111 hp,Gasoline,Manual,119 ,5.3 
+2450,NL,Renault Megane,13450.0,137927 ,2018,110 hp,Diesel,Manual,90 ,3.5 
+2451,NL,Renault Megane,13490.0,144928 ,2016,132 hp,Diesel,Automatic,95 ,- (
+2452,NL,Renault Megane,13750.0,143480 ,2017,132 hp,Gasoline,Manual,119 ,5.3 
+2453,NL,Renault Megane,13790.0,96799 ,2017,111 hp,Gasoline,Manual,119 ,- (
+2454,NL,Renault Megane,13950.0,121609 ,2018,111 hp,Diesel,Manual,90 ,3.5 
+2455,NL,Renault Megane,13950.0,109447 ,2017,101 hp,Diesel,Manual,90 ,3.5 
+2456,NL,Renault Megane,13950.0,126178 ,2017,131 hp,Gasoline,Manual,120 ,5.4 
+2457,NL,Renault Megane,13990.0,149229 ,2017,116 hp,Gasoline,Manual,119 ,- (
+2458,NL,Renault Megane,14450.0,36165 ,2019,111 hp,Gasoline,Manual,140 ,5.3 
+2459,NL,Renault Megane,14500.0,138313 ,2017,110 hp,Diesel,Manual,90 ,3.5 
+2460,NL,Renault Megane,14745.0,107844 ,2018,110 hp,Diesel,Manual,90 ,3.5 
+2461,NL,Renault Megane,14745.0,123142 ,2017,131 hp,Diesel,Manual,95 ,3.7 
+2462,NL,Renault Megane,14790.0,86795 ,2017,101 hp,Gasoline,Manual,119 ,- (
+2463,NL,Renault Megane,14900.0,124622 ,2017,111 hp,Gasoline,Manual,120 ,5.4 
+2464,NL,Renault Megane,14950.0,148551 ,2018,132 hp,Diesel,Automatic,95 ,3.7 
+2465,NL,Renault Megane,14950.0,68419 ,2017,111 hp,Gasoline,Manual,119 ,5.3 
+2466,NL,Renault Megane,14950.0,122380 ,2017,101 hp,Diesel,Manual,87 ,3.4 
+2467,NL,Renault Megane,14950.0,49705 ,2017,110 hp,Gasoline,Manual,120 ,5.4 
+2468,NL,Renault Megane,14990.0,99162 ,2017,110 hp,Diesel,Manual,95 ,- (
+2469,NL,Renault Megane,14990.0,107423 ,2017,101 hp,Diesel,Manual,95 ,- (
+2470,NL,Renault Megane,14990.0,90943 ,2018,110 hp,Gasoline,Manual,120 ,- (
+2471,NL,Renault Megane,15490.0,99323 ,2017,131 hp,Diesel,Manual,95 ,- (
+2472,NL,Renault Megane,15690.0,127879 ,2017,116 hp,Diesel,Manual,103 ,- (
+2473,NL,Renault Megane,15690.0,65405 ,2018,111 hp,Gasoline,Manual,118 ,- (
+2474,NL,Renault Megane,15950.0,112762 ,2017,132 hp,Diesel,Manual,95 ,3.7 
+2475,NL,Renault Megane,15950.0,143584 ,2018,111 hp,Gasoline,Manual,119 ,5.3 
+2476,NL,Renault Megane,15950.0,150403 ,2018,116 hp,Diesel,Manual,95 ,3.7 
+2477,NL,Renault Megane,15950.0,107229 ,2018,101 hp,Gasoline,Manual,118 ,5.3 
+2478,NL,Renault Megane,15950.0,59683 ,2018,207 hp,Gasoline,Manual,120 ,5.4 
+2479,NL,Renault Megane,15999.0,149863 ,2016,110 hp,Gasoline,Automatic,134 ,6 
+2480,NL,Renault Megane,16490.0,120003 ,2017,116 hp,Diesel,Automatic,95 ,- (
+2481,NL,Renault Megane,16500.0,52628 ,2019,110 hp,Gasoline,Manual,124 ,5.4 
+2482,NL,Renault Megane,16590.0,89765 ,2017,111 hp,Diesel,Automatic,95 ,- (
+2483,NL,Renault Megane,16700.0,114928 ,2018,111 hp,Diesel,Manual,90 ,3.5 
+2484,NL,Renault Megane,16750.0,92772 ,2018,131 hp,Diesel,Automatic,95 ,3.7 
+2485,NL,Renault Megane,16890.0,118109 ,2018,131 hp,Gasoline,Manual,119 ,- (
+2486,NL,Renault Megane,16890.0,89571 ,2017,132 hp,Gasoline,Manual,119 ,- (
+2487,NL,Renault Megane,16900.0,92633 ,2017,132 hp,Gasoline,Manual,119 ,5.3 
+2488,NL,Renault Megane,16909.0,52697 ,2017,222 hp,Gasoline,Automatic,122 ,5.4 
+2489,NL,Renault Megane,16950.0,67660 ,2016,111 hp,Gasoline,Manual,0 ,7.3 
+2490,NL,Renault Megane,16950.0,76399 ,2017,116 hp,Diesel,Manual,95 ,3.7 
+2491,NL,Renault Megane,16950.0,139498 ,2019,131 hp,Diesel,Manual,107 ,4.1 
+2492,NL,Renault Megane,16990.0,88938 ,2017,141 hp,Gasoline,Manual,119 ,- (
+2493,NL,Renault Megane,17400.0,65175 ,2018,132 hp,Gasoline,Manual,114 ,5.1 
+2494,NL,Renault Megane,17400.0,40521 ,2017,141 hp,Gasoline,Manual,119 ,5.3 
+2495,NL,Renault Megane,17450.0,47299 ,2018,110 hp,Gasoline,Automatic,117 ,5.2 
+2496,NL,Renault Megane,17590.0,92294 ,2018,101 hp,Diesel,Manual,95 ,- (
+2497,NL,Renault Megane,17950.0,96625 ,2018,111 hp,Gasoline,Manual,120 ,5.4 
+2498,NL,Renault Megane,17950.0,117368 ,2017,132 hp,Diesel,Manual,95 ,3.7 
+2499,NL,Renault Megane,17950.0,29993 ,2018,132 hp,Gasoline,Automatic,124 ,5.5 
+2500,NL,Renault Megane,17950.0,46120 ,2017,110 hp,Gasoline,Manual,119 ,5.3 
+2501,NL,Renault Megane,17990.0,85391 ,2018,110 hp,Diesel,Manual,90 ,- (
+2502,NL,Renault Megane,17990.0,63638 ,2018,116 hp,Diesel,Manual,95 ,- (
+2503,NL,Renault Megane,18250.0,80419 ,2019,132 hp,Diesel,Manual,104 ,3.9 
+2504,NL,Renault Megane,19400.0,82699 ,2017,205 hp,Gasoline,Automatic,122 ,5.4 
+2505,NL,Renault Megane,19445.0,108726 ,2017,207 hp,Gasoline,Automatic,134 ,6 
+2506,NL,Renault Megane,19450.0,103943 ,2016,250 hp,Gasoline,Automatic,134 ,6 
+2507,NL,Renault Megane,19450.0,76359 ,2011,141 hp,Gasoline,Manual,190 ,- (
+2508,NL,Renault Megane,19796.0,72723 ,2019,207 hp,Gasoline,Automatic,125 ,5.5 
+2509,NL,Renault Megane,20950.0,73606 ,2016,205 hp,Gasoline,Automatic,134 ,6 
+2510,NL,Renault Megane,22290.0,127928 ,2018,140 hp,Gasoline,Automatic,134 ,- (
+2511,NL,Renault Megane,23700.0,24613 ,2020,140 hp,Gasoline,Automatic,125 ,- (
+2512,NL,Renault Megane,23700.0,33088 ,2020,140 hp,Gasoline,Automatic,125 ,- (
+2513,NL,Renault Megane,23700.0,30507 ,2020,140 hp,Gasoline,Automatic,125 ,- (
+2514,NL,Renault Megane,27800.0,8698 ,2021,159 hp,Gasoline,Automatic,128 ,5.4 
+2515,NL,Renault Megane,33750.0,14105 ,2021,158 hp,Electric/Gasoline,Automatic,29 ,1.3 
+2516,NL,Renault Megane,33950.0,9596 ,2021,- hp,Electric/Gasoline,Automatic,29 ,1.3 
+2517,NL,Renault Megane,33950.0,16372 ,2021,300 hp,Electric/Gasoline,Automatic,32 ,1.4 
+2518,NL,Renault Megane,45950.0,15698 ,2020,300 hp,Gasoline,Manual,176 ,8 
+2519,NL,Renault Megane,54950.0,17466 ,2021,135 hp,Gasoline,- (Gearing Type),184 ,- (
+2520,NL,Renault Megane,1999.0,130990 ,2004,111 hp,Gasoline,Manual,196 ,- (
+2521,NL,Renault Megane,6750.0,198842 ,2013,131 hp,Diesel,Manual,88 ,3.5 
+2522,NL,Renault Megane,10950.0,95646 ,2011,141 hp,Gasoline,Manual,169 ,7.3 
+2523,NL,Renault Megane,18745.0,80906 ,2019,91 hp,Gasoline,Manual,124 ,5.4 
+2524,NL,Renault Megane,29750.0,18669 ,2020,,Electric/Gasoline,Automatic,29 ,- (
+2525,,,,,,,,,,
+2526,,,,,,,,,,
+2527,,,,,,,,,,
+2528,,,,,,,,,,
+2529,NL,Skoda Octavia,1950.0,369246 ,2008,105 hp,Diesel,Manual,138 ,5.1 
+2530,NL,Skoda Octavia,2385.0,437964 ,2001,90 hp,Diesel,Automatic,- (,6.4 
+2531,NL,Skoda Octavia,2500.0,242496 ,2003,150 hp,Gasoline,Manual,213 ,- (
+2532,NL,Skoda Octavia,3990.0,194508 ,2009,122 hp,Gasoline,Manual,148 ,- (
+2533,NL,Skoda Octavia,4950.0,299622 ,2006,200 hp,Gasoline,Manual,- (,- (
+2534,NL,Skoda Octavia,5450.0,233045 ,2011,105 hp,Gasoline,Manual,134 ,5.7 
+2535,NL,Skoda Octavia,5900.0,187531 ,2009,122 hp,Gasoline,Automatic,147 ,6.3 
+2536,NL,Skoda Octavia,5999.0,151123 ,2010,122 hp,Gasoline,Manual,148 ,6.3 
+2537,NL,Skoda Octavia,6945.0,169938 ,2006,200 hp,Gasoline,Manual,190 ,7.9 
+2538,NL,Skoda Octavia,6950.0,193552 ,2012,122 hp,Gasoline,Manual,134 ,5.8 
+2539,NL,Skoda Octavia,7949.0,264265 ,2014,111 hp,Diesel,Manual,85 ,3.2 
+2540,NL,Skoda Octavia,8200.0,238829 ,2014,111 hp,Diesel,Manual,85 ,3.2 
+2541,NL,Skoda Octavia,8750.0,216619 ,2014,110 hp,Diesel,Manual,85 ,- (
+2542,NL,Skoda Octavia,9750.0,159888 ,2014,110 hp,Diesel,Manual,85 ,- (
+2543,NL,Skoda Octavia,11445.0,173718 ,2016,116 hp,Gasoline,Manual,105 ,4.5 
+2544,NL,Skoda Octavia,11740.0,113387 ,2014,105 hp,Gasoline,Manual,117 ,5.1 
+2545,NL,Skoda Octavia,11900.0,145408 ,2015,111 hp,Diesel,Manual,90 ,3.5 
+2546,NL,Skoda Octavia,11945.0,158431 ,2016,110 hp,Diesel,Manual,99 ,3.8 
+2547,NL,Skoda Octavia,12490.0,178488 ,2015,110 hp,Diesel,Automatic,102 ,3.9 
+2548,NL,Skoda Octavia,12885.0,145832 ,2016,116 hp,Gasoline,Manual,104 ,4.5 
+2549,NL,Skoda Octavia,12945.0,174013 ,2016,110 hp,Diesel,Automatic,102 ,3.9 
+2550,NL,Skoda Octavia,13409.0,171429 ,2016,116 hp,Gasoline,Automatic,106 ,4.6 
+2551,NL,Skoda Octavia,13909.0,126863 ,2016,150 hp,Gasoline,Manual,118 ,5.1 
+2552,NL,Skoda Octavia,14490.0,110666 ,2016,110 hp,Diesel,Manual,99 ,- (
+2553,NL,Skoda Octavia,14745.0,153478 ,2016,110 hp,Diesel,Automatic,102 ,3.9 
+2554,NL,Skoda Octavia,14950.0,124393 ,2016,110 hp,Gasoline,Automatic,114 ,4.9 
+2555,NL,Skoda Octavia,15645.0,90107 ,2015,150 hp,Gasoline,Automatic,117 ,5.1 
+2556,NL,Skoda Octavia,15945.0,87000 ,2017,116 hp,Gasoline,Manual,110 ,4.8 
+2557,NL,Skoda Octavia,15945.0,129233 ,2015,179 hp,Gasoline,Automatic,128 ,5.6 
+2558,NL,Skoda Octavia,16890.0,114173 ,2017,116 hp,Gasoline,Automatic,106 ,- (
+2559,NL,Skoda Octavia,16990.0,129685 ,2017,116 hp,Gasoline,Automatic,108 ,- (
+2560,NL,Skoda Octavia,16990.0,86298 ,2018,116 hp,Gasoline,Manual,110 ,- (
+2561,NL,Skoda Octavia,16990.0,137554 ,2018,116 hp,Diesel,Automatic,103 ,- (
+2562,NL,Skoda Octavia,17190.0,99635 ,2016,116 hp,Gasoline,Automatic,106 ,- (
+2563,NL,Skoda Octavia,17256.0,153579 ,2018,116 hp,Diesel,Automatic,103 ,3.9 
+2564,NL,Skoda Octavia,17490.0,138964 ,2017,116 hp,Gasoline,Automatic,109 ,- (
+2565,NL,Skoda Octavia,17690.0,129341 ,2017,150 hp,Gasoline,Manual,124 ,- (
+2566,NL,Skoda Octavia,17750.0,53366 ,2016,116 hp,Gasoline,Automatic,109 ,4.7 
+2567,NL,Skoda Octavia,17890.0,122297 ,2018,116 hp,Diesel,Automatic,103 ,- (
+2568,NL,Skoda Octavia,17990.0,143034 ,2018,116 hp,Gasoline,Automatic,108 ,- (
+2569,NL,Skoda Octavia,17990.0,91856 ,2017,150 hp,Gasoline,Automatic,114 ,- (
+2570,NL,Skoda Octavia,18490.0,73449 ,2018,116 hp,Gasoline,Manual,110 ,- (
+2571,NL,Skoda Octavia,18945.0,50574 ,2017,150 hp,Gasoline,Automatic,114 ,4.9 
+2572,NL,Skoda Octavia,18945.0,111954 ,2017,150 hp,Gasoline,Automatic,117 ,5 
+2573,NL,Skoda Octavia,18990.0,91879 ,2018,116 hp,Diesel,Automatic,103 ,- (
+2574,NL,Skoda Octavia,19850.0,58623 ,2018,150 hp,Gasoline,Manual,124 ,5.3 
+2575,NL,Skoda Octavia,19990.0,95887 ,2018,150 hp,Gasoline,Manual,0 ,5.3 
+2576,NL,Skoda Octavia,20490.0,96028 ,2017,150 hp,Gasoline,Automatic,117 ,- (
+2577,NL,Skoda Octavia,20990.0,133856 ,2018,179 hp,Gasoline,Automatic,133 ,- (
+2578,NL,Skoda Octavia,22795.0,40657 ,2019,131 hp,Gasoline,Automatic,112 ,4.9 
+2579,NL,Skoda Octavia,22850.0,66897 ,2017,150 hp,Gasoline,Automatic,117 ,5 
+2580,NL,Skoda Octavia,24995.0,59227 ,2018,150 hp,Gasoline,Automatic,114 ,4.9 
+2581,NL,Skoda Octavia,30840.0,11947 ,2021,150 hp,Gasoline,Manual,117 ,5.7 
+2582,NL,Skoda Octavia,32950.0,29346 ,2021,245 hp,Electric/Gasoline,Automatic,98 ,4.3 
+2583,NL,Skoda Octavia,32980.0,42383 ,2018,245 hp,Gasoline,Automatic,149 ,6.6 
+2584,NL,Skoda Octavia,33650.0,25055 ,2019,245 hp,Gasoline,Automatic,144 ,6.4 
+2585,NL,Skoda Octavia,10940.0,187023 ,2014,105 hp,Gasoline,Manual,117 ,5.1 
+2586,NL,Skoda Octavia,998.0,265204 ,2000,101 hp,Gasoline,Manual,190 ,7.8 
+2587,NL,Skoda Octavia,999.0,214422 ,2003,102 hp,Gasoline,Manual,170 ,7.1 
+2588,NL,Skoda Octavia,1450.0,204024 ,2000,75 hp,Gasoline,Manual,185 ,7.9 
+2589,NL,Skoda Octavia,1499.0,275798 ,2001,116 hp,Gasoline,Manual,192 ,8 
+2590,NL,Skoda Octavia,1690.0,200301 ,2002,116 hp,Gasoline,Automatic,216 ,9 
+2591,,,,,,140 hp,,,,
+2592,NL,Skoda Octavia,2495.0,363955 ,2005,116 hp,Diesel,Manual,149 ,5.5 
+2593,NL,Skoda Octavia,2648.0,231189 ,2005,150 hp,Gasoline,Manual,158 ,6.6 
+2594,NL,Skoda Octavia,2695.0,183663 ,2005,150 hp,Gasoline,Manual,178 ,7.4 
+2595,,,,,,200 hp,,,,
+2596,NL,Skoda Octavia,2950.0,238948 ,2006,150 hp,Gasoline,Manual,182 ,7.6 
+2597,NL,Skoda Octavia,2995.0,193353 ,2006,160 hp,Gasoline,Manual,- (,7.8 
+2598,,,,,,102 hp,,,,
+2599,NL,Skoda Octavia,3749.0,172597 ,2004,116 hp,Gasoline,Automatic,218 ,9.1 
+2600,NL,Skoda Octavia,3750.0,239020 ,2008,,Gasoline,Manual,176 ,7.4 
+2601,NL,Skoda Octavia,3900.0,137406 ,2004,,Gasoline,Manual,170 ,7.1 
+2602,NL,Skoda Octavia,3945.0,217791 ,2007,,Gasoline,Manual,158 ,6.6 
+2603,,,,,,,,,,
