@@ -1,0 +1,1088 @@
+,Country,Model,Price,Km,Year,Power_Hd,Fuel,Gearbox,CO2,Consumption
+0,DE,BMW X5,9850.0,204831 ,2006,218 hp,Diesel,Automatic,- (,0 
+1,DE,BMW X5,16899.0,230000 ,2012,408 hp,Gasoline,Automatic,0 ,0 
+2,DE,BMW X5,16950.0,135011 ,2010,407 hp,Gasoline,Automatic,296 ,12.5 
+3,DE,BMW X5,16995.0,198000 ,2010,286 hp,Diesel,Automatic,237 ,9 
+4,DE,BMW X5,19999.0,152055 ,2012,245 hp,Diesel,Automatic,196 ,7.4 
+5,DE,BMW X5,24995.0,125758 ,2011,408 hp,Gasoline,Automatic,296 ,12.5 
+6,DE,BMW X5,25999.0,119042 ,2013,306 hp,Diesel,Automatic,199 ,7.5 
+7,DE,BMW X5,26990.0,189370 ,2015,258 hp,Diesel,Automatic,195 ,7.4 
+8,DE,BMW X5,29780.0,256800 ,2017,231 hp,Diesel,Automatic,146 ,5.6 
+9,DE,BMW X5,32990.0,136467 ,2014,258 hp,Diesel,Automatic,156 ,5.9 
+10,DE,BMW X5,34900.0,128200 ,2015,313 hp,Diesel,Automatic,159 ,6 
+11,DE,BMW X5,36999.0,57813 ,2014,258 hp,Diesel,Automatic,162 ,6.2 
+12,DE,BMW X5,36999.0,124500 ,2017,258 hp,Diesel,Automatic,183 ,6.9 
+13,DE,BMW X5,37500.0,135000 ,2014,258 hp,Diesel,Automatic,183 ,6.9 
+14,DE,BMW X5,37900.0,137709 ,2015,258 hp,Diesel,Automatic,156 ,5.9 
+15,DE,BMW X5,40499.0,85648 ,2015,313 hp,Diesel,Automatic,157 ,6 
+16,DE,BMW X5,40995.0,64855 ,2018,231 hp,Diesel,Automatic,139 ,5.3 
+17,DE,BMW X5,41440.0,56842 ,2017,258 hp,Diesel,Automatic,158 ,6 
+18,DE,BMW X5,41980.0,126723 ,2018,258 hp,Diesel,Automatic,183 ,7 
+19,DE,BMW X5,41995.0,74573 ,2016,258 hp,Diesel,Automatic,156 ,5.9 
+20,DE,BMW X5,41995.0,61015 ,2018,231 hp,Diesel,Automatic,146 ,5.6 
+21,DE,BMW X5,43400.0,54981 ,2018,231 hp,Diesel,Automatic,139 ,5.3 
+22,DE,BMW X5,44499.0,79022 ,2018,258 hp,Diesel,Automatic,183 ,7 
+23,DE,BMW X5,46449.0,116450 ,2018,313 hp,Diesel,Automatic,183 ,6.9 
+24,DE,BMW X5,48440.0,41561 ,2018,258 hp,Diesel,Automatic,183 ,6.9 
+25,DE,BMW X5,48900.0,62255 ,2018,258 hp,Diesel,Automatic,162 ,6.2 
+26,DE,BMW X5,48995.0,63012 ,2018,258 hp,Diesel,Automatic,183 ,6.9 
+27,DE,BMW X5,49995.0,44416 ,2018,245 hp,Electric/Gasoline,Automatic,77 ,3.3 
+28,DE,BMW X5,50990.0,78900 ,2018,313 hp,Diesel,Automatic,183 ,6.9 
+29,DE,BMW X5,52995.0,85483 ,2017,449 hp,Gasoline,Automatic,226 ,9.7 
+30,DE,BMW X5,54870.0,14864 ,2017,313 hp,Gasoline,Automatic,78 ,3.3 
+31,DE,BMW X5,55967.0,29623 ,2018,306 hp,Gasoline,Automatic,201 ,8.5 
+32,DE,BMW X5,57990.0,72696 ,2019,230 hp,Diesel,Automatic,150 ,5.7 
+33,DE,BMW X5,58190.0,- ,,340 hp,,,,
+34,,,,,,408 hp,,,,
+35,DE,BMW X5,64699.0,0 ,2020,313 hp,Diesel,Automatic,167 ,6.4 
+36,,,,,,258 hp,,,,
+37,DE,BMW X5,86490.0,32407 ,2011,258 hp,Gasoline,Automatic,296 ,12.5 
+38,DE,BMW X5,91800.0,3 ,,340 hp,,,,
+39,,,,,2017,265 hp,Diesel,Automatic,183 ,6.9 
+40,DE,BMW X5,24999.0,120500 ,2018,265 hp,Diesel,Automatic,183 ,6.9 
+41,,,,,2018,265 hp,Diesel,Automatic,183 ,6.9 
+42,DE,BMW X5,46980.0,69084 ,2019,265 hp,Gasoline,Automatic,183 ,8 
+43,DE,BMW X5,47450.0,60881 ,2018,265 hp,Diesel,Automatic,162 ,6.2 
+44,DE,BMW X5,49990.0,42800 ,2018,265 hp,Diesel,Automatic,158 ,6 
+45,DE,BMW X5,57990.0,44350 ,2019,265 hp,Diesel,Automatic,159 ,6.1 
+46,DE,BMW X5,58995.0,85021 ,,265 hp,,,,
+47,DE,BMW X5,59490.0,37022 ,2019,340 hp,Diesel,Automatic,158 ,6 
+48,DE,BMW X5,60990.0,88588 ,2019,286 hp,Diesel,Automatic,162 ,6.2 
+49,DE,BMW X5,61350.0,0 ,2019,286 hp,Diesel,Automatic,162 ,6.2 
+50,,,,,2019,218 hp,Diesel,Automatic,159 ,6.1 
+51,DE,BMW X5,65890.0,3168 ,2019,286 hp,Diesel,Automatic,158 ,6 
+52,DE,BMW X5,67750.0,85139 ,2020,286 hp,Diesel,Automatic,167 ,6.4 
+53,DE,BMW X5,69900.0,29960 ,,218 hp,,,,
+54,DE,BMW X5,70930.0,51908 ,,235 hp,,,,
+55,DE,BMW X5,71900.0,49600 ,2021,235 hp,Diesel,Automatic,164 ,6.2 
+56,DE,BMW X5,77490.0,14933 ,,286 hp,,,,
+57,DE,BMW X5,78599.0,0 ,2021,306 hp,Electric/Gasoline,Automatic,29 ,1.6 
+58,,,,,2004,218 hp,Diesel,Automatic,250 ,9.4 
+59,DE,BMW X5,85870.0,0 ,2001,245 hp,LPG,Automatic,299 ,10 
+60,,,,,2001,408 hp,Gasoline,Automatic,299 ,9.8 
+61,DE,BMW X5,94990.0,13339 ,2005,381 hp,Diesel,Automatic,250 ,9.4 
+62,DE,BMW X5,95990.0,0 ,2008,408 hp,Diesel,Automatic,215 ,8.1 
+63,,,,,2008,218 hp,Diesel,Automatic,215 ,8.1 
+64,DE,BMW X5,106500.0,5000 ,2009,313 hp,Diesel,Automatic,237 ,9 
+65,DE,BMW X5,5990.0,310000 ,2011,258 hp,Diesel,Automatic,199 ,7.5 
+66,DE,BMW X5,8490.0,239185 ,2014,245 hp,Diesel,Automatic,154 ,5.8 
+67,DE,BMW X5,8490.0,239185 ,2012,449 hp,Diesel,Automatic,196 ,7.4 
+68,DE,BMW X5,9990.0,239800 ,2012,313 hp,Gasoline,Automatic,296 ,12.5 
+69,DE,BMW X5,10490.0,273910 ,2013,258 hp,Diesel,Automatic,199 ,7.5 
+70,DE,BMW X5,10980.0,266850 ,2012,258 hp,Gasoline,Automatic,296 ,12.5 
+71,DE,BMW X5,16950.0,198000 ,2014,313 hp,Diesel,Automatic,148 ,5.6 
+72,DE,BMW X5,18989.0,216584 ,2014,313 hp,Diesel,Automatic,183 ,6.9 
+73,DE,BMW X5,22990.0,209000 ,,313 hp,,,,
+74,DE,BMW X5,22999.0,123640 ,2016,245 hp,Diesel,Automatic,156 ,5.9 
+75,DE,BMW X5,23900.0,193001 ,2013,340 hp,Diesel,Automatic,195 ,7.4 
+76,DE,BMW X5,24900.0,182350 ,2014,313 hp,Gasoline,Automatic,224 ,9.6 
+77,DE,BMW X5,27990.0,117600 ,2015,265 hp,Diesel,Automatic,183 ,7 
+78,DE,BMW X5,28500.0,153720 ,2018,723 hp,Diesel,Automatic,183 ,6.9 
+79,DE,BMW X5,31850.0,185000 ,2018,184 hp,Diesel,Automatic,183 ,6.9 
+80,,,,,2018,184 hp,Diesel,Automatic,183 ,6.9 
+81,DE,BMW X5,35790.0,139001 ,2018,184 hp,Diesel,Automatic,183 ,6.9 
+82,DE,BMW X5,36500.0,150000 ,2018,231 hp,Diesel,Automatic,183 ,6.9 
+83,DE,BMW X5,38990.0,74860 ,2017,184 hp,Electric/Gasoline,Automatic,77 ,3.3 
+84,DE,BMW X5,43900.0,57000 ,2019,184 hp,Gasoline,Automatic,197 ,8.7 
+85,DE,BMW X5,44790.0,79721 ,2018,184 hp,Diesel,Automatic,183 ,6.9 
+86,DE,BMW X5,45980.0,53701 ,2019,231 hp,Diesel,Automatic,158 ,6 
+87,DE,BMW X5,47650.0,98350 ,2021,320 hp,Gasoline,Automatic,296 ,13 
+88,DE,BMW X5,49750.0,70650 ,2002,,Diesel,Automatic,233 ,8.7 
+89,DE,BMW X5,54490.0,87521 ,2001,,Diesel,Automatic,259 ,9.7 
+90,DE,BMW X5,54799.0,39721 ,2003,,Diesel,Automatic,228 ,8.6 
+91,DE,BMW X5,54880.0,200000 ,2001,,Gasoline,Automatic,312 ,12.9 
+92,DE,BMW X5,58880.0,55711 ,2003,,Diesel,Automatic,228 ,8.6 
+93,DE,BMW X5,65690.0,40000 ,,,,,,
+94,DE,BMW X5,215000.0,1560 ,2003,,Diesel,Automatic,228 ,8.6 
+95,DE,BMW X5,2495.0,350000 ,,,,,,
+96,DE,BMW X5,2499.0,398000 ,2001,,Diesel,Automatic,228 ,9.2 
+97,DE,BMW X5,2680.0,238052 ,2001,,Gasoline,Automatic,312 ,12.9 
+98,DE,BMW X5,2990.0,263000 ,,,,,,
+99,DE,BMW X5,2999.0,422000 ,,,,,,
+100,,,,,2005,,Gasoline,Automatic,310 ,13.1 
+101,DE,BMW X5,3750.0,297773 ,,,,,,
+102,,,,,,,,,,
+103,DE,BMW X5,4880.0,281026 ,,,,,,
+104,DE,BMW X5,4900.0,380000 ,,,,,,
+105,,,,,,,,,,
+106,,,,,,,,,,
+107,DE,BMW X5,6899.0,267000 ,,,,,,
+108,,,,,,,,,,
+109,,,,,,,,,,
+110,FR,BMW X5,19500.0,165727 ,2010,407 hp,Gasoline,Automatic,292 ,12.5 
+111,FR,BMW X5,22890.0,128650 ,2010,211 hp,Diesel,Automatic,217 ,8.2 
+112,FR,BMW X5,24180.0,157000 ,2012,306 hp,Diesel,Automatic,198 ,7.5 
+113,FR,BMW X5,27890.0,160689 ,2015,- hp,Diesel,Automatic,- (,- (
+114,FR,BMW X5,27990.0,206000 ,2015,313 hp,Diesel,Automatic,159 ,6 
+115,FR,BMW X5,29990.0,115597 ,2015,- hp,Diesel,Automatic,- (,- (
+116,FR,BMW X5,31999.0,135177 ,2015,262 hp,Diesel,Automatic,156 ,- (
+117,FR,BMW X5,35990.0,163000 ,2015,381 hp,Diesel,Automatic,- (,- (
+118,FR,BMW X5,39990.0,109000 ,2015,258 hp,Diesel,Automatic,156 ,5.9 
+119,FR,BMW X5,40900.0,120490 ,2017,- hp,Diesel,Automatic,- (,- (
+120,FR,BMW X5,41200.0,87990 ,2017,262 hp,Diesel,Automatic,158 ,- (
+121,FR,BMW X5,49950.0,42668 ,2017,258 hp,Diesel,Automatic,156 ,5.9 
+122,FR,BMW X5,57990.0,89639 ,2019,- hp,Diesel,Automatic,162 ,- (
+123,FR,BMW X5,57990.0,38832 ,2019,- hp,Diesel,Automatic,- (,- (
+124,FR,BMW X5,62999.0,66562 ,2019,269 hp,Diesel,Automatic,155 ,- (
+125,FR,BMW X5,69990.0,79000 ,2019,400 hp,Diesel,Automatic,- (,- (
+126,FR,BMW X5,73900.0,17000 ,2020,- hp,Diesel,Automatic,- (,- (
+127,FR,BMW X5,83699.0,6500 ,2021,- hp,- (Fuel),Automatic,- (,- (
+128,FR,BMW X5,87990.0,23696 ,2021,- hp,Gasoline,Automatic,30 ,- (
+129,FR,BMW X5,87999.0,21492 ,2020,- hp,Electric/Gasoline,Automatic,- (,- (
+130,FR,BMW X5,87999.0,21492 ,2020,- hp,Electric/Gasoline,Automatic,- (,- (
+131,FR,BMW X5,94900.0,13900 ,2020,536 hp,- (Fuel),Automatic,31 ,- (
+132,FR,BMW X5,104999.0,891 ,2021,- hp,Electric/Gasoline,Automatic,- (,- (
+133,FR,BMW X5,10400.0,146336 ,2004,234 hp,Gasoline,Manual,307 ,- (
+134,FR,BMW X5,19480.0,134000 ,2009,211 hp,Diesel,Automatic,217 ,8.2 
+135,FR,BMW X5,19900.0,195603 ,2010,249 hp,Diesel,Automatic,195 ,- (
+136,FR,BMW X5,21990.0,134000 ,2007,355 hp,Gasoline,Automatic,299 ,- (
+137,FR,BMW X5,24900.0,161487 ,2014,262 hp,Diesel,Automatic,156 ,- (
+138,FR,BMW X5,27890.0,79500 ,2007,276 hp,Gasoline,Automatic,247 ,- (
+139,FR,BMW X5,27900.0,119000 ,2014,218 hp,Diesel,Automatic,- (,- (
+140,,,,,,238 hp,,,,
+141,,,,,,- hp,,,,
+142,,,,,,235 hp,,,,
+143,FR,BMW X5,13900.0,231780 ,2007,14 hp,Diesel,Automatic,- (,- (
+144,FR,BMW X5,14000.0,34001 ,2014,249 hp,- (Fuel),Automatic,- (,- (
+145,FR,BMW X5,14490.0,169478 ,2009,238 hp,Diesel,Automatic,- (,- (
+146,,,,,,286 hp,,,,
+147,FR,BMW X5,16800.0,161000 ,2003,218 hp,Diesel,Automatic,- (,- (
+148,FR,BMW X5,16900.0,297489 ,2010,238 hp,Diesel,Automatic,195 ,- (
+149,,,,,,- hp,,,,
+150,FR,BMW X5,18990.0,148000 ,2008,238 hp,Diesel,Manual,- (,- (
+151,FR,BMW X5,19400.0,175000 ,2011,306 hp,Diesel,Automatic,- (,- (
+152,,,,,,- hp,,,,
+153,FR,BMW X5,22000.0,100000 ,2007,258 hp,Diesel,Automatic,- (,- (
+154,FR,BMW X5,22990.0,72622 ,2007,286 hp,Diesel,Automatic,214 ,- (
+155,FR,BMW X5,23950.0,123343 ,2007,262 hp,Diesel,Automatic,- (,- (
+156,FR,BMW X5,24000.0,142000 ,2007,262 hp,Diesel,Automatic,- (,- (
+157,FR,BMW X5,24490.0,93000 ,2010,- hp,Diesel,Automatic,198 ,7.5 
+158,FR,BMW X5,24990.0,124566 ,2013,258 hp,Diesel,Automatic,198 ,9.7 
+159,FR,BMW X5,25490.0,150000 ,2013,211 hp,Diesel,Automatic,- (,- (
+160,,,,,,218 hp,,,,
+161,,,,,,222 hp,,,,
+162,FR,BMW X5,29900.0,125000 ,2008,262 hp,Diesel,Automatic,- (,- (
+163,FR,BMW X5,29990.0,136560 ,2016,234 hp,Diesel,Automatic,156 ,- (
+164,FR,BMW X5,29990.0,136560 ,2016,286 hp,Diesel,Automatic,156 ,- (
+165,FR,BMW X5,29990.0,109870 ,2010,- hp,Diesel,Automatic,- (,- (
+166,FR,BMW X5,30995.0,127728 ,2016,313 hp,Diesel,Automatic,156 ,5.9 
+167,FR,BMW X5,31495.0,122687 ,2016,262 hp,Diesel,Automatic,146 ,5.6 
+168,FR,BMW X5,31950.0,116929 ,2015,249 hp,Diesel,Automatic,149 ,5.6 
+169,FR,BMW X5,32700.0,92022 ,2014,258 hp,Diesel,Automatic,149 ,- (
+170,FR,BMW X5,32900.0,84186 ,2013,272 hp,Diesel,Automatic,164 ,- (
+171,FR,BMW X5,32900.0,110900 ,2017,222 hp,Diesel,Automatic,139 ,- (
+172,FR,BMW X5,32900.0,83500 ,2008,262 hp,Diesel,Automatic,220 ,8.3 
+173,FR,BMW X5,32900.0,61000 ,2010,262 hp,Diesel,Automatic,- (,- (
+174,FR,BMW X5,32999.0,137000 ,2015,313 hp,Diesel,Automatic,183 ,6.9 
+175,FR,BMW X5,33500.0,82200 ,2014,218 hp,Diesel,Automatic,156 ,- (
+176,FR,BMW X5,33900.0,91000 ,2012,320 hp,Diesel,Automatic,195 ,- (
+177,FR,BMW X5,34390.0,104887 ,2015,290 hp,Diesel,Automatic,- (,- (
+178,FR,BMW X5,34750.0,25150 ,2009,231 hp,Gasoline,Automatic,247 ,10.3 
+179,FR,BMW X5,34890.0,78440 ,2015,234 hp,Diesel,Automatic,154 ,- (
+180,FR,BMW X5,34900.0,151372 ,2015,- hp,Diesel,Automatic,158 ,- (
+181,FR,BMW X5,34900.0,121000 ,2014,- hp,Diesel,Automatic,158 ,- (
+182,FR,BMW X5,34900.0,111650 ,2014,234 hp,Diesel,Automatic,164 ,- (
+183,FR,BMW X5,34990.0,97353 ,2015,318 hp,Diesel,Automatic,154 ,5.8 
+184,FR,BMW X5,35000.0,120000 ,2006,- hp,Gasoline,Automatic,317 ,13.1 
+185,FR,BMW X5,35200.0,81650 ,2009,211 hp,Diesel,Automatic,- (,- (
+186,FR,BMW X5,35290.0,50468 ,2016,258 hp,Diesel,Automatic,- (,- (
+187,FR,BMW X5,35850.0,144508 ,2018,258 hp,Diesel,Automatic,146 ,- (
+188,FR,BMW X5,35990.0,104355 ,2014,313 hp,Diesel,Automatic,- (,- (
+189,FR,BMW X5,35999.0,91647 ,2016,318 hp,Diesel,Automatic,- (,- (
+190,FR,BMW X5,36880.0,58510 ,2016,234 hp,Diesel,Automatic,139 ,- (
+191,FR,BMW X5,36900.0,125787 ,2014,- hp,Diesel,Automatic,157 ,- (
+192,FR,BMW X5,36980.0,77990 ,2017,234 hp,Others,Automatic,- (,- (
+193,FR,BMW X5,36990.0,108017 ,2017,313 hp,- (Fuel),Automatic,77 ,3.3 
+194,FR,BMW X5,36995.0,52056 ,2016,262 hp,Diesel,Automatic,156 ,5.9 
+195,FR,BMW X5,36995.0,52056 ,2016,258 hp,Diesel,Automatic,156 ,5.9 
+196,FR,BMW X5,37900.0,105000 ,2016,234 hp,Diesel,Automatic,157 ,6 
+197,FR,BMW X5,37990.0,138018 ,2015,- hp,Diesel,Automatic,159 ,- (
+198,FR,BMW X5,37990.0,81245 ,2017,262 hp,Diesel,Automatic,139 ,- (
+199,FR,BMW X5,37999.0,104370 ,2015,- hp,Diesel,Automatic,- (,- (
+200,,,,,,318 hp,,,,
+201,FR,BMW X5,38990.0,52890 ,2018,234 hp,Diesel,Automatic,146 ,- (
+202,FR,BMW X5,39800.0,92184 ,2017,- hp,- (Fuel),Automatic,77 ,- (
+203,FR,BMW X5,39840.0,103111 ,2017,249 hp,Diesel,Automatic,156 ,- (
+204,FR,BMW X5,39890.0,92800 ,2014,258 hp,Diesel,Automatic,158 ,6 
+205,FR,BMW X5,39900.0,21700 ,2016,245 hp,Diesel,Automatic,139 ,- (
+206,FR,BMW X5,39939.0,64956 ,2015,262 hp,Diesel,Automatic,- (,- (
+207,FR,BMW X5,39990.0,120596 ,2016,386 hp,Diesel,Automatic,158 ,- (
+208,FR,BMW X5,40284.0,90000 ,2016,231 hp,Diesel,Manual,- (,- (
+209,FR,BMW X5,40985.0,123096 ,2016,- hp,Diesel,Automatic,159 ,- (
+210,FR,BMW X5,41876.0,68473 ,2018,258 hp,Diesel,Automatic,141 ,- (
+211,FR,BMW X5,41890.0,9000 ,2017,245 hp,Diesel,Manual,- (,- (
+212,FR,BMW X5,41900.0,86919 ,2017,,Electric/Gasoline,Automatic,77 ,- (
+213,FR,BMW X5,42450.0,112000 ,2018,,Diesel,Automatic,183 ,6.9 
+214,FR,BMW X5,42490.0,78800 ,2017,,Electric/Gasoline,Automatic,77 ,3.3 
+215,FR,BMW X5,42590.0,93890 ,2017,,Diesel,Automatic,158 ,- (
+216,FR,BMW X5,42700.0,96496 ,2016,,Diesel,Automatic,173 ,- (
+217,FR,BMW X5,42701.0,81095 ,2018,,Diesel,Automatic,146 ,- (
+218,FR,BMW X5,42879.0,77122 ,2018,,Diesel,Manual,- (,- (
+219,FR,BMW X5,42900.0,71100 ,2017,,Diesel,Automatic,- (,- (
+220,FR,BMW X5,42950.0,79449 ,2017,,- (Fuel),Automatic,77 ,- (
+221,ES,BMW X5,5500.0,395000 ,2005,218 hp,Diesel,Manual,- (,8.7 
+222,ES,BMW X5,6990.0,256600 ,2001,231 hp,Gasoline,Automatic,- (,12.9 
+223,ES,BMW X5,7800.0,282400 ,2005,218 hp,Diesel,Automatic,- (,8.7 
+224,ES,BMW X5,8800.0,298000 ,2008,235 hp,Diesel,Automatic,- (,8.1 
+225,ES,BMW X5,10950.0,227000 ,2002,347 hp,Gasoline,Automatic,- (,- (
+226,ES,BMW X5,11990.0,275000 ,2008,235 hp,Diesel,Automatic,- (,8.2 
+227,ES,BMW X5,14500.0,169000 ,2007,235 hp,Diesel,Automatic,- (,8.1 
+228,ES,BMW X5,17990.0,124600 ,2009,235 hp,Diesel,Automatic,- (,8.2 
+229,ES,BMW X5,19990.0,177330 ,2011,245 hp,Diesel,Automatic,- (,7.4 
+230,ES,BMW X5,23000.0,145000 ,2012,306 hp,Gasoline,Automatic,- (,10.1 
+231,ES,BMW X5,23900.0,182000 ,2014,218 hp,Diesel,Automatic,- (,5.6 
+232,ES,BMW X5,23990.0,143000 ,2011,306 hp,Diesel,Automatic,- (,7.5 
+233,ES,BMW X5,24990.0,269000 ,2014,258 hp,Diesel,Automatic,- (,5.9 
+234,ES,BMW X5,25990.0,119000 ,2013,245 hp,Diesel,Automatic,- (,7.4 
+235,ES,BMW X5,26900.0,67024 ,2011,306 hp,Diesel,Automatic,- (,7.5 
+236,ES,BMW X5,29890.0,167552 ,2015,313 hp,Diesel,Automatic,- (,3.3 
+237,ES,BMW X5,29900.0,128000 ,2017,231 hp,Diesel,Automatic,- (,5.3 
+238,ES,BMW X5,29990.0,101077 ,2015,258 hp,Diesel,Automatic,- (,5.9 
+239,ES,BMW X5,32900.0,119865 ,2016,313 hp,Electric/Gasoline,Automatic,- (,3.3 
+240,ES,BMW X5,33990.0,123318 ,2016,313 hp,Electric/Gasoline,Automatic,- (,3.3 
+241,ES,BMW X5,34500.0,55000 ,2018,258 hp,Diesel,Automatic,- (,5.9 
+242,ES,BMW X5,34900.0,115043 ,2016,313 hp,Electric/Gasoline,Automatic,- (,3.3 
+243,ES,BMW X5,35400.0,131000 ,2014,258 hp,Diesel,Automatic,- (,6.2 
+244,ES,BMW X5,35890.0,95774 ,2015,258 hp,Diesel,Automatic,- (,5.9 
+245,ES,BMW X5,35900.0,52047 ,2017,231 hp,Diesel,Automatic,- (,5.3 
+246,ES,BMW X5,35900.0,131300 ,2017,313 hp,Electric/Gasoline,Automatic,- (,3.3 
+247,ES,BMW X5,37500.0,94669 ,2016,258 hp,Diesel,Automatic,- (,5.9 
+248,ES,BMW X5,37690.0,135498 ,2018,258 hp,Diesel,Automatic,- (,7 
+249,ES,BMW X5,38390.0,94450 ,2018,231 hp,Diesel,Automatic,- (,5.6 
+250,ES,BMW X5,39199.0,101161 ,2016,258 hp,Diesel,Automatic,- (,5.9 
+251,ES,BMW X5,39290.0,98670 ,2018,258 hp,Diesel,Automatic,- (,7 
+252,ES,BMW X5,39790.0,78215 ,2018,313 hp,Diesel,Automatic,- (,- (
+253,ES,BMW X5,39818.0,73839 ,2016,258 hp,Diesel,Automatic,- (,5.9 
+254,ES,BMW X5,43475.0,72812 ,2015,313 hp,Diesel,Automatic,- (,6 
+255,ES,BMW X5,44800.0,117527 ,2018,258 hp,Diesel,Automatic,- (,5.9 
+256,ES,BMW X5,45900.0,67561 ,2018,258 hp,Diesel,Automatic,- (,5.9 
+257,ES,BMW X5,49900.0,59401 ,2018,313 hp,Diesel,Automatic,- (,6 
+258,ES,BMW X5,50900.0,27837 ,2018,258 hp,Diesel,Automatic,- (,5.9 
+259,ES,BMW X5,52194.0,43192 ,2019,258 hp,Diesel,Automatic,- (,5.9 
+260,ES,BMW X5,55500.0,170500 ,2019,265 hp,Diesel,Automatic,- (,6.1 
+261,ES,BMW X5,63990.0,34000 ,2019,265 hp,Diesel,Automatic,- (,6.1 
+262,ES,BMW X5,66900.0,41169 ,2020,265 hp,Diesel,Automatic,- (,6.1 
+263,ES,BMW X5,67299.0,21827 ,2019,265 hp,Diesel,Automatic,- (,6.1 
+264,ES,BMW X5,67500.0,21827 ,2019,265 hp,Diesel,Automatic,- (,6.1 
+265,ES,BMW X5,67500.0,21827 ,2019,265 hp,Diesel,Automatic,- (,6.1 
+266,ES,BMW X5,71999.0,35000 ,2019,340 hp,Gasoline,Automatic,- (,8 
+267,ES,BMW X5,72900.0,41505 ,2020,394 hp,Electric/Gasoline,Automatic,- (,1.7 
+268,ES,BMW X5,73900.0,22900 ,2020,265 hp,Diesel,Automatic,- (,6.2 
+269,ES,BMW X5,78900.0,32564 ,2021,286 hp,Diesel,Automatic,- (,6.6 
+270,ES,BMW X5,87900.0,4100 ,2021,398 hp,Electric/Gasoline,Automatic,- (,1.6 
+271,ES,BMW X5,97900.0,18100 ,2020,400 hp,Diesel,Automatic,- (,6.9 
+272,ES,BMW X5,11500.0,190000 ,2009,286 hp,Diesel,Automatic,- (,8.2 
+273,ES,BMW X5,11990.0,210055 ,2007,355 hp,Gasoline,Automatic,- (,12 
+274,ES,BMW X5,14490.0,256000 ,2010,235 hp,Diesel,Automatic,- (,8.2 
+275,ES,BMW X5,15500.0,178000 ,2008,235 hp,Diesel,Automatic,- (,8.2 
+276,ES,BMW X5,15990.0,160050 ,2009,286 hp,Diesel,Automatic,- (,8.3 
+277,ES,BMW X5,16950.0,125000 ,2008,235 hp,Diesel,Automatic,- (,8.2 
+278,ES,BMW X5,22990.0,178000 ,2011,306 hp,Diesel,Automatic,- (,7.5 
+279,ES,BMW X5,23950.0,298000 ,2015,258 hp,Diesel,Automatic,- (,5.9 
+280,ES,BMW X5,31199.0,111183 ,2015,258 hp,Diesel,Automatic,- (,5.9 
+281,ES,BMW X5,31890.0,99800 ,2015,218 hp,Diesel,Automatic,- (,5.6 
+282,ES,BMW X5,32500.0,119000 ,2016,258 hp,Diesel,Automatic,- (,5.9 
+283,ES,BMW X5,37900.0,149000 ,2016,313 hp,Electric/Gasoline,Automatic,- (,3.3 
+284,ES,BMW X5,39490.0,59000 ,2018,258 hp,Diesel,Automatic,- (,5.9 
+285,ES,BMW X5,39500.0,101161 ,2016,258 hp,Diesel,Automatic,- (,5.9 
+286,ES,BMW X5,39900.0,134500 ,2017,258 hp,Diesel,Automatic,- (,5.9 
+287,ES,BMW X5,39900.0,87000 ,2018,313 hp,Electric/Gasoline,Automatic,- (,3.3 
+288,ES,BMW X5,43990.0,83000 ,2015,381 hp,Diesel,Automatic,- (,6.7 
+289,ES,BMW X5,46900.0,55000 ,2018,258 hp,Diesel,Automatic,- (,5.9 
+290,ES,BMW X5,47900.0,63548 ,2018,306 hp,Gasoline,Automatic,- (,8.5 
+291,ES,BMW X5,57990.0,34000 ,2020,231 hp,Diesel,Automatic,- (,5.8 
+292,ES,BMW X5,78900.0,32564 ,2021,286 hp,Diesel,Automatic,- (,6.6 
+293,,,,,,218 hp,,,,
+294,,,,,,320 hp,,,,
+295,ES,BMW X5,7499.0,257000 ,2005,218 hp,Diesel,Automatic,- (,9.4 
+296,ES,BMW X5,7500.0,244000 ,2004,218 hp,Gasoline,Automatic,- (,13.1 
+297,,,,,,218 hp,,,,
+298,,,,,,218 hp,,,,
+299,ES,BMW X5,9900.0,176666 ,2004,218 hp,Diesel,Automatic,- (,9.4 
+300,ES,BMW X5,9900.0,176666 ,2004,218 hp,Diesel,Automatic,- (,9.4 
+301,ES,BMW X5,9900.0,176666 ,2004,218 hp,Diesel,Automatic,- (,9.4 
+302,ES,BMW X5,9900.0,176666 ,2004,218 hp,Diesel,Automatic,- (,9.4 
+303,ES,BMW X5,9900.0,176666 ,2004,218 hp,Diesel,Automatic,- (,9.4 
+304,ES,BMW X5,9900.0,176666 ,2004,218 hp,Diesel,Automatic,- (,9.4 
+305,ES,BMW X5,9900.0,176666 ,2004,218 hp,Diesel,Automatic,- (,9.4 
+306,ES,BMW X5,9900.0,176666 ,2004,218 hp,Diesel,Automatic,- (,9.4 
+307,ES,BMW X5,9900.0,176666 ,2004,320 hp,Diesel,Automatic,- (,9.4 
+308,ES,BMW X5,9900.0,176666 ,2004,218 hp,Diesel,Automatic,- (,9.4 
+309,ES,BMW X5,9900.0,176666 ,2004,235 hp,Diesel,Automatic,- (,9.4 
+310,ES,BMW X5,9900.0,176666 ,2004,235 hp,Diesel,Automatic,- (,9.4 
+311,,,,,,235 hp,,,,
+312,ES,BMW X5,10990.0,252000 ,2005,245 hp,Gasoline,Automatic,- (,13.1 
+313,ES,BMW X5,11200.0,185000 ,2006,235 hp,Diesel,Automatic,- (,- (
+314,ES,BMW X5,11500.0,262000 ,2008,,Diesel,Automatic,- (,8.1 
+315,ES,BMW X5,11999.0,270000 ,2007,,Diesel,Automatic,- (,8.1 
+316,,,,,,,,,,
+317,,,,,,,,,,
+318,,,,,,,,,,
+319,,,,,,,,,,
+320,ES,BMW X5,16000.0,199000 ,2010,,Diesel,Automatic,- (,8.2 
+321,,,,,,,,,,
+322,,,,,,,,,,
+323,ES,BMW X5,19990.0,185000 ,2011,,Diesel,Automatic,- (,7.4 
+324,ES,BMW X5,19990.0,157000 ,2007,,Diesel,Automatic,- (,8.1 
+325,,,,,,,,,,
+326,IT,BMW X5,4500.0,345000 ,2006,218 hp,Diesel,Automatic,250 ,9.4 
+327,IT,BMW X5,4900.0,237000 ,2005,218 hp,Diesel,Automatic,229 ,8.6 
+328,IT,BMW X5,7990.0,215000 ,2005,218 hp,Diesel,Automatic,250 ,9.4 
+329,IT,BMW X5,9990.0,141615 ,2005,218 hp,Diesel,Automatic,229 ,8.6 
+330,IT,BMW X5,13800.0,169800 ,2007,235 hp,Diesel,Automatic,2 ,8.1 
+331,IT,BMW X5,14470.0,175000 ,2009,235 hp,Diesel,Automatic,217 ,8.2 
+332,IT,BMW X5,18300.0,321401 ,2011,306 hp,Diesel,Automatic,198 ,7.5 
+333,IT,BMW X5,19700.0,53137 ,2011,235 hp,Diesel,Automatic,231 ,8.7 
+334,IT,BMW X5,22900.0,215000 ,2014,258 hp,Diesel,Automatic,- (,7 
+335,IT,BMW X5,26900.0,223233 ,2015,313 hp,Diesel,Automatic,157 ,6 
+336,IT,BMW X5,27900.0,142301 ,2015,231 hp,Diesel,Automatic,139 ,5.3 
+337,IT,BMW X5,29950.0,122900 ,2015,218 hp,Diesel,Automatic,154 ,5.8 
+338,IT,BMW X5,30900.0,118976 ,2017,249 hp,Diesel,Automatic,183 ,7 
+339,IT,BMW X5,31500.0,149000 ,2017,258 hp,Diesel,Automatic,183 ,7 
+340,IT,BMW X5,31500.0,147486 ,2016,231 hp,Diesel,Automatic,146 ,5.6 
+341,IT,BMW X5,31649.0,79357 ,2016,231 hp,Diesel,Automatic,146 ,- (
+342,IT,BMW X5,31790.0,170519 ,2017,249 hp,Diesel,Automatic,183 ,6.9 
+343,IT,BMW X5,33700.0,140000 ,2016,258 hp,Diesel,Automatic,156 ,5.9 
+344,IT,BMW X5,33700.0,94021 ,2017,231 hp,Diesel,Automatic,146 ,5.6 
+345,IT,BMW X5,34900.0,81550 ,2017,231 hp,Diesel,Automatic,139 ,5.3 
+346,IT,BMW X5,35699.0,64657 ,2016,249 hp,Diesel,Automatic,158 ,- (
+347,IT,BMW X5,35699.0,64657 ,2016,249 hp,Diesel,Automatic,158 ,- (
+348,IT,BMW X5,35699.0,64657 ,2016,249 hp,Diesel,Automatic,158 ,- (
+349,IT,BMW X5,35900.0,156823 ,2017,245 hp,Electric/Gasoline,Automatic,77 ,3.3 
+350,IT,BMW X5,36400.0,97689 ,2017,231 hp,Diesel,Automatic,146 ,5.6 
+351,IT,BMW X5,38700.0,99900 ,2018,231 hp,Diesel,Automatic,146 ,5.6 
+352,IT,BMW X5,38700.0,99900 ,2018,231 hp,Diesel,Automatic,146 ,5.6 
+353,IT,BMW X5,38900.0,149000 ,2017,258 hp,Diesel,Automatic,183 ,7 
+354,IT,BMW X5,38900.0,89680 ,2018,231 hp,Diesel,Automatic,146 ,5.6 
+355,IT,BMW X5,39900.0,90060 ,2017,249 hp,Diesel,Automatic,183 ,6.9 
+356,IT,BMW X5,41490.0,86000 ,2017,249 hp,Diesel,Automatic,156 ,5.9 
+357,IT,BMW X5,42900.0,62000 ,2018,231 hp,Diesel,Automatic,146 ,5.6 
+358,IT,BMW X5,43800.0,40000 ,2017,258 hp,Diesel,Automatic,- (,- (
+359,IT,BMW X5,43900.0,35913 ,2017,231 hp,Diesel,Automatic,146 ,5.6 
+360,IT,BMW X5,43900.0,35913 ,2017,231 hp,Diesel,Automatic,146 ,5.6 
+361,IT,BMW X5,45800.0,37000 ,2017,258 hp,Diesel,Automatic,183 ,7 
+362,IT,BMW X5,45990.0,87466 ,2018,258 hp,Diesel,Automatic,183 ,7 
+363,IT,BMW X5,49500.0,72000 ,2017,381 hp,Diesel,Automatic,177 ,6.7 
+364,IT,BMW X5,52900.0,53900 ,2018,258 hp,Diesel,Automatic,183 ,7 
+365,IT,BMW X5,53900.0,50000 ,2018,258 hp,Diesel,Automatic,183 ,7 
+366,IT,BMW X5,57790.0,102991 ,2019,265 hp,Diesel,Automatic,159 ,6.1 
+367,IT,BMW X5,59790.0,61446 ,2018,265 hp,Diesel,Automatic,159 ,6.1 
+368,IT,BMW X5,59900.0,89000 ,2019,265 hp,Diesel,Automatic,- (,6.1 
+369,IT,BMW X5,61588.0,- ,2022,231 hp,Diesel,Automatic,147 ,6 
+370,IT,BMW X5,61790.0,63648 ,2019,265 hp,Diesel,Automatic,159 ,6.1 
+371,IT,BMW X5,62025.0,- ,2022,231 hp,Diesel,Automatic,147 ,6 
+372,IT,BMW X5,62450.0,60116 ,2020,265 hp,Diesel,Automatic,159 ,6.1 
+373,IT,BMW X5,62790.0,63922 ,2019,265 hp,Diesel,Automatic,159 ,6.1 
+374,IT,BMW X5,62790.0,75047 ,2020,265 hp,Diesel,Automatic,159 ,6.1 
+375,IT,BMW X5,64900.0,58000 ,2019,265 hp,Diesel,Automatic,159 ,6.1 
+376,IT,BMW X5,67000.0,13742 ,2020,231 hp,Diesel,Automatic,147 ,5.6 
+377,IT,BMW X5,69400.0,0 ,,231 hp,,,,
+378,,,,,,286 hp,,,,
+379,,,,,,,,,,
+380,,,,,,,,,,
+381,,,,,,,,,,
+382,,,,,2001,,Gasoline,Automatic,- (,- (
+383,IT,BMW X5,7800.0,148000 ,,,,,,
+384,,,,,,,,,,
+385,,,,,,,,,,
+386,,,,,,,,,,
+387,,,,,,,,,,
+388,,,,,,,,,,
+389,,,,,2009,,Diesel,Automatic,220 ,- (
+390,IT,BMW X5,12000.0,200000 ,,,,,,
+391,,,,,,,,,,
+392,,,,,,,,,,
+393,,,,,,,,,,
+394,,,,,,,,,,
+395,BE,BMW X5,15995.0,121644 ,2009,211 hp,Diesel,Automatic,214 ,- (
+396,BE,BMW X5,25999.0,195281 ,2015,211 hp,Diesel,Automatic,154 ,5.8 
+397,BE,BMW X5,27990.0,141988 ,2014,218 hp,Diesel,Automatic,151 ,5.7 
+398,BE,BMW X5,35990.0,102770 ,2016,231 hp,Diesel,Automatic,139 ,- (
+399,BE,BMW X5,36995.0,52056 ,2016,258 hp,Diesel,Automatic,156 ,5.9 
+400,BE,BMW X5,36995.0,52056 ,2016,258 hp,Diesel,Automatic,156 ,5.9 
+401,BE,BMW X5,38990.0,120260 ,2016,245 hp,Electric/Gasoline,Automatic,77 ,- (
+402,BE,BMW X5,65998.0,92709 ,2019,261 hp,Diesel,Automatic,162 ,8.4 
+403,BE,BMW X5,74990.0,32183 ,2020,265 hp,Diesel,Automatic,159 ,6.1 
+404,BE,BMW X5,79850.0,18455 ,2021,286 hp,Diesel,Automatic,163 ,- (
+405,BE,BMW X5,79900.0,27998 ,2021,286 hp,Diesel,Automatic,151 ,- (
+406,BE,BMW X5,81650.0,13200 ,2021,231 hp,Diesel,Automatic,156 ,- (
+407,BE,BMW X5,82850.0,87215 ,2020,394 hp,Electric/Gasoline,Automatic,41 ,- (
+408,BE,BMW X5,86800.0,46288 ,2019,394 hp,Electric/Gasoline,Automatic,41 ,- (
+409,BE,BMW X5,88600.0,13580 ,2021,340 hp,Diesel,Automatic,166 ,- (
+410,BE,BMW X5,88650.0,23788 ,2021,340 hp,Diesel,Automatic,166 ,- (
+411,BE,BMW X5,88650.0,21988 ,2021,340 hp,Diesel,Automatic,166 ,- (
+412,BE,BMW X5,88700.0,14699 ,2020,340 hp,Diesel,Automatic,157 ,- (
+413,BE,BMW X5,88850.0,13896 ,2021,340 hp,Diesel,Automatic,166 ,- (
+414,BE,BMW X5,88900.0,24966 ,2021,340 hp,Diesel,Automatic,166 ,- (
+415,BE,BMW X5,88900.0,19800 ,2021,340 hp,Diesel,Automatic,166 ,- (
+416,BE,BMW X5,89600.0,22400 ,2021,340 hp,Diesel,Automatic,166 ,- (
+417,BE,BMW X5,96900.0,4000 ,2021,394 hp,Electric/Gasoline,Automatic,37 ,1.6 
+418,BE,BMW X5,99755.0,1 ,,258 hp,,,,
+419,,,,,2014,211 hp,Diesel,Automatic,162 ,- (
+420,BE,BMW X5,29999.0,130000 ,2017,211 hp,Electric/Gasoline,Automatic,77 ,3.3 
+421,BE,BMW X5,36990.0,108017 ,2018,218 hp,Diesel,Automatic,141 ,- (
+422,BE,BMW X5,37980.0,81800 ,2015,258 hp,Diesel,Automatic,151 ,- (
+423,BE,BMW X5,37990.0,61621 ,2015,258 hp,Diesel,Automatic,158 ,6.9 
+424,BE,BMW X5,38990.0,90000 ,2017,258 hp,Diesel,Automatic,183 ,6.9 
+425,BE,BMW X5,39900.0,71000 ,2018,258 hp,Diesel,Automatic,183 ,6.9 
+426,BE,BMW X5,42450.0,112000 ,2018,265 hp,Diesel,Automatic,183 ,7 
+427,BE,BMW X5,51999.0,57700 ,2019,265 hp,Diesel,Automatic,162 ,- (
+428,BE,BMW X5,67995.0,40583 ,2019,265 hp,Diesel,Automatic,162 ,- (
+429,BE,BMW X5,68499.0,96830 ,2020,265 hp,Diesel,Automatic,162 ,6.2 
+430,BE,BMW X5,69950.0,50000 ,2019,286 hp,Diesel,Automatic,162 ,6.2 
+431,BE,BMW X5,79900.0,51404 ,2019,286 hp,Electric/Gasoline,Automatic,28 ,- (
+432,BE,BMW X5,79900.0,59900 ,2021,265 hp,Diesel,Automatic,150 ,5.7 
+433,BE,BMW X5,79900.0,24900 ,2020,286 hp,Diesel,Automatic,159 ,- (
+434,BE,BMW X5,84900.0,9395 ,2020,286 hp,Electric/Gasoline,Automatic,41 ,- (
+435,BE,BMW X5,87900.0,48798 ,2020,394 hp,Electric/Gasoline,Automatic,30 ,1.6 
+436,BE,BMW X5,89540.0,13000 ,2021,394 hp,Electric/Gasoline,Automatic,41 ,- (
+437,BE,BMW X5,91718.0,8500 ,2020,394 hp,Electric/Gasoline,Automatic,31 ,- (
+438,BE,BMW X5,93950.0,17525 ,2020,394 hp,Electric/Gasoline,Automatic,29 ,1.6 
+439,BE,BMW X5,94900.0,26528 ,2021,286 hp,Electric/Gasoline,Automatic,37 ,- (
+440,BE,BMW X5,97900.0,14569 ,2021,394 hp,Electric/Gasoline,Automatic,37 ,1.6 
+441,BE,BMW X5,98999.0,6000 ,2020,394 hp,Electric/Gasoline,Automatic,37 ,1.6 
+442,BE,BMW X5,99900.0,18380 ,2021,286 hp,Electric/Gasoline,Automatic,40 ,- (
+443,BE,BMW X5,101990.0,11659 ,2022,394 hp,Electric/Gasoline,Automatic,31 ,1.6 
+444,BE,BMW X5,106900.0,999 ,2022,394 hp,Electric/Gasoline,Automatic,37 ,- (
+445,BE,BMW X5,109900.0,10 ,2021,394 hp,Electric/Gasoline,Automatic,29 ,1.6 
+446,BE,BMW X5,109900.0,11722 ,2021,394 hp,Electric/Gasoline,Automatic,29 ,1.6 
+447,BE,BMW X5,109900.0,14042 ,2022,211 hp,Electric/Gasoline,Automatic,29 ,1.6 
+448,BE,BMW X5,113900.0,10 ,2014,211 hp,Diesel,Automatic,154 ,5.8 
+449,BE,BMW X5,25000.0,172472 ,2017,245 hp,Diesel,Automatic,139 ,- (
+450,BE,BMW X5,31500.0,129000 ,2016,231 hp,Electric/Gasoline,Automatic,77 ,3.3 
+451,BE,BMW X5,38900.0,95472 ,2019,394 hp,Diesel,Automatic,152 ,5.6 
+452,BE,BMW X5,64950.0,51500 ,2019,394 hp,Electric/Gasoline,Automatic,31 ,- (
+453,BE,BMW X5,82900.0,49120 ,2020,394 hp,Electric/Gasoline,Automatic,41 ,1.8 
+454,BE,BMW X5,89995.0,51635 ,2021,394 hp,Electric/Gasoline,Automatic,37 ,- (
+455,BE,BMW X5,102995.0,11515 ,2021,235 hp,Electric/Gasoline,Automatic,29 ,1.6 
+456,BE,BMW X5,104900.0,10371 ,,211 hp,,,,
+457,BE,BMW X5,149999.0,0 ,,286 hp,,,,
+458,,,,,2009,258 hp,Diesel,Automatic,- (,8.2 
+459,,,,,2012,211 hp,Diesel,Automatic,195 ,7.4 
+460,BE,BMW X5,10490.0,206000 ,,262 hp,,,,
+461,BE,BMW X5,10900.0,329000 ,2008,218 hp,Diesel,Automatic,220 ,8.2 
+462,,,,,,258 hp,,,,
+463,BE,BMW X5,12999.0,250000 ,,231 hp,,,,
+464,,,,,,211 hp,,,,
+465,,,,,,211 hp,,,,
+466,,,,,2014,211 hp,Diesel,Automatic,- (,6.9 
+467,,,,,2014,258 hp,Diesel,Automatic,149 ,5.6 
+468,BE,BMW X5,22990.0,146000 ,,218 hp,,,,
+469,BE,BMW X5,23950.0,168000 ,,,,,,
+470,,,,,,,,,,
+471,,,,,2014,,Diesel,Automatic,- (,- (
+472,,,,,2014,,Diesel,Automatic,154 ,5.8 
+473,BE,BMW X5,28499.0,100000 ,2014,,Diesel,Automatic,162 ,6.9 
+474,BE,BMW X5,28500.0,100000 ,2017,,Diesel,Automatic,139 ,5.3 
+475,BE,BMW X5,28500.0,139897 ,2015,,Diesel,Automatic,149 ,5.6 
+476,BE,BMW X5,28900.0,158178 ,2015,,Diesel,Automatic,139 ,5.3 
+477,BE,BMW X5,28900.0,119000 ,2015,,Diesel,Automatic,141 ,5.6 
+478,BE,BMW X5,29200.0,119800 ,2015,,Diesel,Automatic,158 ,6.9 
+479,BE,BMW X5,29500.0,138000 ,,,,,,
+480,BE,BMW X5,29900.0,179000 ,,,,,,
+481,,,,,2015,,Diesel,Automatic,149 ,5.6 
+482,,,,,,,,,,
+483,BE,BMW X5,31950.0,116929 ,,,,,,
+484,,,,,,,,,,
+485,,,,,,,,,,
+486,NL,BMW X5,5950.0,271482 ,2001,231 hp,Gasoline,Automatic,- (,- (
+487,,,,,,362 hp,,,,
+488,NL,BMW X5,20999.0,106432 ,2004,306 hp,Gasoline,Automatic,336 ,13.5 
+489,NL,BMW X5,22750.0,194784 ,2013,408 hp,Diesel,Automatic,198 ,7.5 
+490,NL,BMW X5,24450.0,151957 ,2011,306 hp,Gasoline,Automatic,292 ,- (
+491,NL,BMW X5,24940.0,163931 ,2013,408 hp,Gasoline,Automatic,236 ,10.1 
+492,NL,BMW X5,24950.0,166631 ,2010,211 hp,Gasoline,Automatic,292 ,12.5 
+493,NL,BMW X5,25944.0,225474 ,2015,258 hp,Diesel,Automatic,0 ,5.3 
+494,NL,BMW X5,28750.0,208489 ,2016,- hp,Diesel,Automatic,156 ,5.9 
+495,NL,BMW X5,28900.0,220425 ,2015,232 hp,Electric/Gasoline,Automatic,0 ,3.3 
+496,NL,BMW X5,28944.0,178105 ,2016,245 hp,Diesel,Automatic,0 ,5.6 
+497,NL,BMW X5,30795.0,139334 ,2015,313 hp,Electric/Gasoline,Automatic,77 ,0 
+498,NL,BMW X5,31224.0,179158 ,2014,218 hp,Diesel,Automatic,166 ,6.3 
+499,NL,BMW X5,31450.0,127329 ,2015,313 hp,Diesel,Automatic,154 ,5.8 
+500,NL,BMW X5,31945.0,168346 ,2014,- hp,Diesel,Automatic,164 ,6.2 
+501,NL,BMW X5,31950.0,194245 ,2015,313 hp,Electric/Gasoline,Automatic,0 ,3.3 
+502,NL,BMW X5,31950.0,296596 ,2016,258 hp,Diesel,Automatic,157 ,6 
+503,NL,BMW X5,32900.0,136341 ,2016,313 hp,Diesel,Automatic,156 ,5.9 
+504,NL,BMW X5,33950.0,187900 ,2015,381 hp,Diesel,Automatic,157 ,6 
+505,NL,BMW X5,35950.0,193899 ,2014,- hp,Diesel,Automatic,173 ,6.7 
+506,,,,,,245 hp,,,,
+507,NL,BMW X5,37280.0,132247 ,2015,258 hp,Electric/Gasoline,Automatic,0 ,3.3 
+508,NL,BMW X5,37995.0,136691 ,2015,306 hp,Electric/Gasoline,Automatic,78 ,- (
+509,NL,BMW X5,38500.0,95000 ,2015,258 hp,Diesel,Automatic,- (,6.2 
+510,NL,BMW X5,38909.0,84887 ,2015,- hp,Gasoline,Automatic,197 ,8.5 
+511,NL,BMW X5,38950.0,215517 ,2017,- hp,Diesel,Automatic,158 ,6 
+512,NL,BMW X5,39800.0,116782 ,2016,381 hp,Electric/Gasoline,Automatic,0 ,- (
+513,NL,BMW X5,39900.0,56060 ,2017,258 hp,Electric/Gasoline,Automatic,77 ,3.3 
+514,NL,BMW X5,41900.0,152821 ,2014,- hp,Diesel,Automatic,177 ,6.7 
+515,NL,BMW X5,42950.0,115070 ,2016,313 hp,Diesel,Automatic,158 ,- (
+516,NL,BMW X5,43995.0,114192 ,2016,306 hp,Electric/Gasoline,Automatic,78 ,3.3 
+517,NL,BMW X5,44450.0,95602 ,2015,228 hp,Diesel,Automatic,157 ,6 
+518,NL,BMW X5,44950.0,74156 ,2015,313 hp,Gasoline,Automatic,197 ,8.5 
+519,NL,BMW X5,44990.0,42683 ,2017,449 hp,Diesel,Automatic,139 ,- (
+520,NL,BMW X5,46950.0,91379 ,2016,306 hp,Diesel,Automatic,159 ,6 
+521,NL,BMW X5,46950.0,55609 ,2014,313 hp,Gasoline,Automatic,242 ,10.4 
+522,NL,BMW X5,46950.0,90714 ,2015,258 hp,Gasoline,Automatic,199 ,8.5 
+523,NL,BMW X5,49900.0,85995 ,2016,286 hp,Electric/Gasoline,Automatic,78 ,3.3 
+524,NL,BMW X5,49950.0,143148 ,2017,340 hp,Diesel,Automatic,158 ,6 
+525,NL,BMW X5,74950.0,11285 ,2020,340 hp,Diesel,Automatic,0 ,6.6 
+526,NL,BMW X5,77450.0,46524 ,2018,340 hp,Gasoline,Automatic,0 ,10 
+527,NL,BMW X5,78950.0,76988 ,2019,340 hp,Gasoline,Automatic,197 ,8 
+528,NL,BMW X5,92800.0,21980 ,2019,394 hp,Gasoline,Automatic,200 ,8.8 
+529,NL,BMW X5,94945.0,33413 ,2020,- hp,Gasoline,Automatic,190 ,8.4 
+530,NL,BMW X5,97950.0,61793 ,2020,- hp,Electric/Gasoline,Automatic,0 ,1.2 
+531,NL,BMW X5,99800.0,14021 ,2021,394 hp,Electric/Gasoline,Automatic,0 ,1.2 
+532,NL,BMW X5,109900.0,14254 ,2021,286 hp,Electric/Gasoline,Automatic,0 ,- (
+533,NL,BMW X5,113950.0,7705 ,2021,532 hp,Electric/Gasoline,Automatic,0 ,1.2 
+534,NL,BMW X5,124900.0,9542 ,2021,- hp,Diesel,Automatic,164 ,6.6 
+535,NL,BMW X5,124950.0,20603 ,2020,286 hp,Gasoline,Automatic,238 ,11.6 
+536,NL,BMW X5,127347.0,52 ,2022,232 hp,Electric/Gasoline,Automatic,0 ,- (
+537,NL,BMW X5,5450.0,277424 ,2001,232 hp,Gasoline,Automatic,335 ,13.9 
+538,NL,BMW X5,6950.0,275414 ,2004,306 hp,Gasoline,Automatic,312 ,12.9 
+539,NL,BMW X5,9595.0,110969 ,2001,258 hp,Gasoline,Manual,305 ,12.7 
+540,NL,BMW X5,15750.0,225960 ,2010,211 hp,Diesel,Automatic,198 ,- (
+541,NL,BMW X5,44750.0,91782 ,2016,211 hp,Diesel,Automatic,156 ,5.9 
+542,NL,BMW X5,699.0,188525 ,2004,218 hp,Diesel,Automatic,- (,- (
+543,NL,BMW X5,749.0,193208 ,2005,286 hp,Diesel,Automatic,250 ,- (
+544,NL,BMW X5,749.0,152589 ,2004,232 hp,Diesel,Automatic,250 ,- (
+545,NL,BMW X5,3795.0,213805 ,2001,232 hp,Gasoline,Automatic,335 ,- (
+546,NL,BMW X5,3944.0,336211 ,2001,184 hp,Gasoline,Automatic,310 ,12.9 
+547,,,,,,218 hp,,,,
+548,NL,BMW X5,4744.0,289731 ,2001,218 hp,Gasoline,Automatic,310 ,12.9 
+549,,,,,,231 hp,,,,
+550,NL,BMW X5,4995.0,224448 ,2003,232 hp,Diesel,Automatic,259 ,9.7 
+551,NL,BMW X5,4999.0,352000 ,2005,286 hp,Diesel,Automatic,250 ,- (
+552,,,,,,286 hp,,,,
+553,,,,,,286 hp,,,,
+554,NL,BMW X5,5950.0,392875 ,2004,320 hp,Diesel,Manual,229 ,8.6 
+555,,,,,,232 hp,,,,
+556,NL,BMW X5,6944.0,186655 ,2003,286 hp,Gasoline,Manual,305 ,12.7 
+557,NL,BMW X5,6950.0,289765 ,2002,231 hp,Gasoline,Automatic,310 ,12.9 
+558,NL,BMW X5,6950.0,228552 ,2001,286 hp,Gasoline,Automatic,335 ,- (
+559,NL,BMW X5,6950.0,223985 ,2000,231 hp,Gasoline,Automatic,335 ,- (
+560,NL,BMW X5,6950.0,223985 ,2000,231 hp,Gasoline,Automatic,335 ,13.9 
+561,NL,BMW X5,6995.0,214552 ,2003,347 hp,Gasoline,Automatic,317 ,- (
+562,,,,,,286 hp,,,,
+563,NL,BMW X5,7900.0,253597 ,2001,211 hp,LPG,Manual,305 ,12.7 
+564,NL,BMW X5,7950.0,212710 ,2001,231 hp,Gasoline,Automatic,335 ,- (
+565,,,,,,218 hp,,,,
+566,,,,,,,,,,
+567,NL,BMW X5,9950.0,233362 ,2005,,Gasoline,Automatic,312 ,- (
+568,NL,BMW X5,9950.0,245488 ,2009,,Diesel,Automatic,216 ,- (
+569,NL,BMW X5,9950.0,125481 ,2003,,Gasoline,Automatic,310 ,- (
+570,NL,BMW X5,9950.0,168950 ,2001,,Gasoline,Manual,305 ,12.7 
+571,NL,BMW X5,9950.0,248617 ,2002,,Gasoline,Automatic,356 ,14.9 
+572,NL,BMW X5,9950.0,199415 ,2000,,Gasoline,Automatic,- (,0 
+573,NL,BMW X5,9995.0,188525 ,2004,,Diesel,Automatic,- (,- (
+574,NL,BMW X5,9999.0,199979 ,2001,,Gasoline,Automatic,310 ,12.9 
+575,,,,,,,,,,
+576,,,,,,,,,,
+577,,,,,,,,,,
+578,NL,BMW X5,12995.0,152589 ,2004,,Diesel,Automatic,250 ,9.4 
+579,,,,,,,,,,
+580,,,,,,,,,,
+581,DE,Porsche Cayenne,8950.0,314782 ,2008,385 hp,Gasoline,Automatic,329 ,13.7 
+582,DE,Porsche Cayenne,13470.0,100000 ,2007,385 hp,Gasoline,Automatic,329 ,13.7 
+583,DE,Porsche Cayenne,16999.0,61905 ,2006,250 hp,Gasoline,Automatic,324 ,13.5 
+584,DE,Porsche Cayenne,19870.0,215808 ,2009,500 hp,Gasoline,Automatic,358 ,14.9 
+585,DE,Porsche Cayenne,19900.0,188094 ,2009,405 hp,Gasoline,Automatic,332 ,13.9 
+586,DE,Porsche Cayenne,24990.0,200000 ,2012,400 hp,Gasoline,Automatic,245 ,10.5 
+587,DE,Porsche Cayenne,26900.0,97500 ,2010,299 hp,Gasoline,Automatic,235 ,9.9 
+588,DE,Porsche Cayenne,31860.0,123710 ,2012,400 hp,Gasoline,Automatic,248 ,10.5 
+589,DE,Porsche Cayenne,36820.0,197361 ,2014,420 hp,Gasoline,Automatic,225 ,9.5 
+590,DE,Porsche Cayenne,38880.0,40000 ,2013,245 hp,Diesel,Automatic,189 ,7.2 
+591,DE,Porsche Cayenne,42999.0,158879 ,2017,262 hp,Diesel,Automatic,173 ,6.6 
+592,DE,Porsche Cayenne,47689.0,78000 ,2016,262 hp,Diesel,Automatic,179 ,6.8 
+593,DE,Porsche Cayenne,49830.0,100000 ,2015,519 hp,Gasoline,Automatic,265 ,11.2 
+594,DE,Porsche Cayenne,57480.0,137612 ,2017,385 hp,Diesel,Automatic,209 ,8.2 
+595,DE,Porsche Cayenne,57990.0,86100 ,2017,262 hp,Diesel,Automatic,179 ,- (
+596,DE,Porsche Cayenne,59780.0,70000 ,2018,262 hp,Diesel,Automatic,179 ,6.8 
+597,DE,Porsche Cayenne,59900.0,98328 ,2016,385 hp,Diesel,Automatic,215 ,8.2 
+598,DE,Porsche Cayenne,65999.0,71000 ,2018,340 hp,Gasoline,Automatic,205 ,9 
+599,DE,Porsche Cayenne,69900.0,66158 ,2017,441 hp,Gasoline,Automatic,237 ,10 
+600,DE,Porsche Cayenne,74999.0,39000 ,2019,340 hp,Gasoline,Automatic,207 ,9.1 
+601,DE,Porsche Cayenne,77500.0,42178 ,2019,340 hp,Gasoline,Automatic,210 ,9.2 
+602,DE,Porsche Cayenne,89899.0,56000 ,2019,340 hp,Gasoline,Automatic,212 ,9.3 
+603,DE,Porsche Cayenne,99900.0,12197 ,2020,340 hp,Gasoline,Automatic,215 ,9.4 
+604,DE,Porsche Cayenne,103670.0,0 ,,441 hp,,,,
+605,,,,,2020,340 hp,Gasoline,Automatic,215 ,9.4 
+606,DE,Porsche Cayenne,114900.0,4256 ,2021,340 hp,Gasoline,Automatic,214 ,9.4 
+607,DE,Porsche Cayenne,114940.0,14780 ,2020,549 hp,Gasoline,Automatic,210 ,9.2 
+608,DE,Porsche Cayenne,115880.0,13418 ,,460 hp,,,,
+609,DE,Porsche Cayenne,116900.0,5 ,2019,460 hp,Gasoline,Automatic,258 ,11.3 
+610,,,,,2021,441 hp,Gasoline,Automatic,256 ,11.2 
+611,DE,Porsche Cayenne,125900.0,17539 ,2021,549 hp,Gasoline,Automatic,255 ,11.2 
+612,DE,Porsche Cayenne,126950.0,21788 ,2021,462 hp,Gasoline,Automatic,225 ,9.9 
+613,DE,Porsche Cayenne,126990.0,28900 ,2019,549 hp,Gasoline,Automatic,258 ,11.3 
+614,DE,Porsche Cayenne,130900.0,4900 ,2021,549 hp,Electric/Gasoline,Automatic,60 ,2.6 
+615,DE,Porsche Cayenne,131800.0,8186 ,2019,250 hp,Gasoline,Automatic,261 ,11.4 
+616,DE,Porsche Cayenne,132900.0,6793 ,2020,385 hp,Gasoline,Automatic,- (,- (
+617,DE,Porsche Cayenne,137900.0,20169 ,,245 hp,,,,
+618,DE,Porsche Cayenne,149980.0,6634 ,2004,441 hp,Gasoline,Automatic,324 ,13.5 
+619,DE,Porsche Cayenne,166013.0,0 ,2010,441 hp,Gasoline,Automatic,329 ,13.7 
+620,,,,,2011,462 hp,Diesel,Automatic,189 ,7.2 
+621,DE,Porsche Cayenne,5900.0,177000 ,,462 hp,,,,
+622,DE,Porsche Cayenne,18999.0,135478 ,,462 hp,,,,
+623,DE,Porsche Cayenne,23990.0,199999 ,2019,462 hp,Gasoline,Automatic,216 ,9.4 
+624,,,,,2019,462 hp,Gasoline,Automatic,216 ,9.4 
+625,,,,,2021,462 hp,Electric/Gasoline,Automatic,56 ,2.4 
+626,DE,Porsche Cayenne,102990.0,25871 ,2021,462 hp,Electric/Gasoline,Automatic,74 ,3.1 
+627,DE,Porsche Cayenne,106950.0,18000 ,2020,462 hp,Electric/Gasoline,Automatic,72 ,3.1 
+628,DE,Porsche Cayenne,112850.0,3400 ,2021,462 hp,Electric/Gasoline,Automatic,60 ,2.6 
+629,DE,Porsche Cayenne,113900.0,14800 ,2021,462 hp,Electric/Gasoline,Automatic,56 ,2.4 
+630,DE,Porsche Cayenne,115500.0,17000 ,2019,462 hp,Electric/Gasoline,Automatic,72 ,3.1 
+631,DE,Porsche Cayenne,116850.0,13980 ,2020,400 hp,Electric/Gasoline,Automatic,72 ,3.1 
+632,DE,Porsche Cayenne,119900.0,9900 ,2021,245 hp,Electric/Gasoline,Automatic,60 ,2.6 
+633,DE,Porsche Cayenne,119900.0,35000 ,2021,382 hp,Electric/Gasoline,Automatic,60 ,2.6 
+634,DE,Porsche Cayenne,124500.0,21000 ,2021,245 hp,Electric/Gasoline,Automatic,60 ,2.6 
+635,DE,Porsche Cayenne,127450.0,7800 ,2021,262 hp,Electric/Gasoline,Automatic,60 ,2.6 
+636,DE,Porsche Cayenne,128850.0,7100 ,2011,382 hp,Gasoline,Automatic,249 ,10.5 
+637,DE,Porsche Cayenne,129900.0,13000 ,2014,262 hp,Diesel,Automatic,191 ,7.2 
+638,DE,Porsche Cayenne,138500.0,7800 ,,385 hp,,,,
+639,DE,Porsche Cayenne,20900.0,194000 ,2014,385 hp,Diesel,Automatic,218 ,8.3 
+640,DE,Porsche Cayenne,26490.0,235000 ,2014,420 hp,Diesel,Automatic,191 ,7.2 
+641,,,,,2015,420 hp,Diesel,Automatic,180 ,6.8 
+642,DE,Porsche Cayenne,37590.0,215000 ,2013,340 hp,Diesel,Automatic,220 ,8.3 
+643,DE,Porsche Cayenne,42900.0,78000 ,2015,441 hp,Diesel,Automatic,180 ,6.8 
+644,DE,Porsche Cayenne,44200.0,108628 ,2017,340 hp,Diesel,Automatic,215 ,8.2 
+645,DE,Porsche Cayenne,45385.0,121655 ,2015,340 hp,Diesel,Automatic,212 ,8 
+646,DE,Porsche Cayenne,49900.0,104200 ,2017,549 hp,Gasoline,Automatic,229 ,9.8 
+647,DE,Porsche Cayenne,50000.0,150000 ,2016,340 hp,Gasoline,Automatic,225 ,9.5 
+648,DE,Porsche Cayenne,54850.0,118137 ,2017,340 hp,Gasoline,Automatic,205 ,9 
+649,DE,Porsche Cayenne,59500.0,38500 ,2018,441 hp,Gasoline,Automatic,209 ,9.2 
+650,DE,Porsche Cayenne,59900.0,56500 ,2018,549 hp,Gasoline,Automatic,205 ,9 
+651,DE,Porsche Cayenne,66990.0,71588 ,2020,462 hp,Gasoline,Automatic,212 ,9.3 
+652,DE,Porsche Cayenne,75999.0,39100 ,2018,549 hp,Gasoline,Automatic,261 ,- (
+653,DE,Porsche Cayenne,76990.0,52860 ,2020,450 hp,Gasoline,Automatic,212 ,9.3 
+654,DE,Porsche Cayenne,93800.0,35000 ,2020,340 hp,Gasoline,Automatic,212 ,9.3 
+655,DE,Porsche Cayenne,95600.0,100000 ,2020,250 hp,Gasoline,Automatic,215 ,9.4 
+656,DE,Porsche Cayenne,108500.0,29999 ,2019,340 hp,Gasoline,Automatic,258 ,11.3 
+657,DE,Porsche Cayenne,108500.0,29999 ,2020,250 hp,Electric/Gasoline,Automatic,60 ,2.6 
+658,DE,Porsche Cayenne,108900.0,21500 ,2019,340 hp,Gasoline,Automatic,258 ,11.3 
+659,DE,Porsche Cayenne,108900.0,12450 ,,340 hp,,,,
+660,DE,Porsche Cayenne,116900.0,18600 ,2004,239 hp,Gasoline,Automatic,378 ,15.7 
+661,DE,Porsche Cayenne,118000.0,28280 ,2003,250 hp,Gasoline,Automatic,- (,- (
+662,DE,Porsche Cayenne,499800.0,0 ,,340 hp,,,,
+663,,,,,2003,250 hp,Gasoline,Automatic,324 ,13.5 
+664,DE,Porsche Cayenne,5990.0,158000 ,2006,,Gasoline,Automatic,- (,- (
+665,DE,Porsche Cayenne,5999.0,215000 ,2005,,Gasoline,Automatic,320 ,13.2 
+666,,,,,,,,,,
+667,DE,Porsche Cayenne,6990.0,224000 ,,,,,,
+668,DE,Porsche Cayenne,6990.0,194600 ,2005,,Gasoline,Automatic,380 ,15.8 
+669,DE,Porsche Cayenne,6999.0,207000 ,2005,,LPG,Automatic,361 ,14.9 
+670,,,,,2009,,Diesel,Automatic,244 ,9.3 
+671,,,,,2005,,Gasoline,Automatic,320 ,13.2 
+672,DE,Porsche Cayenne,8450.0,198820 ,,,,,,
+673,DE,Porsche Cayenne,8480.0,297100 ,,,,,,
+674,DE,Porsche Cayenne,8499.0,280000 ,,,,,,
+675,DE,Porsche Cayenne,8499.0,189000 ,,,,,,
+676,,,,,2004,,Gasoline,Automatic,361 ,14.9 
+677,,,,,2005,,Gasoline,Automatic,324 ,13.5 
+678,,,,,,,,,,
+679,,,,,,,,,,
+680,DE,Porsche Cayenne,9980.0,175000 ,,,,,,
+681,DE,Porsche Cayenne,9990.0,160024 ,,,,,,
+682,,,,,,,,,,
+683,FR,Porsche Cayenne,13990.0,181000 ,2007,340 hp,Gasoline,Automatic,361 ,- (
+684,FR,Porsche Cayenne,17500.0,105000 ,2010,299 hp,Gasoline,Automatic,236 ,9.9 
+685,FR,Porsche Cayenne,17990.0,162000 ,2009,405 hp,Gasoline,Automatic,361 ,15.1 
+686,FR,Porsche Cayenne,38800.0,127215 ,2015,266 hp,Diesel,Semi-automatic,173 ,- (
+687,FR,Porsche Cayenne,40900.0,78000 ,2014,245 hp,Diesel,Automatic,189 ,7.2 
+688,FR,Porsche Cayenne,42800.0,114380 ,2014,382 hp,Diesel,Automatic,218 ,8.3 
+689,FR,Porsche Cayenne,43900.0,131873 ,2015,385 hp,Diesel,Automatic,209 ,8 
+690,FR,Porsche Cayenne,47990.0,99900 ,2015,385 hp,Diesel,Automatic,209 ,- (
+691,FR,Porsche Cayenne,57590.0,75000 ,2017,262 hp,Diesel,Automatic,- (,- (
+692,FR,Porsche Cayenne,58890.0,91950 ,2017,333 hp,Electric/Gasoline,Automatic,79 ,3 
+693,FR,Porsche Cayenne,59990.0,66700 ,2017,385 hp,Diesel,Automatic,215 ,8.2 
+694,FR,Porsche Cayenne,71999.0,95989 ,2017,446 hp,Gasoline,Automatic,234 ,- (
+695,FR,Porsche Cayenne,84900.0,19500 ,2018,420 hp,Electric/Gasoline,- (Gearing Type),- (,- (
+696,FR,Porsche Cayenne,86388.0,86200 ,2018,340 hp,Electric/Gasoline,Automatic,- (,- (
+697,FR,Porsche Cayenne,92900.0,50000 ,2019,462 hp,Electric/Gasoline,Automatic,- (,- (
+698,FR,Porsche Cayenne,93400.0,- ,,578 hp,,,,
+699,,,,,2016,345 hp,Gasoline,Automatic,- (,- (
+700,FR,Porsche Cayenne,114990.0,3744 ,2020,- hp,Electric/Gasoline,Semi-automatic,75 ,- (
+701,FR,Porsche Cayenne,116990.0,18500 ,2020,680 hp,Others,Automatic,71 ,- (
+702,FR,Porsche Cayenne,125900.0,17300 ,2020,450 hp,Electric/Gasoline,Automatic,- (,- (
+703,FR,Porsche Cayenne,184900.0,10500 ,,250 hp,,,,
+704,FR,Porsche Cayenne,198200.0,- ,,385 hp,,,,
+705,,,,,2004,521 hp,Gasoline,Automatic,- (,- (
+706,,,,,2005,521 hp,Gasoline,Automatic,324 ,13.5 
+707,FR,Porsche Cayenne,13490.0,136448 ,2003,290 hp,Gasoline,Automatic,- (,- (
+708,FR,Porsche Cayenne,13490.0,140112 ,2007,290 hp,Gasoline,Automatic,- (,- (
+709,FR,Porsche Cayenne,13790.0,156215 ,2007,250 hp,Gasoline,Automatic,- (,- (
+710,FR,Porsche Cayenne,13990.0,167000 ,2007,254 hp,Gasoline,Automatic,- (,- (
+711,FR,Porsche Cayenne,13990.0,167000 ,2007,250 hp,Gasoline,Automatic,- (,- (
+712,FR,Porsche Cayenne,13990.0,182000 ,2006,450 hp,Gasoline,Automatic,324 ,13.5 
+713,FR,Porsche Cayenne,13990.0,182000 ,2004,333 hp,Gasoline,Semi-automatic,324 ,- (
+714,FR,Porsche Cayenne,13990.0,170000 ,2005,400 hp,Gasoline,Automatic,324 ,13.5 
+715,FR,Porsche Cayenne,14490.0,102508 ,,500 hp,,,,
+716,FR,Porsche Cayenne,14990.0,119000 ,2005,333 hp,Gasoline,Automatic,378 ,15.7 
+717,,,,,,- hp,,,,
+718,FR,Porsche Cayenne,19880.0,124200 ,,211 hp,,,,
+719,,,,,,500 hp,,,,
+720,,,,,2011,249 hp,Others,Automatic,193 ,8.2 
+721,,,,,2012,,Gasoline,Automatic,245 ,10.5 
+722,FR,Porsche Cayenne,29958.0,164000 ,2010,,Gasoline,Automatic,270 ,11.5 
+723,FR,Porsche Cayenne,29990.0,145500 ,,,,,,
+724,FR,Porsche Cayenne,29990.0,173500 ,2011,,Electric/Gasoline,Automatic,193 ,8.2 
+725,,,,,2010,,Diesel,- (Gearing Type),195 ,- (
+726,FR,Porsche Cayenne,33990.0,190000 ,2016,,Diesel,Automatic,- (,6.6 
+727,FR,Porsche Cayenne,33990.0,162000 ,2007,,Gasoline,Automatic,358 ,14.9 
+728,FR,Porsche Cayenne,34500.0,234000 ,2011,,Diesel,Automatic,- (,- (
+729,FR,Porsche Cayenne,34900.0,121000 ,,,,,,
+730,FR,Porsche Cayenne,34990.0,171900 ,,,,,,
+731,,,,,,,,,,
+732,ES,Porsche Cayenne,5999.0,200000 ,2004,340 hp,Gasoline,Automatic,- (,- (
+733,ES,Porsche Cayenne,8100.0,270000 ,2003,340 hp,Gasoline,Automatic,- (,- (
+734,ES,Porsche Cayenne,8998.0,147000 ,2004,340 hp,Gasoline,Automatic,- (,- (
+735,ES,Porsche Cayenne,9995.0,146000 ,2005,250 hp,Gasoline,Manual,- (,13.2 
+736,ES,Porsche Cayenne,13990.0,243000 ,2008,385 hp,Gasoline,Automatic,- (,13.7 
+737,ES,Porsche Cayenne,15500.0,160000 ,2007,340 hp,Gasoline,Automatic,- (,- (
+738,ES,Porsche Cayenne,17500.0,181000 ,2007,385 hp,Gasoline,Manual,- (,13.7 
+739,ES,Porsche Cayenne,18700.0,158000 ,2006,500 hp,Gasoline,Automatic,- (,- (
+740,ES,Porsche Cayenne,18995.0,55000 ,2008,405 hp,Gasoline,Automatic,- (,- (
+741,ES,Porsche Cayenne,19990.0,254900 ,2010,379 hp,Electric/Gasoline,Automatic,- (,8.2 
+742,ES,Porsche Cayenne,21800.0,208126 ,2008,405 hp,Gasoline,Automatic,- (,- (
+743,ES,Porsche Cayenne,25000.0,229000 ,2010,239 hp,Diesel,Automatic,- (,7.4 
+744,ES,Porsche Cayenne,30490.0,196000 ,2010,500 hp,Gasoline,Automatic,- (,- (
+745,ES,Porsche Cayenne,33990.0,139000 ,2015,262 hp,Diesel,Automatic,- (,6.6 
+746,ES,Porsche Cayenne,35900.0,94900 ,2013,400 hp,Gasoline,Automatic,- (,10.5 
+747,ES,Porsche Cayenne,35990.0,130000 ,2014,245 hp,Diesel,Automatic,- (,7.2 
+748,ES,Porsche Cayenne,36500.0,110000 ,2014,245 hp,Diesel,Automatic,- (,7.2 
+749,ES,Porsche Cayenne,38950.0,66771 ,2013,239 hp,Diesel,Automatic,- (,7.4 
+750,ES,Porsche Cayenne,39900.0,169625 ,2014,551 hp,Gasoline,Automatic,- (,11.5 
+751,ES,Porsche Cayenne,41900.0,110000 ,2015,262 hp,Diesel,Automatic,- (,- (
+752,ES,Porsche Cayenne,44800.0,136500 ,2015,519 hp,Gasoline,Automatic,- (,11.2 
+753,ES,Porsche Cayenne,45290.0,59101 ,2017,262 hp,Diesel,Automatic,- (,6.6 
+754,ES,Porsche Cayenne,49899.0,94208 ,2016,262 hp,Diesel,Automatic,- (,6.6 
+755,ES,Porsche Cayenne,49900.0,94208 ,2016,262 hp,Diesel,Automatic,- (,6.6 
+756,ES,Porsche Cayenne,49900.0,73000 ,2016,262 hp,Diesel,Automatic,- (,6.6 
+757,ES,Porsche Cayenne,51400.0,40000 ,2016,262 hp,Diesel,Automatic,- (,6.6 
+758,ES,Porsche Cayenne,52900.0,155000 ,2014,420 hp,Gasoline,Automatic,- (,10.7 
+759,ES,Porsche Cayenne,53990.0,78500 ,2015,416 hp,Electric/Gasoline,Automatic,- (,3.4 
+760,ES,Porsche Cayenne,54990.0,107000 ,2017,416 hp,Electric/Gasoline,Automatic,- (,3.4 
+761,ES,Porsche Cayenne,56000.0,60800 ,2018,262 hp,Diesel,Automatic,- (,6.6 
+762,ES,Porsche Cayenne,66990.0,80772 ,2016,441 hp,Gasoline,Automatic,- (,9.8 
+763,ES,Porsche Cayenne,71000.0,50000 ,2018,441 hp,Gasoline,Automatic,- (,9.4 
+764,ES,Porsche Cayenne,89000.0,83000 ,2018,462 hp,Electric/Gasoline,Automatic,- (,- (
+765,ES,Porsche Cayenne,92900.0,45200 ,2019,462 hp,Electric/Gasoline,Automatic,- (,3.2 
+766,ES,Porsche Cayenne,94900.0,37200 ,2019,462 hp,Electric/Gasoline,Automatic,- (,3.9 
+767,ES,Porsche Cayenne,96990.0,14000 ,2021,340 hp,Gasoline,Automatic,- (,9.3 
+768,ES,Porsche Cayenne,148000.0,10000 ,2020,549 hp,Gasoline,Automatic,- (,11.3 
+769,ES,Porsche Cayenne,266900.0,1800 ,2022,640 hp,Gasoline,Automatic,- (,0 
+770,ES,Porsche Cayenne,8490.0,240000 ,2005,250 hp,Gasoline,Automatic,- (,13.8 
+771,ES,Porsche Cayenne,11000.0,288000 ,2004,250 hp,Gasoline,Manual,- (,13.8 
+772,ES,Porsche Cayenne,15499.0,225000 ,2008,290 hp,Gasoline,Automatic,- (,- (
+773,ES,Porsche Cayenne,15990.0,220000 ,2010,239 hp,Diesel,Automatic,- (,7.4 
+774,ES,Porsche Cayenne,19200.0,105317 ,2008,290 hp,Gasoline,Manual,- (,- (
+775,,,,,,262 hp,,,,
+776,ES,Porsche Cayenne,33900.0,265000 ,2015,385 hp,Diesel,Automatic,- (,6.6 
+777,ES,Porsche Cayenne,33900.0,160000 ,2014,521 hp,Diesel,Automatic,- (,8 
+778,ES,Porsche Cayenne,34900.0,51000 ,2006,420 hp,Gasoline,Automatic,- (,15.7 
+779,ES,Porsche Cayenne,39990.0,149000 ,2013,500 hp,Gasoline,Automatic,- (,10.7 
+780,ES,Porsche Cayenne,40900.0,77600 ,2012,416 hp,Gasoline,Automatic,- (,11.5 
+781,ES,Porsche Cayenne,41900.0,159000 ,2015,416 hp,Electric/Gasoline,Automatic,- (,3.4 
+782,ES,Porsche Cayenne,49999.0,58250 ,2015,519 hp,Electric/Gasoline,Automatic,- (,3.4 
+783,ES,Porsche Cayenne,65900.0,75000 ,2017,340 hp,Gasoline,Automatic,- (,11.2 
+784,ES,Porsche Cayenne,74900.0,61137 ,2018,416 hp,Gasoline,Automatic,- (,- (
+785,ES,Porsche Cayenne,82995.0,14990 ,2020,340 hp,Electric/Gasoline,Automatic,- (,3.4 
+786,ES,Porsche Cayenne,87900.0,36194 ,2019,- hp,Gasoline,Automatic,- (,- (
+787,ES,Porsche Cayenne,89995.0,43470 ,2020,441 hp,Electric/Gasoline,Automatic,- (,- (
+788,ES,Porsche Cayenne,94900.0,35936 ,2018,462 hp,Gasoline,Automatic,- (,- (
+789,ES,Porsche Cayenne,94950.0,37000 ,2020,462 hp,Electric/Gasoline,Automatic,- (,3.1 
+790,ES,Porsche Cayenne,104990.0,15000 ,2020,462 hp,Electric/Gasoline,Automatic,- (,3.1 
+791,ES,Porsche Cayenne,106900.0,19000 ,2021,462 hp,Electric/Gasoline,Automatic,- (,3.1 
+792,ES,Porsche Cayenne,108500.0,18500 ,2020,462 hp,Electric/Gasoline,Automatic,- (,3.1 
+793,ES,Porsche Cayenne,127900.0,2800 ,2021,549 hp,Electric/Gasoline,Automatic,- (,3.1 
+794,ES,Porsche Cayenne,148000.0,15000 ,2020,680 hp,Gasoline,Automatic,- (,11.3 
+795,ES,Porsche Cayenne,179000.0,37608 ,2019,340 hp,Electric/Gasoline,Automatic,- (,3.7 
+796,,,,,,340 hp,,,,
+797,,,,,,340 hp,,,,
+798,ES,Porsche Cayenne,10490.0,235000 ,2006,340 hp,Gasoline,Automatic,- (,- (
+799,,,,,,340 hp,,,,
+800,,,,,,340 hp,,,,
+801,ES,Porsche Cayenne,12150.0,132865 ,2005,340 hp,Gasoline,Automatic,- (,14.9 
+802,ES,Porsche Cayenne,12150.0,132865 ,2005,340 hp,Gasoline,Automatic,- (,14.9 
+803,ES,Porsche Cayenne,12150.0,132865 ,2005,340 hp,Gasoline,Automatic,- (,14.9 
+804,ES,Porsche Cayenne,12150.0,132865 ,2005,340 hp,Gasoline,Automatic,- (,14.9 
+805,ES,Porsche Cayenne,12150.0,132865 ,2005,340 hp,Gasoline,Automatic,- (,14.9 
+806,ES,Porsche Cayenne,12150.0,132865 ,2005,340 hp,Gasoline,Automatic,- (,14.9 
+807,ES,Porsche Cayenne,12150.0,132865 ,2005,340 hp,Gasoline,Automatic,- (,14.9 
+808,ES,Porsche Cayenne,12150.0,132865 ,2005,340 hp,Gasoline,Automatic,- (,14.9 
+809,ES,Porsche Cayenne,12150.0,132865 ,2005,385 hp,Gasoline,Automatic,- (,14.9 
+810,ES,Porsche Cayenne,12150.0,132865 ,2005,385 hp,Gasoline,Automatic,- (,14.9 
+811,ES,Porsche Cayenne,12150.0,132865 ,2005,385 hp,Gasoline,Automatic,- (,14.9 
+812,ES,Porsche Cayenne,12150.0,132865 ,2005,385 hp,Gasoline,Automatic,- (,14.9 
+813,ES,Porsche Cayenne,12150.0,132865 ,2005,385 hp,Gasoline,Automatic,- (,14.9 
+814,ES,Porsche Cayenne,12200.0,247345 ,2007,385 hp,Gasoline,Automatic,- (,13.7 
+815,ES,Porsche Cayenne,12200.0,247345 ,2007,385 hp,Gasoline,Automatic,- (,13.7 
+816,ES,Porsche Cayenne,12200.0,247345 ,2007,385 hp,Gasoline,Automatic,- (,13.7 
+817,ES,Porsche Cayenne,12200.0,247345 ,2007,385 hp,Gasoline,Automatic,- (,13.7 
+818,ES,Porsche Cayenne,12200.0,247345 ,2007,385 hp,Gasoline,Automatic,- (,13.7 
+819,ES,Porsche Cayenne,12200.0,247345 ,2007,385 hp,Gasoline,Automatic,- (,13.7 
+820,ES,Porsche Cayenne,12200.0,247345 ,2007,385 hp,Gasoline,Automatic,- (,13.7 
+821,ES,Porsche Cayenne,12200.0,247345 ,2007,385 hp,Gasoline,Automatic,- (,13.7 
+822,ES,Porsche Cayenne,12200.0,247345 ,2007,385 hp,Gasoline,Automatic,- (,13.7 
+823,ES,Porsche Cayenne,12200.0,247345 ,2007,385 hp,Gasoline,Automatic,- (,13.7 
+824,ES,Porsche Cayenne,12200.0,247345 ,2007,340 hp,Gasoline,Automatic,- (,13.7 
+825,ES,Porsche Cayenne,12200.0,247345 ,2007,450 hp,Gasoline,Automatic,- (,13.7 
+826,ES,Porsche Cayenne,12200.0,247345 ,2007,340 hp,Gasoline,Automatic,- (,13.7 
+827,ES,Porsche Cayenne,12200.0,247345 ,2007,340 hp,Gasoline,Automatic,- (,13.7 
+828,ES,Porsche Cayenne,12200.0,247345 ,2007,340 hp,Gasoline,Automatic,- (,13.7 
+829,,,,,,340 hp,,,,
+830,ES,Porsche Cayenne,12990.0,189000 ,2006,239 hp,Gasoline,Automatic,- (,- (
+831,ES,Porsche Cayenne,12999.0,140000 ,2003,450 hp,Gasoline,Automatic,- (,15.7 
+832,ES,Porsche Cayenne,12999.0,150000 ,2005,385 hp,Gasoline,Manual,- (,14.9 
+833,ES,Porsche Cayenne,12999.0,187000 ,2004,450 hp,Gasoline,Automatic,- (,- (
+834,,,,,,450 hp,,,,
+835,ES,Porsche Cayenne,13900.0,239000 ,2007,385 hp,Gasoline,Manual,- (,14.9 
+836,ES,Porsche Cayenne,13900.0,240000 ,2007,245 hp,Gasoline,Automatic,- (,- (
+837,ES,Porsche Cayenne,13990.0,304965 ,2009,500 hp,Diesel,Automatic,- (,9.3 
+838,ES,Porsche Cayenne,13999.0,109000 ,2003,239 hp,Gasoline,Automatic,- (,15.7 
+839,ES,Porsche Cayenne,13999.0,220000 ,2007,- hp,Gasoline,Automatic,- (,13.7 
+840,ES,Porsche Cayenne,14000.0,210000 ,2005,405 hp,Gasoline,Automatic,- (,15.7 
+841,,,,,,385 hp,,,,
+842,ES,Porsche Cayenne,14500.0,106000 ,2003,385 hp,Gasoline,Automatic,- (,15.7 
+843,,,,,,385 hp,,,,
+844,,,,,,385 hp,,,,
+845,ES,Porsche Cayenne,17900.0,186600 ,2008,385 hp,Gasoline,Automatic,- (,- (
+846,ES,Porsche Cayenne,18700.0,350000 ,2012,385 hp,Diesel,Automatic,- (,7.2 
+847,ES,Porsche Cayenne,18900.0,180000 ,2007,385 hp,Gasoline,Automatic,- (,14.9 
+848,ES,Porsche Cayenne,18990.0,155000 ,2009,385 hp,Diesel,Automatic,- (,9.3 
+849,ES,Porsche Cayenne,19499.0,159000 ,2008,385 hp,Gasoline,Automatic,- (,- (
+850,ES,Porsche Cayenne,19500.0,179000 ,2008,385 hp,Gasoline,Automatic,- (,13.9 
+851,,,,,,,,,,
+852,ES,Porsche Cayenne,19900.0,122012 ,2008,,Gasoline,Automatic,- (,13.7 
+853,ES,Porsche Cayenne,19900.0,122012 ,2008,,Gasoline,Automatic,- (,13.7 
+854,ES,Porsche Cayenne,19900.0,122012 ,2008,,Gasoline,Automatic,- (,13.7 
+855,ES,Porsche Cayenne,19900.0,122012 ,2008,,Gasoline,Automatic,- (,13.7 
+856,ES,Porsche Cayenne,19900.0,122012 ,2008,,Gasoline,Automatic,- (,13.7 
+857,ES,Porsche Cayenne,19900.0,122012 ,2008,,Gasoline,Automatic,- (,13.7 
+858,ES,Porsche Cayenne,19900.0,122012 ,2008,,Gasoline,Automatic,- (,13.7 
+859,ES,Porsche Cayenne,19900.0,122012 ,2008,,Gasoline,Automatic,- (,13.7 
+860,ES,Porsche Cayenne,19900.0,122012 ,2008,,Gasoline,Automatic,- (,13.7 
+861,ES,Porsche Cayenne,19900.0,122012 ,2008,,Gasoline,Automatic,- (,13.7 
+862,IT,Porsche Cayenne,6000.0,170856 ,2004,250 hp,LPG,Automatic,317 ,13.2 
+863,IT,Porsche Cayenne,9900.0,175000 ,2005,250 hp,LPG,Automatic,320 ,13.2 
+864,IT,Porsche Cayenne,10900.0,227000 ,2006,250 hp,Gasoline,Automatic,320 ,13.2 
+865,IT,Porsche Cayenne,11400.0,159999 ,2004,340 hp,Gasoline,Automatic,361 ,14.9 
+866,IT,Porsche Cayenne,12000.0,192334 ,2006,340 hp,Gasoline,Automatic,380 ,15.8 
+867,IT,Porsche Cayenne,12900.0,282260 ,2007,385 hp,Gasoline,Manual,358 ,14.9 
+868,,,,,,239 hp,,,,
+869,IT,Porsche Cayenne,18900.0,390000 ,2011,385 hp,Diesel,Automatic,195 ,7.4 
+870,IT,Porsche Cayenne,19000.0,120000 ,2009,239 hp,Gasoline,Automatic,358 ,14.9 
+871,IT,Porsche Cayenne,22800.0,178547 ,2010,245 hp,Diesel,Automatic,244 ,9.3 
+872,IT,Porsche Cayenne,25900.0,210645 ,2012,400 hp,Diesel,Automatic,189 ,7.2 
+873,IT,Porsche Cayenne,26000.0,190000 ,2012,239 hp,Gasoline,Automatic,245 ,10.5 
+874,IT,Porsche Cayenne,27500.0,146000 ,2011,245 hp,Diesel,Automatic,- (,52 
+875,IT,Porsche Cayenne,28000.0,160000 ,2013,245 hp,Diesel,Automatic,189 ,7.2 
+876,IT,Porsche Cayenne,29900.0,155600 ,2012,245 hp,Diesel,Automatic,189 ,7.2 
+877,IT,Porsche Cayenne,29900.0,235000 ,2014,245 hp,Diesel,Automatic,189 ,7.2 
+878,IT,Porsche Cayenne,31900.0,143000 ,2014,245 hp,Diesel,Automatic,189 ,7 
+879,IT,Porsche Cayenne,31900.0,149528 ,2013,260 hp,Diesel,Automatic,189 ,7.2 
+880,IT,Porsche Cayenne,32900.0,225000 ,2016,245 hp,Diesel,Automatic,173 ,6.6 
+881,IT,Porsche Cayenne,33549.0,82664 ,2013,245 hp,Diesel,Automatic,189 ,- (
+882,IT,Porsche Cayenne,33549.0,82664 ,2013,245 hp,Diesel,Automatic,189 ,- (
+883,IT,Porsche Cayenne,33549.0,82664 ,2013,250 hp,Diesel,Automatic,189 ,- (
+884,IT,Porsche Cayenne,45900.0,69000 ,2016,250 hp,Diesel,Automatic,179 ,6.8 
+885,IT,Porsche Cayenne,45999.0,90000 ,2017,250 hp,Diesel,Automatic,179 ,6.8 
+886,IT,Porsche Cayenne,48000.0,72000 ,2015,333 hp,Diesel,Automatic,173 ,6.6 
+887,IT,Porsche Cayenne,49800.0,126000 ,2017,250 hp,Electric/Gasoline,Automatic,79 ,3.4 
+888,IT,Porsche Cayenne,52900.0,99000 ,2017,250 hp,Diesel,Automatic,179 ,6.8 
+889,IT,Porsche Cayenne,54700.0,76744 ,2016,385 hp,Diesel,Automatic,173 ,6.6 
+890,IT,Porsche Cayenne,54900.0,133000 ,2017,239 hp,Diesel,Semi-automatic,209 ,8 
+891,IT,Porsche Cayenne,57500.0,29700 ,2017,340 hp,Diesel,Automatic,173 ,6.6 
+892,,,,,,340 hp,,,,
+893,IT,Porsche Cayenne,72900.0,42000 ,2018,441 hp,Gasoline,Automatic,210 ,9.2 
+894,IT,Porsche Cayenne,74115.0,52500 ,2018,441 hp,Gasoline,Automatic,205 ,9 
+895,IT,Porsche Cayenne,74890.0,67609 ,2017,441 hp,Gasoline,Automatic,209 ,9.2 
+896,IT,Porsche Cayenne,77890.0,54378 ,2018,340 hp,Gasoline,Automatic,209 ,9.2 
+897,IT,Porsche Cayenne,79900.0,34058 ,2018,340 hp,Gasoline,Automatic,209 ,9.2 
+898,IT,Porsche Cayenne,89900.0,47000 ,2019,549 hp,Gasoline,Automatic,214 ,9.4 
+899,IT,Porsche Cayenne,89900.0,36345 ,2021,340 hp,Gasoline,Automatic,210 ,9.2 
+900,IT,Porsche Cayenne,89990.0,51000 ,2018,340 hp,Gasoline,Automatic,267 ,11.7 
+901,IT,Porsche Cayenne,92900.0,8900 ,2020,340 hp,Gasoline,Automatic,210 ,9.2 
+902,IT,Porsche Cayenne,93900.0,16000 ,2019,549 hp,Gasoline,Automatic,214 ,9.4 
+903,IT,Porsche Cayenne,94900.0,15000 ,2019,462 hp,Gasoline,Automatic,205 ,9 
+904,IT,Porsche Cayenne,98500.0,42312 ,2018,340 hp,Gasoline,Automatic,305 ,11.4 
+905,,,,,,462 hp,,,,
+906,IT,Porsche Cayenne,108400.0,18134 ,2020,340 hp,Electric/Gasoline,Automatic,71 ,3.1 
+907,IT,Porsche Cayenne,113900.0,46900 ,2020,340 hp,Electric/Gasoline,Automatic,58 ,2.5 
+908,IT,Porsche Cayenne,115400.0,1098 ,2022,340 hp,Electric/Gasoline,Automatic,71 ,2.4 
+909,IT,Porsche Cayenne,117900.0,4000 ,2022,462 hp,Gasoline,Automatic,- (,- (
+910,IT,Porsche Cayenne,117900.0,12000 ,2021,460 hp,Electric/Gasoline,Automatic,56 ,2.4 
+911,IT,Porsche Cayenne,124900.0,4000 ,2022,460 hp,Electric/Gasoline,Automatic,- (,- (
+912,IT,Porsche Cayenne,129500.0,10 ,2022,549 hp,Electric/Gasoline,Automatic,58 ,2.5 
+913,IT,Porsche Cayenne,134000.0,27649 ,2021,460 hp,Gasoline,Automatic,256 ,11.2 
+914,IT,Porsche Cayenne,135890.0,21393 ,2020,549 hp,Gasoline,Automatic,302 ,11.2 
+915,IT,Porsche Cayenne,135900.0,27094 ,2020,250 hp,Gasoline,Automatic,261 ,11.4 
+916,IT,Porsche Cayenne,143900.0,1 ,2021,250 hp,Gasoline,Automatic,- (,- (
+917,IT,Porsche Cayenne,163900.0,34500 ,2020,250 hp,Electric/Gasoline,Automatic,73 ,3.2 
+918,IT,Porsche Cayenne,3900.0,271000 ,2005,450 hp,CNG,Automatic,5 ,13.2 kg/100 km 
+919,,,,,,239 hp,,,,
+920,,,,,,340 hp,,,,
+921,,,,,,340 hp,,,,
+922,IT,Porsche Cayenne,9900.0,180000 ,2005,340 hp,Gasoline,Manual,- (,13.2 
+923,IT,Porsche Cayenne,9900.0,248000 ,2006,385 hp,Gasoline,Automatic,320 ,13.2 
+924,IT,Porsche Cayenne,9999.0,180000 ,2004,340 hp,Gasoline,Semi-automatic,- (,15.7 
+925,,,,,,450 hp,,,,
+926,,,,,,450 hp,,,,
+927,IT,Porsche Cayenne,11000.0,239758 ,2009,299 hp,Diesel,Automatic,244 ,9.3 
+928,IT,Porsche Cayenne,11000.0,149000 ,2003,290 hp,Gasoline,Automatic,- (,15.8 
+929,IT,Porsche Cayenne,11000.0,156000 ,2006,,Gasoline,Manual,- (,15.8 
+930,,,,,,,,,,
+931,IT,Porsche Cayenne,11900.0,153000 ,2004,,Gasoline,Automatic,- (,15.8 
+932,,,,,,,,,,
+933,,,,,,,,,,
+934,IT,Porsche Cayenne,13900.0,170000 ,2008,,Gasoline,Automatic,358 ,14.9 
+935,,,,,,,,,,
+936,IT,Porsche Cayenne,14900.0,211000 ,2003,,Gasoline,Automatic,361 ,14.9 
+937,IT,Porsche Cayenne,14900.0,129230 ,2008,,Gasoline,Automatic,378 ,15.7 
+938,IT,Porsche Cayenne,14900.0,223000 ,2003,,Gasoline,Automatic,378 ,15.7 
+939,,,,,,,,,,
+940,,,,,,,,,,
+941,,,,,,,,,,
+942,IT,Porsche Cayenne,18900.0,331000 ,2010,,Gasoline,Automatic,236 ,11.2 
+943,IT,Porsche Cayenne,18990.0,101141 ,2008,,LPG,Automatic,296 ,12.9 
+944,,,,,,,,,,
+945,BE,Porsche Cayenne,17900.0,317383 ,2012,211 hp,Diesel,Automatic,189 ,7.2 
+946,BE,Porsche Cayenne,22900.0,195000 ,2011,400 hp,Gasoline,Automatic,245 ,10.5 
+947,BE,Porsche Cayenne,53990.0,123090 ,2016,333 hp,Electric/Gasoline,Automatic,79 ,- (
+948,BE,Porsche Cayenne,55990.0,95605 ,2016,333 hp,Electric/Gasoline,Automatic,75 ,- (
+949,BE,Porsche Cayenne,66995.0,67856 ,2018,340 hp,Gasoline,Automatic,210 ,9.2 
+950,BE,Porsche Cayenne,74900.0,19000 ,2019,340 hp,Gasoline,Automatic,207 ,9.5 
+951,BE,Porsche Cayenne,74995.0,43512 ,2019,340 hp,Gasoline,Automatic,217 ,9.5 
+952,BE,Porsche Cayenne,109900.0,7000 ,2021,340 hp,Electric/Gasoline,Automatic,58 ,2.4 
+953,,,,,,340 hp,,,,
+954,BE,Porsche Cayenne,76490.0,16652 ,2019,340 hp,Gasoline,Automatic,209 ,9.2 
+955,BE,Porsche Cayenne,95800.0,12000 ,2020,340 hp,Gasoline,Automatic,212 ,9.4 
+956,BE,Porsche Cayenne,102900.0,6500 ,2021,462 hp,Gasoline,Automatic,214 ,9.4 
+957,BE,Porsche Cayenne,124900.0,19947 ,2020,340 hp,Electric/Gasoline,Automatic,72 ,2.6 
+958,BE,Porsche Cayenne,9990.0,183000 ,2003,239 hp,Gasoline,Automatic,361 ,14.9 
+959,BE,Porsche Cayenne,22999.0,179000 ,2011,333 hp,Diesel,Automatic,195 ,7.4 
+960,BE,Porsche Cayenne,52990.0,118492 ,2016,333 hp,Electric/Gasoline,Automatic,79 ,- (
+961,BE,Porsche Cayenne,54990.0,91234 ,2016,340 hp,Electric/Gasoline,Automatic,79 ,- (
+962,BE,Porsche Cayenne,108000.0,6850 ,2020,340 hp,Electric/Gasoline,Automatic,60 ,2.6 
+963,BE,Porsche Cayenne,229900.0,1000 ,,400 hp,,,,
+964,,,,,,245 hp,,,,
+965,,,,,,400 hp,,,,
+966,,,,,2004,400 hp,Gasoline,Manual,380 ,15.8 
+967,BE,Porsche Cayenne,12990.0,166730 ,,211 hp,,,,
+968,,,,,,540 hp,,,,
+969,,,,,2013,211 hp,Gasoline,Automatic,- (,10.5 
+970,BE,Porsche Cayenne,22499.0,107895 ,,382 hp,,,,
+971,,,,,,,,,,
+972,,,,,,,,,,
+973,,,,,2014,,Diesel,Automatic,189 ,7.2 
+974,BE,Porsche Cayenne,29950.0,147849 ,2011,,Gasoline,Automatic,- (,10.5 
+975,BE,Porsche Cayenne,29950.0,127000 ,2011,,Gasoline,Automatic,- (,10.5 
+976,BE,Porsche Cayenne,29950.0,127000 ,2014,,Diesel,Automatic,- (,7.2 
+977,BE,Porsche Cayenne,29990.0,155000 ,2012,,Gasoline,Automatic,270 ,11.5 
+978,BE,Porsche Cayenne,29990.0,188465 ,2012,,Diesel,Automatic,195 ,7.4 
+979,BE,Porsche Cayenne,29995.0,139000 ,2013,,Diesel,Automatic,218 ,8.3 
+980,BE,Porsche Cayenne,29999.0,224000 ,,,,,,
+981,,,,,,,,,,
+982,NL,Porsche Cayenne,10950.0,283754 ,2007,290 hp,Gasoline,Automatic,310 ,12.9 
+983,NL,Porsche Cayenne,16950.0,99170 ,2007,340 hp,LPG,Automatic,361 ,14.9 
+984,NL,Porsche Cayenne,17950.0,129273 ,2004,450 hp,Gasoline,Automatic,- (,15.7 
+985,NL,Porsche Cayenne,23750.0,239199 ,2012,245 hp,Diesel,Automatic,189 ,7.2 
+986,NL,Porsche Cayenne,23950.0,198554 ,2010,400 hp,Gasoline,Automatic,245 ,10.5 
+987,NL,Porsche Cayenne,26950.0,205317 ,2012,245 hp,Diesel,Automatic,189 ,7.3 
+988,NL,Porsche Cayenne,26950.0,158360 ,2011,245 hp,Diesel,Automatic,189 ,7.2 
+989,NL,Porsche Cayenne,29950.0,134424 ,2011,300 hp,Gasoline,Automatic,236 ,9.9 
+990,NL,Porsche Cayenne,30980.0,149986 ,2012,245 hp,Diesel,Automatic,189 ,7.3 
+991,,,,,,333 hp,,,,
+992,NL,Porsche Cayenne,34980.0,125405 ,2011,519 hp,Electric/Gasoline,Automatic,193 ,- (
+993,,,,,,340 hp,,,,
+994,NL,Porsche Cayenne,61950.0,159958 ,2015,340 hp,Gasoline,Automatic,0 ,11.2 
+995,NL,Porsche Cayenne,76800.0,73859 ,2018,441 hp,Gasoline,Automatic,205 ,9.2 
+996,NL,Porsche Cayenne,76900.0,114052 ,2018,383 hp,Gasoline,Automatic,0 ,9.2 
+997,NL,Porsche Cayenne,77950.0,116349 ,2018,421 hp,Gasoline,Automatic,209 ,9.2 
+998,NL,Porsche Cayenne,79980.0,61292 ,2015,441 hp,Diesel,Automatic,209 ,8 
+999,NL,Porsche Cayenne,81950.0,25277 ,2018,441 hp,Gasoline,Automatic,229 ,9.5 
+1000,NL,Porsche Cayenne,85950.0,68214 ,2018,441 hp,Gasoline,Automatic,209 ,9.2 
+1001,NL,Porsche Cayenne,95900.0,49750 ,2018,340 hp,Gasoline,Automatic,209 ,9.2 
+1002,NL,Porsche Cayenne,99910.0,57840 ,2018,551 hp,Gasoline,Automatic,- (,11.8 
+1003,NL,Porsche Cayenne,106950.0,34899 ,2019,462 hp,Gasoline,Automatic,215 ,11.6 
+1004,NL,Porsche Cayenne,119500.0,62300 ,2018,441 hp,Gasoline,Automatic,267 ,11.7 
+1005,NL,Porsche Cayenne,125950.0,29465 ,2021,551 hp,Electric/Gasoline,Automatic,0 ,3.1 
+1006,NL,Porsche Cayenne,129900.0,26229 ,2019,551 hp,Gasoline,Automatic,0 ,12 
+1007,NL,Porsche Cayenne,131980.0,47464 ,2018,462 hp,Gasoline,Automatic,267 ,11.7 
+1008,NL,Porsche Cayenne,144950.0,54083 ,2019,551 hp,Gasoline,Automatic,0 ,13.5 
+1009,NL,Porsche Cayenne,149800.0,23 ,2022,551 hp,Electric/Gasoline,Automatic,0 ,3.1 
+1010,NL,Porsche Cayenne,152400.0,16499 ,2019,340 hp,Gasoline,Automatic,261 ,11.4 
+1011,NL,Porsche Cayenne,169800.0,12200 ,2019,405 hp,Gasoline,Automatic,- (,- (
+1012,NL,Porsche Cayenne,11656.0,127704 ,2003,245 hp,Gasoline,Automatic,0 ,15.8 
+1013,NL,Porsche Cayenne,18945.0,199563 ,2008,462 hp,Gasoline,Automatic,332 ,13.9 
+1014,NL,Porsche Cayenne,25940.0,172110 ,2011,462 hp,Diesel,Automatic,189 ,7.3 
+1015,NL,Porsche Cayenne,116950.0,7990 ,2021,462 hp,Electric/Gasoline,Automatic,- (,3.1 
+1016,NL,Porsche Cayenne,121950.0,9860 ,2021,680 hp,Electric/Gasoline,Automatic,- (,3.2 
+1017,NL,Porsche Cayenne,157750.0,6000 ,2021,250 hp,Electric/Gasoline,Automatic,77 ,3.1 
+1018,NL,Porsche Cayenne,212750.0,12500 ,2021,250 hp,Electric/Gasoline,Automatic,86 ,3.8 
+1019,,,,,,340 hp,,,,
+1020,,,,,,340 hp,,,,
+1021,,,,,,340 hp,,,,
+1022,NL,Porsche Cayenne,9900.0,191081 ,2005,451 hp,Gasoline,Automatic,- (,- (
+1023,NL,Porsche Cayenne,9950.0,226159 ,2005,385 hp,Gasoline,Automatic,324 ,- (
+1024,NL,Porsche Cayenne,9950.0,276666 ,2005,451 hp,Gasoline,Automatic,361 ,14.9 
+1025,NL,Porsche Cayenne,9950.0,279355 ,2004,451 hp,Gasoline,Automatic,361 ,- (
+1026,,,,,,385 hp,,,,
+1027,NL,Porsche Cayenne,10950.0,205315 ,2002,385 hp,Gasoline,Automatic,- (,- (
+1028,,,,,,385 hp,,,,
+1029,NL,Porsche Cayenne,12500.0,241159 ,2003,451 hp,Gasoline,Automatic,378 ,15.7 
+1030,,,,,,290 hp,,,,
+1031,NL,Porsche Cayenne,13750.0,182243 ,2008,450 hp,Gasoline,Automatic,329 ,13.7 
+1032,NL,Porsche Cayenne,13800.0,251761 ,2005,451 hp,Gasoline,Automatic,378 ,15.7 
+1033,NL,Porsche Cayenne,13945.0,285991 ,2003,450 hp,Gasoline,Automatic,378 ,15.7 
+1034,NL,Porsche Cayenne,13950.0,243461 ,2007,383 hp,Gasoline,Automatic,329 ,- (
+1035,NL,Porsche Cayenne,13950.0,213185 ,2007,450 hp,Gasoline,Automatic,329 ,13.7 
+1036,NL,Porsche Cayenne,13995.0,194396 ,2007,500 hp,Gasoline,Automatic,329 ,- (
+1037,NL,Porsche Cayenne,13995.0,198334 ,2004,400 hp,Gasoline,Automatic,378 ,15.7 
+1038,NL,Porsche Cayenne,13999.0,236482 ,2007,500 hp,Gasoline,Automatic,310 ,12.9 
+1039,NL,Porsche Cayenne,14945.0,145897 ,2004,340 hp,Gasoline,Automatic,378 ,- (
+1040,NL,Porsche Cayenne,14945.0,247708 ,2005,241 hp,Gasoline,Automatic,378 ,15.7 
+1041,,,,,,245 hp,,,,
+1042,NL,Porsche Cayenne,15950.0,160459 ,2003,239 hp,Gasoline,Automatic,378 ,15.7 
+1043,NL,Porsche Cayenne,16800.0,193850 ,2008,400 hp,Gasoline,Automatic,329 ,13.7 
+1044,NL,Porsche Cayenne,16950.0,146317 ,2003,400 hp,Gasoline,Automatic,- (,- (
+1045,,,,,,451 hp,,,,
+1046,,,,,,451 hp,,,,
+1047,,,,,,299 hp,,,,
+1048,NL,Porsche Cayenne,23950.0,68495 ,2006,400 hp,Gasoline,Automatic,0 ,14.9 
+1049,NL,Porsche Cayenne,23950.0,246148 ,2010,500 hp,Gasoline,Automatic,245 ,10.5 
+1050,NL,Porsche Cayenne,23999.0,261889 ,2010,245 hp,Gasoline,Automatic,270 ,11.5 
+1051,NL,Porsche Cayenne,24750.0,77421 ,2004,400 hp,Gasoline,Automatic,361 ,14.9 
+1052,NL,Porsche Cayenne,24900.0,213886 ,2011,245 hp,Diesel,Automatic,195 ,7.4 
+1053,NL,Porsche Cayenne,24900.0,268094 ,2013,398 hp,Diesel,Automatic,189 ,7.2 
+1054,NL,Porsche Cayenne,24900.0,219812 ,2010,500 hp,Diesel,Automatic,195 ,7.4 
+1055,NL,Porsche Cayenne,24950.0,225902 ,2011,500 hp,Gasoline,Automatic,245 ,10.5 
+1056,NL,Porsche Cayenne,24950.0,237743 ,2010,500 hp,Gasoline,Automatic,245 ,10.5 
+1057,NL,Porsche Cayenne,24950.0,54092 ,2005,400 hp,Gasoline,Automatic,0 ,15.7 
+1058,NL,Porsche Cayenne,24950.0,50956 ,2003,451 hp,Gasoline,Automatic,0 ,15.7 
+1059,NL,Porsche Cayenne,24995.0,195400 ,2010,245 hp,Gasoline,Automatic,236 ,9.9 
+1060,NL,Porsche Cayenne,25000.0,192805 ,2010,451 hp,Gasoline,Automatic,245 ,10.5 
+1061,NL,Porsche Cayenne,25750.0,238873 ,2011,245 hp,Gasoline,Automatic,270 ,- (
+1062,NL,Porsche Cayenne,25750.0,201779 ,2012,334 hp,Diesel,Automatic,189 ,7.2 
+1063,,,,,,333 hp,,,,
+1064,NL,Porsche Cayenne,26950.0,176491 ,2010,450 hp,Gasoline,Automatic,245 ,10.5 
+1065,NL,Porsche Cayenne,26995.0,204222 ,2012,400 hp,Diesel,Automatic,189 ,- (
+1066,NL,Porsche Cayenne,26995.0,161000 ,2010,333 hp,Gasoline,Automatic,245 ,- (
+1067,,,,,,382 hp,,,,
+1068,NL,Porsche Cayenne,27950.0,71005 ,2007,333 hp,Gasoline,Automatic,0 ,14.9 
+1069,NL,Porsche Cayenne,27999.0,184004 ,2010,400 hp,Gasoline,Automatic,270 ,- (
+1070,NL,Porsche Cayenne,28750.0,73000 ,2007,500 hp,Gasoline,Automatic,- (,- (
+1071,NL,Porsche Cayenne,28950.0,143094 ,2011,450 hp,Gasoline,Automatic,348 ,- (
+1072,NL,Porsche Cayenne,28950.0,58856 ,2006,,Gasoline,Automatic,0 ,15.7 
+1073,NL,Porsche Cayenne,28950.0,123250 ,2012,,Diesel,Automatic,189 ,7.3 
+1074,NL,Porsche Cayenne,28950.0,50122 ,2005,,Gasoline,Automatic,378 ,15.7 
+1075,NL,Porsche Cayenne,29900.0,181400 ,2012,,Diesel,Automatic,189 ,7.2 
+1076,NL,Porsche Cayenne,29900.0,210682 ,2010,,Electric/Gasoline,Automatic,193 ,8.2 
+1077,NL,Porsche Cayenne,29944.0,151058 ,2010,,Electric/Gasoline,Automatic,193 ,8.2 
+1078,NL,Porsche Cayenne,29950.0,90000 ,2006,,Gasoline,Automatic,378 ,15.7 
+1079,NL,Porsche Cayenne,29950.0,153834 ,2011,,Gasoline,Automatic,345 ,10.5 
+1080,NL,Porsche Cayenne,29950.0,159582 ,2011,,Electric/Gasoline,Automatic,193 ,- (
+1081,NL,Porsche Cayenne,29950.0,219365 ,2013,,Diesel,Automatic,218 ,8.3 
+1082,NL,Porsche Cayenne,29950.0,142638 ,2010,,Gasoline,Automatic,193 ,8.2 
+1083,NL,Porsche Cayenne,29950.0,124219 ,2010,,Gasoline,Automatic,245 ,10.5 
+1084,NL,Porsche Cayenne,29995.0,191000 ,2010,,Gasoline,Automatic,270 ,11.5 
+1085,NL,Porsche Cayenne,29995.0,44000 ,2004,,Gasoline,Automatic,378 ,15.7 
+1086,,,,,,,,,,
