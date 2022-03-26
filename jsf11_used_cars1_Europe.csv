@@ -116,7 +116,7 @@
 114,FR,MINI One D,8900.0,145976 ,2012,124 hp,Diesel,Manual,99 ,- (
 115,FR,MINI Cooper S,8900.0,164000 ,2011,114 hp,Gasoline,Manual,- (,- (
 116,,,,,,,,,,
-117,FR,MINI Cooper S,8990.0,149887 ,2011,,- (Fuel),Manual,- (,- (
+117,FR,MINI Cooper S,8990.0,149887 ,2011,,Diesel,Manual,- (,- (
 118,FR,MINI One D,8990.0,102117 ,2011,,Diesel,Manual,99 ,- (
 119,FR,MINI Cooper,8990.0,119000 ,2013,,Gasoline,Manual,150 ,6.4 
 120,FR,MINI One,8990.0,39335 ,2010,,Gasoline,Manual,- (,- (
@@ -178,16 +178,16 @@
 176,FR,Audi A3,29990.0,32177 ,2019,190 hp,Gasoline,Automatic,128 ,- (
 177,FR,Audi A3,30225.0,29544 ,2020,150 hp,Gasoline,Automatic,117 ,5.2 
 178,FR,Audi A3,30990.0,13218 ,2020,- hp,Gasoline,Automatic,- (,- (
-179,FR,Audi A3,31499.0,18059 ,2020,152 hp,Others,- (Gearing Type),40 ,- (
+179,FR,Audi A3,31499.0,18059 ,2020,152 hp,Diesel,- (Gearing Type),40 ,- (
 180,FR,Audi A3,31500.0,25153 ,2020,150 hp,Diesel,Automatic,98 ,3.7 
-181,FR,Audi A3,31999.0,10092 ,2020,152 hp,Others,- (Gearing Type),40 ,- (
+181,FR,Audi A3,31999.0,10092 ,2020,152 hp,Diesel,- (Gearing Type),40 ,- (
 182,FR,Audi A3,34025.0,16221 ,2020,150 hp,Diesel,Automatic,100 ,3.8 
-183,FR,Audi A3,34490.0,22340 ,2021,- hp,- (Fuel),Automatic,- (,- (
+183,FR,Audi A3,34490.0,22340 ,2021,- hp,Diesel,Automatic,- (,- (
 184,FR,Audi A3,34778.0,10 ,2022,110 hp,Gasoline,Automatic,- (,- (
 185,FR,Audi A3,35990.0,69000 ,2020,150 hp,Gasoline,Manual,119 ,5.5 
 186,FR,Audi A3,37890.0,10813 ,2020,- hp,Diesel,Automatic,130 ,- (
 187,FR,Audi A3,37900.0,7000 ,2022,- hp,Diesel,Automatic,- (,- (
-188,FR,Audi A3,38490.0,10111 ,2021,- hp,- (Fuel),Automatic,- (,- (
+188,FR,Audi A3,38490.0,10111 ,2021,- hp,Diesel,Automatic,- (,- (
 189,FR,Audi A3,38990.0,10 ,2021,150 hp,Diesel,Automatic,112 ,4.5 
 190,FR,Audi A3,39990.0,100 ,2021,150 hp,Electric/Gasoline,Automatic,134 ,5 
 191,FR,Audi A3,39990.0,10 ,2021,150 hp,Diesel,Automatic,107 ,4 
@@ -235,8 +235,8 @@
 233,,,,,,,,,,
 234,FR,Renault Megane,2490.0,258250 ,2004,101 hp,Diesel,Manual,119 ,4.5 
 235,FR,Renault Megane,4990.0,127794 ,2013,90 hp,Diesel,Manual,104 ,- (
-236,FR,Renault Megane,4990.0,196900 ,2011,110 hp,Diesel,Manual,106 ,- (
-237,FR,Renault Megane,4990.0,149000 ,2010,110 hp,Ethanol,Manual,- (,- (
+236,FR,Renault Megane,4990.0,196000 ,2011,110 hp,Diesel,Manual,106 ,- (
+237,FR,Renault Megane,4990.0,149000 ,2010,110 hp,Diesel,Manual,- (,- (
 238,FR,Renault Megane,5790.0,122000 ,2010,86 hp,Diesel,Manual,- (,4.4 
 239,FR,Renault Megane,6490.0,141000 ,2014,110 hp,Diesel,Manual,90 ,- (
 240,FR,Renault Megane,7990.0,141882 ,2016,110 hp,Diesel,Manual,90 ,3.5 
@@ -810,7 +810,7 @@
 808,ES,Renault Megane,19990.0,14437 ,2021,140 hp,Gasoline,Automatic,- (,5.4 
 809,ES,Renault Megane,20500.0,20787 ,2021,116 hp,Diesel,Manual,- (,4.1 
 810,ES,Renault Megane,20500.0,20787 ,2021,116 hp,Diesel,Manual,- (,4.1 
-811,ES,Renault Megane,21900.0,11271 ,2020,160 hp,Others,Automatic,- (,- (
+811,ES,Renault Megane,21900.0,11271 ,2020,160 hp,Diesel,Automatic,- (,- (
 812,ES,Renault Megane,22712.0,9650 ,2020,159 hp,Electric/Gasoline,Automatic,- (,0 
 813,ES,Renault Megane,23990.0,11560 ,2021,159 hp,Electric/Gasoline,Automatic,- (,0 
 814,,,,,,80 hp,,,,
